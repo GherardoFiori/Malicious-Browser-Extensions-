@@ -20,6 +20,16 @@ This dataset enables:
 - Behavioral modeling for detection systems
 - Benchmarking AI-based classification models
 
+The IDs of the browser extensions found in this database are retrivered by news articles realted to Malicious Browser Extensions such as: 
+
+https://thehackernews.com/
+https://layerxsecurity.com/
+https://securelist.com/
+https://www.bleepingcomputer.com/
+
+Blogs and many more. 
+
+
 ⚠️ Disclaimer
 
 This repository contains malicious software samples.
