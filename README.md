@@ -1,4 +1,4 @@
-# Malicious-Browser-Extensions-
+# Malicious-Browser-Extensions
 ![Malicious Extensions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GherardoFiori/Malicious-Browser-Extensions-/main/count.json)
 # Overview
 
