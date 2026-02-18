@@ -2,6 +2,8 @@
 ![Malicious Extensions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GherardoFiori/MaliciousBrowserExtensions/main/count.json)
 # Overview
 
+❗ The owner and contributors are NOT RESPONSIBLE in any shape or form for any damage inflicted by the negligent use of samples stored in the repository, users must take necessary precautions prior to executing the samples.
+
 This repository consolidates malicious browser extensions identified through:
 - Independent security research
 - Public incident disclosures
