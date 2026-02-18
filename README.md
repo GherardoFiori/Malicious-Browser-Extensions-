@@ -23,15 +23,17 @@ This dataset enables:
 - Benchmarking AI-based classification models
 
 The IDs of the browser extensions found in this database are retrivered by news articles realted to Malicious Browser Extensions such as: 
-
-https://thehackernews.com/
-https://layerxsecurity.com/
-https://securelist.com/
-https://www.bleepingcomputer.com/
-
-Blogs and many more. 
+<ul>
+<li>https://thehackernews.com/</li>
+<li>https://layerxsecurity.com/</li>
+<li>https://securelist.com/</li>
+<li>https://www.bleepingcomputer.com/</li>
+<li>Blogs and many more. </li>
+</ul>
 
 All automatically done using TINES
+
+<br>
 <img width="474" height="291" alt="image" src="https://github.com/user-attachments/assets/ed05bf47-9251-416d-938b-52ffcc8ab437" />
 
 
