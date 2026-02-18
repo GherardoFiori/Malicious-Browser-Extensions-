@@ -50,3 +50,6 @@ All samples originate from publicly reported malicious extensions.
 
 This repository does not redistribute proprietary software for exploitation purposes.
 It exists solely for defensive cybersecurity research.
+
+More about me: 
+https://buio.me/
