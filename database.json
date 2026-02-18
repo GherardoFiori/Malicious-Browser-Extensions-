@@ -1,13 +1,20 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-02-18T19:05:03.152135+00:00",
-  "total_samples": 1,
+  "last_updated": "2026-02-18T19:05:41.275602+00:00",
+  "total_samples": 2,
   "extensions": [
     {
       "extension_id": "unknown",
       "source_url": "",
       "date_reported": "",
       "date_added": "2026-02-18T19:05:02.992704+00:00",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "unknown",
+      "source_url": "",
+      "date_reported": "",
+      "date_added": "2026-02-18T19:05:41.105261+00:00",
       "crx_sha256": ""
     }
   ]
