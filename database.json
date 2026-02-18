@@ -1,7 +1,14 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-02-18T19:18:19.328162+00:00",
-  "total_samples": 11,
+  "last_updated": "2026-02-18T19:20:43.575248+00:00",
+  "total_samples": 1,
   "extensions": [
+    {
+      "extension_id": "jnkmepoonohhfijlbajdphhinhkoefjn",
+      "source_url": "https://layerxsecurity.com/blog/silent-takeover-how-purchased-chrome-extensions-became-remote-controlled-webpage-manipulation-tools/",
+      "date_reported": "Wed, 24 Dec 2025 13:21:09 +0000",
+      "date_added": "2026-02-18",
+      "crx_sha256": "af4e86fd614bf7021a165121d004ce66527359fd09d027d697d1ff9d9dbd9ec8"
+    }
   ]
 }
