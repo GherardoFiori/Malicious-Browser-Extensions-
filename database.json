@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-02-19T09:10:13.409660+00:00",
-  "total_samples": 191,
+  "last_updated": "2026-02-19T09:10:47.334130+00:00",
+  "total_samples": 192,
   "extensions": [
     {
       "extension_id": "oeiomhmbaapihbilkfkhmlajkeegnjhe",
@@ -1335,6 +1335,13 @@
     },
     {
       "extension_id": "fnmihdojmnkclgjpcoonokmkhjpjechg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ecikmpoikkcelnakpgaeplcjoickgacj",
       "source_url": "null",
       "date_reported": "null",
       "date_added": "2026-02-19",
