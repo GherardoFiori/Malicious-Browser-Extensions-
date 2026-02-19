@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-02-19T09:08:21.438590+00:00",
-  "total_samples": 13,
+  "last_updated": "2026-02-19T09:10:13.409660+00:00",
+  "total_samples": 191,
   "extensions": [
     {
       "extension_id": "oeiomhmbaapihbilkfkhmlajkeegnjhe",
@@ -93,6 +93,1252 @@
       "date_reported": "null",
       "date_added": "2026-02-19",
       "crx_sha256": "58f86a211abc5ad3b414d1740b13a2b8d081f79f51788ae8267641e208c48c8e"
+    },
+    {
+      "extension_id": "abbngaojehjekanfdipifimgmppiojpl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "193cd1cbac94d14fdd72870cc278bd7736c086d394b4029e0db89cae243df676"
+    },
+    {
+      "extension_id": "hjngolefdpdnooamgdldlkjgmdcmcjnc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "aikflfpejipbpjdlfabpgclhblkpaafo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "coplmfnphahpcknbchcehdikbdieognn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "bc007bcae75b0110f777d103a44f1929be6bb8d8f952a762ed13adc11423f026"
+    },
+    {
+      "extension_id": "jlbpahgopcmomkgegpbmopfodolajhbl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "1e0a7c0da29c8c2a74488965a897436d0844b5b43c94b0f9c0745befe251ee67"
+    },
+    {
+      "extension_id": "kkodiihpgodmdankclfibbiphjkfdenh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "d8aa870e0a221504aca391fce790bde1f464908d29aec7df5fedea689d9ef8ab"
+    },
+    {
+      "extension_id": "almalgbpmcfpdaopimbdchdliminoign",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "6d6cd1bdf4a2c72357285556d8e3691bc7610c2cee1fe603726abd18269e34f3"
+    },
+    {
+      "extension_id": "ndlbedplllcgconngcnfmkadhokfaaln",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "fmncmpginchogfdnjfeopdopoiegjjjp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f226b1cfb865458afb4acbb4177379421f95acd5d4b7aef5bc8d22d7cdfd4a94"
+    },
+    {
+      "extension_id": "kjidkkncdchjnnfpclneimlcmghcfoon",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "gomekmidlodglbbmalcneegieacbdmki",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "b8039c64c6ab550cfedd33bdf9f6e3091160c04c465b4d2cb636e880a81109f0"
+    },
+    {
+      "extension_id": "befflofjcniongenjmbkgkoljhgliihe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "bde9a210396007a3c33d4e02d69c61cb54be4c7e3e0adfbc8ea3d5624318b8bf"
+    },
+    {
+      "extension_id": "ambcheakfbokmebglefpbbphbccekhhl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "lgbjhdkjmpgjgcbcdlhkokkckpjmedgc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "8d0a0e7ad1364b6cf6140adf9dd1efabe2c588147fd2f3997e73846de0308c12"
+    },
+    {
+      "extension_id": "bajoeadpdidoahbhphmhejmbdmgnbdci",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f0b47f3b855e6b0088b677aeebd2a76399f06ddea047ab110c15bd517335a0c9"
+    },
+    {
+      "extension_id": "feeonheemodpkdckaljcjogdncpiiban",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "bjehnpiidogpaocjjfhnopdjcahigggm",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "edc3bffd6dfc39ad5bed33533561013cf0e6798ebca746a5b339cfd87b259582"
+    },
+    {
+      "extension_id": "nbmoafcmbajniiapeidgficgifbfmjfo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "05bf2397afea59c0848aa369b3110c4830fcae8928a37fece9200345c9a10764"
+    },
+    {
+      "extension_id": "oaikpkmjciadfpddlpjjdapglcihgdle",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "937794f9a9665d78823625a290d0acd753d1890519f7bd517691a2f9c6844253"
+    },
+    {
+      "extension_id": "mofnafclpcapghpjdoaanahkgcjfcece",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a9aef8cc65bebfcc9c8b10aca277c0f3f19de01686fa62979ae152ba3ca5948c"
+    },
+    {
+      "extension_id": "cplhlgabfijoiabgkigdafklbhhdkahj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "eedbbf7c583ec90c5a94b59e7f71c3d947b175d72b4416284ff34be6ddf02002"
+    },
+    {
+      "extension_id": "omghfjlpggmjjaagoclmmobgdodcjboh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "44d7a66daeb6090b2eb312017ec57cc2d8839e287435a778d018411577129c8a"
+    },
+    {
+      "extension_id": "feflcgofneboehfdeebcfglbodaceghj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "aceac952d8db71f0acb1f97308a277706c13513434228ced16da10a1ff1ab80d"
+    },
+    {
+      "extension_id": "lnbmbgocenenhhhdojdielgnmeflbnfb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "cedgndijpacnfbdggppddacngjfdkaca",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e4a89c9ba0530334d1c70ac4ee350ddec1b8c32cff979cb82ed613719440ca0e"
+    },
+    {
+      "extension_id": "mchacgmgddefeohkjobefhihbadocneh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "9f602f57428a727f4191c6ec22d654d10017574e2655ca2be4eb5c617a0b5336"
+    },
+    {
+      "extension_id": "lmbopdiikkamfphhgcckcjhojnokgfeo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e98fa4ff02b992f1d197135c9d0e3c595621cbbc7411c8cec864350089104bec"
+    },
+    {
+      "extension_id": "mleflnbfifngdmiknggikhfmjjmioofi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ahlnchhkedmjbdocaamkbmhppnligmoh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "093bc0948e637d27922e6ebe597fd4f3d7f36097e48d786108496b4a846b9871"
+    },
+    {
+      "extension_id": "kfdopiiledmclnopmihkclnfgdiggjna",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "nnpnnpemnckcfdebeekibpiijlicmpom",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "2d63a3a7239ce4f0ed1135b4a9c5e34761ccea1c42ea36ecaf0d5d14a25efb97"
+    },
+    {
+      "extension_id": "gidejehfgombmkfflghejpncblgfkagj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "llaficoajjainaijghjlofdfmbjpebpa",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "af0470a1793daf3cc534d2a69a7f244ae2342cb6169aded8b88f079023304950"
+    },
+    {
+      "extension_id": "oeiomhmbaapihbilkfkhmlajkeegnjhe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "aohfjaadlbiifnnajpobdhokecjokhab",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "5be1cfb050b10d9cef59cbd7e86f7f429223bb6d28646f653a65f1b4197a6b89"
+    },
+    {
+      "extension_id": "loiofaagnefbonjdjklhacdhfkolcfgi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "58f86a211abc5ad3b414d1740b13a2b8d081f79f51788ae8267641e208c48c8e"
+    },
+    {
+      "extension_id": "giecgobdmgdamgffeoankaipjkdjbfep",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "ada8d502b13a461a5e8060a5b5f5051cd4f45cdd11e5e43842a96a34e238d7e9"
+    },
+    {
+      "extension_id": "apdfllckaahabafndbhieahigkjlhalf",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "2dbcd9479406f91c88176aa8b38c2821c4bd8a8d159e8060cdf63db1293d0bf6"
+    },
+    {
+      "extension_id": "dnmfcojgjchpjcmjgpgonmhccibjopnb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "6b9fe4fad17861e219828eac064e6583273c5bbe63985b4a2e2e5fcac6f3d687"
+    },
+    {
+      "extension_id": "goiffchdhlcehhgdpdbocefkohlhmlom",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "76e96f10ee509c26d626a4552e42ed29d757b840f86c37e148438d18505c2551"
+    },
+    {
+      "extension_id": "kdgjiakonpbfmndaacfhamdoangincgp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "b31be67f02a5c626618f7357fbf8e7e7f1bf536d1c447ca94ad159d754434e77"
+    },
+    {
+      "extension_id": "pnmmfplemkekboaalbeeajfidkkepppl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "761d9c505d40762674a2b62d1e98ce5bc9faa7989d16965838836ac90c6f08ed"
+    },
+    {
+      "extension_id": "glckmpfajbjppappjlnhhlofhdhlcgaj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "01ee7ae5e0b443ad6d83be3633a16d0e61f12751c92c71be071d7fb69d80f70c"
+    },
+    {
+      "extension_id": "gmmhcbmmnclgmmjimiiefhiagmpamdlb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "be57f16b8b89a7bd4551534d311000d79948e62c00bc221456d313b0dc89ac8d"
+    },
+    {
+      "extension_id": "bgnpgpfjdpmgfdegmmjdbppccdhjhdpe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c3efb3fb4fbc20b0cfff98eb58491364fb9612b2752fe9075fdcd8ef1a7c8ab5"
+    },
+    {
+      "extension_id": "cgmmcoandmabammnhfnjcakdeejbfimn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ajfokipknlmjhcioemgnofkpmdnbaldi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "b5af568081b348369084423019b0a413e3ad77b2002af3f549981b626549cb87"
+    },
+    {
+      "extension_id": "phiphcloddhmndjbdedgfbglhpkjcffh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "lklfbkdigihjaaeamncibechhgalldgl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "22a9cbbece05f13935cd27421e3d05e454bf0203a5268358705a593034f4d063"
+    },
+    {
+      "extension_id": "inhcgfpbfdjbjogdfjbclgolkmhnooop",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "hodiladlefdpcbemnbbcpclbmknkiaem",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "igbodamhgjohafcenbcljfegbipdfjpk",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c5afcc9b65710e560047213de6846f1feb1780d21b3339454fd6bf71ec0b06fb"
+    },
+    {
+      "extension_id": "mflibpdjoodmoppignjhciadahapkoch",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "55acb517ca9c1af6e82870bd171163df58d20a673023938e6b83869c6b53406a"
+    },
+    {
+      "extension_id": "llojfncgbabajmdglnkbhmiebiinohek",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "cimpffimgeipdhnhjohpbehjkcdpjolg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "0f33afe5e068fcf3b2ca1e0d5ea6c8144f3e9e9914c228ac89b036715302efb6"
+    },
+    {
+      "extension_id": "pajkjnmeojmbapicmbpliphjmcekeaac",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "9a3b0d36951032a597b3af6cd33e09aad26e8f4a185ba857fe310b407a4efc70"
+    },
+    {
+      "extension_id": "nkgbfengofophpmonladgaldioelckbe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "fbmlcbhdmilaggedifpihjgkkmdgeljh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "925b32e0da62bceff64d56cd46cb071db1427008e7cab5f2db23629b761f9220"
+    },
+    {
+      "extension_id": "kblengdlefjpjkekanpoidgoghdngdgl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "mkhdiephfhifcgpmkaaboknnbdpjlneg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "07d89ec8c53e9cf2064627396c212685d1d11605335b37d39f6a6ee077f419cb"
+    },
+    {
+      "extension_id": "nonajfcfdpeheinkafjiefpdhfalffof",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "936326d3e6afa5863711124efabfcd2ca0c84060817cb247f2bff4f8f067c6c6"
+    },
+    {
+      "extension_id": "ckneindgfbjnbbiggcmnjeofelhflhaj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "cpcojeeblggnjjgnpiicndnahfhjdobd",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f6408d161877687f716c0ef2a53938a4828c0bda4f957fc6f9cbc8ca0c790589"
+    },
+    {
+      "extension_id": "nfijbcmjagdmmkchgicfdidblofopkdp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "bccee0234f0e26b27ffe82e460affd743279cd5e63830f05ccad754bcc571ace"
+    },
+    {
+      "extension_id": "fpmkabpaklbhbhegegapfkenkmpipick",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "pgejmpeimhjncennkkddmdknpgfblbcl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "23c75112c0ee53f05a40ce3e936378689854d1dfe8e8dfd53c1b8c942470161d"
+    },
+    {
+      "extension_id": "oeefjlikahigmlnplgijgeeecbpemhip",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "8f819ce506b5a2dcea2ef2e49554760f005d43d60fac1bdf39e24d9bd59b5fb6"
+    },
+    {
+      "extension_id": "djhjckkfgancelbmgcamjimgphaphjdl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "mbindhfolmpijhodmgkloeeppmkhpmhc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "6bb669dfda56f98b056f5fefa2ddfa918a8d834abc285fb06fd91f6b6413c0b8"
+    },
+    {
+      "extension_id": "eggegjdejilddmnlglakcaigefefcdaf",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "20d5e592b9a85232b0ec8c27f38d23ce0a90a7e0a2c99bacca478d9817c400c6"
+    },
+    {
+      "extension_id": "ljcgnobemekghgobhlplpehijemdgcgo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f1229c087b4220b08a90fab06c83e96b3a8a0129c829c85949713375f2a04bf1"
+    },
+    {
+      "extension_id": "giaooddllfkkkblpaedgkhfmhocponbo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c0da6b7815f4c6bc70d496a1d679c228618b0bfbbb57ea2541c78e680828e6ba"
+    },
+    {
+      "extension_id": "mnhffkhmpnefgklngfmlndmkimimbphc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "3cd43a0c9e3902dc4759ab515f5e0e9e2c5ecd83c03184cddfe0c9e6cc048a8c"
+    },
+    {
+      "extension_id": "gghdfkafnhfpaooiolhncejnlgglhkhe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ffejlioijcokmblckiijnjcmfidjppdn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "74725539e76a16b3e62e606bf53c2c33115ddba44d89bb14dab75cdc8db5d313"
+    },
+    {
+      "extension_id": "emedckhdnioeieppmeojgegjfkhdlaeo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "70b25e093ade8dd69837a88469fa0bcd94c739e3e8b5b15c9e92dfdd4bacaa4f"
+    },
+    {
+      "extension_id": "mpgaodghdhmeljgogbeagpbhgdbfofgb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a88a053894a8ec3e17c35d2f9511aecc9038b23ee5c1de6a1103c5f6a87373e7"
+    },
+    {
+      "extension_id": "hpkfkbmcphnigepfjmapkdaedglohgjg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "42911c1b43d7a44da7acad0a9a851292563f77f130cc4e98da648f2f4a904e73"
+    },
+    {
+      "extension_id": "adjiljljjoeielcjmafljkicjncjpbha",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f3e8370e4e6458534fd8ac0921b5b88915c2a2b6d8d473129c5c6917cc549423"
+    },
+    {
+      "extension_id": "mjcgfimemamogfmekphcfdehfkkbmldn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "d9a1c815e92e78493a7a80f6a9490f5455c412716b80dccb66d6c2cefcc71eba"
+    },
+    {
+      "extension_id": "goikoilmhcgfidolicnbgggdpckdcoam",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "fc2509a8e6a6bc6ef74fc2ab7a3aa8292234b1f3147ad49c10339a7517241bea"
+    },
+    {
+      "extension_id": "aoemlgniakbojcecmjefonjkgnceklpg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "8439fd13e415e51e326616ddf547ee5183f683a9e451d4c51dffd11df611ad21"
+    },
+    {
+      "extension_id": "hgnjolbjpjmhepcbjgeeallnamkjnfgi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "nlhpidbjmmffhoogcennoiopekbiglbp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "idbhoeaiokcojcgappfigpifhpkjgmab",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "5c732b96ccad55edf4fec01c8761ae617ec36e6e12968eb071a6ee9a49f13182"
+    },
+    {
+      "extension_id": "mabbblhhnmlckjbfppkopnccllieeocp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "94041ec029813dcbb92ed750c624d6d4b12d7fbe84aa2ba401543e2a95477639"
+    },
+    {
+      "extension_id": "hhlcpmdhlcoghhfgiiopcjbkfmdliknc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "6567692a894977c0e60e38a7aea2b6b8da9380ad4ee0ab9cb9a4c3925ad55f20"
+    },
+    {
+      "extension_id": "gnaekhndaddbimfllbgmecjijbbfpabc",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "midiombanaceofjhodpdibeppmnamfcj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c87dcb4e5d1d0ec9b20fa8f71d3208606bf0182b73fe80f0ca0c510a68f8a6a6"
+    },
+    {
+      "extension_id": "npphdmcakmfhllhblkealgkeefamebih",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "eanofdhdfbcalhflpbdipkjjkoimeeod",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "04d5aa2b5397898b269bd2a4eb6cbf7265e0973d9ad7ca2e1f6bf7e28122e932"
+    },
+    {
+      "extension_id": "dbfmnekepjoapopniengjbcpnbljalfg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "johobikccpnmifjjpephegmfpipfbfme",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c381e009c2ea7f64fda76042a675d18890e94ad57d9d4cbeb1430db734ad7054"
+    },
+    {
+      "extension_id": "fdlagfnfaheppaigholhoojabfaapnhb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "jnkmepoonohhfijlbajdphhinhkoefjn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "af4e86fd614bf7021a165121d004ce66527359fd09d027d697d1ff9d9dbd9ec8"
+    },
+    {
+      "extension_id": "mldeggofnfaiinachdeidpecmflffoam",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "ff7847fc0c31874bab64c87ba685b9f5e4ac6ce3606701ca07cca0ee19b0f63d"
+    },
+    {
+      "extension_id": "fgimllnamdeacpaddbdafchhcmapebgj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "9a1bfd70fd9d4fcdc1468f0d98ddf8d61cea9848ff6611f14ecfa0fa663c5d0b"
+    },
+    {
+      "extension_id": "mcaglpclodnaiimhicpjemhcinjfnjce",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "14eac065d15111c9dc79349f6f6dbeed0b46f985b90a0379694c4a328708399e"
+    },
+    {
+      "extension_id": "gjlbbcimkbncedhofeknicfkhgaocohl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "4d532adf763bc94a0b10e567fecbc14a75f105617715c811f18b8af3530298d8"
+    },
+    {
+      "extension_id": "bndkfmmbidllaiccmpnbdonijmicaafn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "doeomodlafdbbnajjllemacdfphbbohl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "mnacfoefejolpobogooghoclppjcgfcm",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "7e5d4fcfd05c8422e9719d0f6454f29b07fc4feb348b4b160fb55a4ce251b468"
+    },
+    {
+      "extension_id": "ifhigdhiifbnjanhacoedbadhmlkjgae",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "403e40cbe952350c99c08ffd479d76542fdfe73e4f78fb3a419a2435e92a920d"
+    },
+    {
+      "extension_id": "kbkajekcpifoekenleplhefobiponkmp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e6c2b33a9b8582339a2286a5ac60e8328941c253e4e1dcf8537aa835217face7"
+    },
+    {
+      "extension_id": "npabddfopfjjlhlimlaknekipghedpfk",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "56ab55a63dd05b2af18890235a4275884953ad22bbae32ddb83db73374331d1f"
+    },
+    {
+      "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "d085476a58ee94886c7b1d44d1e2b095b104c0f7eb83a68a5e5ac35439a526ee"
+    },
+    {
+      "extension_id": "gohgeedemmaohocbaccllpkabadoogpl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "oliiideaalkijolilhhaibhbjfhbdcnm",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e726f675c403c57849ce33c4cb5d8a95ea12e623d02c18e31b6775ea11f1f132"
+    },
+    {
+      "extension_id": "dfnannaibdndmkienngjahldiofjbkmj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f2a81d42cd4be8f937f7f96c18dad31d49db68921073cc0fcfc280f4e0b01fba"
+    },
+    {
+      "extension_id": "ekafoahfmdgaeefeeneiijbehnbocbij",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c4f649aad7210322eee1e19577323855601b8471094604111c21fc0175a26f50"
+    },
+    {
+      "extension_id": "codgofkgobbmgglciccjabipdlgefnch",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e5f65abd6a3015955ff154664b7dcf3372b381c82ee366c4566df0be4e37d8d8"
+    },
+    {
+      "extension_id": "beifiidafjobphnbhbbgmgnndjolfcho",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "dbf963bc98d60b0d3b8a1258dc7a1c45f9948dd3d690004793400c419c626a05"
+    },
+    {
+      "extension_id": "ebmmjmakencgmgoijdfnbailknaaiffh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ccgdboldgdlngcgfdolahmiilojmfndl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "b837680573b790bcb50c51678a8f147a2ae829225555d5252e86aaaaeb0735d1"
+    },
+    {
+      "extension_id": "hodafefeincjlgijbiabbmaffambjeaa",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "cc33b436dc1674e97e899355c49dc910ecb39c35d18f977159aff663ecb27a91"
+    },
+    {
+      "extension_id": "nipfdfkjnidadibpbflijepbllfkokac",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "3e4d3ea56a0b9c6d28244b21cdc9f934be8e65c94cc1183b4646948ce8448f34"
+    },
+    {
+      "extension_id": "eppiocemhmnlbhjplcgkofciiegomcon",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "mehpokgiebgcnelgnlfkeldlfnpdhdha",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "53485f3bf2d4009aa641c742d9975f0085bdf846d92377a8bb0f920c8d3e97fc"
+    },
+    {
+      "extension_id": "ekpkdmohpdnebfedjjfklhpefgpgaaji",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "1bff6ca1076bdf0726590df4bd7dbea71b119a46637191f33a5393dedc87e34d"
+    },
+    {
+      "extension_id": "gpdfpljioapjogbnlpmganakfjcemifk",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "76370ac33940dedebd22af9e284b84eca11be3b5a367fcf11c2a907e8f200e44"
+    },
+    {
+      "extension_id": "llimhhconnjiflfimocjggfjdlmlhblm",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "idhknpoceajhnjokpnbicildeoligdgh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "bjoddpbfndnpeohkmpbjfhcppkhgobcg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c18aa812bb543fcb1c2ab186a37a0eb052336693d439077a2f11350012c1e6b7"
+    },
+    {
+      "extension_id": "cicjlpmjmimeoempffghfglndokjihhn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "dpggmcodlahmljkhlmpgpdcffdaoccni",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f33ed94026b98ca2ffdef8c67a805082bbcbdddb466ba707c71e506d035b1151"
+    },
+    {
+      "extension_id": "mfpiaehgjbbfednooihadalhehabhcjo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "acaeafediijmccnjlokgcdiojiljfpbe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ooobfpifjkgeopllkalfgkbiefhooggl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "be43a07eb7e906c9fb00158e6d650c3432307b7f8ae100790c68126927b0ee34"
+    },
+    {
+      "extension_id": "behckapcoohededfbgjgkgefgkpodeho",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "e75a170b94c4df7d42b5b1f542418e65ba35b4d2cb84c6f3800d2432f08ca4e6"
+    },
+    {
+      "extension_id": "egmennebgadmncfjafcemlecimkepcle",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "pgfibniplgcnccdnkhblpmmlfodijppg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "nlipoenfbbikpbjkfpfillcgkoblgpmj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "nnnkddnnlpamobajfibfdgfnbcnkgngh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "iedbphhbpflhgpihkcceocomcdnemcbj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "iclckldkfemlnecocpphinnplnmijkol",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "0a993fc049bf13ebc23a8c3a1373246b048d29f61aa09274c8106448e5df85e7"
+    },
+    {
+      "extension_id": "okepehobneenpbhiendcjcanjodhmcbj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "4d0c09d92e37b4d989cf851cbdb5e8ef111a1ed2b4b153ec77b0538689a22c10"
+    },
+    {
+      "extension_id": "njmhcidcdbaannpafjdljminaigdgolj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "pjlheckmodimboibhpdcgkpkbpjfhooe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "5c005eccc16a4f1d60fe10a36005d429e4644970a2d4c31bf79ff7a585b53ab0"
+    },
+    {
+      "extension_id": "jaojpdijbaolkhkifpgbjnhfbmckoojh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "796865b211f9d5f8f2427aa9e79e948d575c02ebeaa5308840ecdf65d76c4e0f"
+    },
+    {
+      "extension_id": "nppjmiadmakeigiagilkfffplihgjlec",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "7ec1bb550b2a9909bb5b6f635b83aee14498dc720577b2322aae9bb6d65ec034"
+    },
+    {
+      "extension_id": "hkkkipfcdagiocekjdhobgmlkhejjfoj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a3eb923d8787d0e4d2d92d8d5582763e3c5cb8eaeb86c9f1e88fb9ec4ec6af24"
+    },
+    {
+      "extension_id": "eijnkinhnplaekpllmgbbfieecdhcmcp",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a880fb99806b3dc4e6dbf74dcd9336ca298c8478416c7c7c47cff48de5678221"
+    },
+    {
+      "extension_id": "hafhkoalnlpoifpidohfjlmeemfifndi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "2132fa0a9ce9e32c94aa27770a99b6785b200d3c20e93ab16e374bc5eba694e1"
+    },
+    {
+      "extension_id": "jmlgkeaofknfmnbpmlmadnfnfajdlehn",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "5e1dd4249db6400bd70a027c01c9d45c18452359d4fc24e509e7f6528d163443"
+    },
+    {
+      "extension_id": "ibbkokjdcfjakihkpihlffljabiepdag",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f897d4ebbc1f7a02b01cb83ecb0975e6a1dcda3c5b3cab4619ce4819cc3dd31d"
+    },
+    {
+      "extension_id": "pnpchphmplpdimbllknjoiopmfphellj",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "3304cd4017e9b7ee20fabeda698b1d94695316cf6841a7f1ac944f9802d57208"
+    },
+    {
+      "extension_id": "gcdfailafdfjbailcdcbjmeginhncjkb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "fgbieegonkgdlkmeaapmkejdlfalonkb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "aa95f4add811140d0a9c40bbda07c518c4cf03909802e2616ffdb16beb713649"
+    },
+    {
+      "extension_id": "acmfnomgphggonodopogfbmkneepfgnh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "274798020a858539403a1fbc19a37409d56fb7580e2115ed470b0b243335b4f8"
+    },
+    {
+      "extension_id": "nabbdpjneieneepdfnmkdhooellilgho",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "7a97da26a895b204b20672f1584032c124cb7f8ebe481250774ca6b273668555"
+    },
+    {
+      "extension_id": "bdcimkinofohfmldheklgfbjkfehfdhl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "f3d26f9a33cffd9ea04c75c0b5fb84b3f96ed1b3cd1286221446d050ad6b5c3d"
+    },
+    {
+      "extension_id": "ieihbaicbgpebhkfebnfkdhkpdemljfb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "1352dbe4eae19261fe8f196ae7bf279c53423fbe3ef8ca24745965555fdb68e5"
+    },
+    {
+      "extension_id": "albakpncdngcejcjdahomfbkakbmafgb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a450bcf1a6710d1ffef8f66f383f7536f0b8734cfd43f6eeaf58108952c00d9a"
+    },
+    {
+      "extension_id": "jiofmdifioeejeilfkpegipdjiopiekl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "a5e2f655e2c696cda85e12c5828605b5bcd167ba9ae90efe121c4ed0c07961c9"
+    },
+    {
+      "extension_id": "ihdnbohcfnegemgomjcpckmpnkdgopon",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "60a3c5a03ac888f3315312d48e12fa46a25b805dd746887d65d4bda2563c69ea"
+    },
+    {
+      "extension_id": "dbclhjpifdfkofnmjfpheiondafpkoed",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "cehifnkfcddaeppdajpfldbpommggaca",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "48bb84c3e7b6db244a3546ff9662e43c7aa32c714f3d808e1b257a89b0bf0627"
+    },
+    {
+      "extension_id": "ekomkpgkmieaaekmaldmaljljahehkoi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "24669f0b2578aba2356579fede67a7d137aac06725f7a160544a42941495424e"
+    },
+    {
+      "extension_id": "aofddmgnidinflambjlfkpboeamdldbd",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "289d0d347840d1620eb26275074e3fd84641205377bd8623ae38310b2e04431b"
+    },
+    {
+      "extension_id": "lodlcpnbppgipaimgbjgniokjcnpiiad",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "hiiildgldbpfbegcfgemoliikibfhaeh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "hkhmodcdjhcidbcncgmnknjppphcpgmh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "54eeb47872257ad0d6cdf6f6bdaeb9a9453f8628a6cfe9e54cc1b40a0df413dc"
+    },
+    {
+      "extension_id": "hihblcmlaaademjlakdpicchbjnnnkbo",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "82256dd3df16267d0495c26105b8b2074ab92efae69dcef40ec353cc342debe1"
+    },
+    {
+      "extension_id": "kppfbknppimnoociaomjcdgkebdmenkh",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "2cbf90b13a56e99d03e10bdcdd22e188784b05fe01c34102e79a1d9db6b908b2"
+    },
+    {
+      "extension_id": "bilfflcophfehljhpnklmcelkoiffapb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "fnjinbdmidgjkpmlihcginjipjaoapol",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "ckicoadchmmndbakbokhapncehanaeni",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "jmpcodajbcpgkebjipbmjdoboehfiddd",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "01ed5eecff9a5f81689a451baabb27e68a7cd5d34e5489c82188a83c119c5c8e"
+    },
+    {
+      "extension_id": "kepibgehhljlecgaeihhnmibnmikbnga",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "gcfianbpjcfkafpiadmheejkokcmdkjl",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "nigamacoibifjohkmepefofohfedblgg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "97828338d5f34d1028967736b17a0ec849169d882754cf1f6481fb1d5428fdae"
+    },
+    {
+      "extension_id": "pndmbpnfolikhfnfnkmjkkpcgkmaibec",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "c45b0f2541fc99565dda73fc9cee5a292a972b98ab2b8a3c8cae2f443bfd66b8"
+    },
+    {
+      "extension_id": "cicnbbdlbjaoioilpbdioeeaockgbhfi",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "lgakkahjfibfgmacigibnhcgepajgfdb",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "5c3aa886e7bc4924da4985bc912c599a56ef441901fb84dcfbfa433300d4d348"
+    },
+    {
+      "extension_id": "bhahpmoebdipfoaadcclkcnieeokebnf",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": "2b641785c96e32a64c29b6a21174af556112569598a22fbe591618335b5f2309"
+    },
+    {
+      "extension_id": "flnecpdpbhdblkpnegekobahlijbmfok",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "egjidjbpglichdcondbcbdnbeeppgdph",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    },
+    {
+      "extension_id": "fnmihdojmnkclgjpcoonokmkhjpjechg",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
     }
   ]
 }
