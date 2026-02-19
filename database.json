@@ -1,7 +1,14 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-02-19T08:54:17.978360+00:00",
-  "total_samples": 12,
+  "last_updated": "2026-02-19T08:56:44.829609+00:00",
+  "total_samples": 1,
   "extensions": [
+    {
+      "extension_id": "oeiomhmbaapihbilkfkhmlajkeegnjhe",
+      "source_url": "null",
+      "date_reported": "null",
+      "date_added": "2026-02-19",
+      "crx_sha256": ""
+    }
   ]
 }
