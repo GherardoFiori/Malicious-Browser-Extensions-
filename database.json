@@ -4,55 +4,6 @@
   "total_samples": 192,
   "extensions": [
     {
-      "extension_id": "oeiomhmbaapihbilkfkhmlajkeegnjhe",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
-      "extension_id": "kjidkkncdchjnnfpclneimlcmghcfoon",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
-      "extension_id": "aikflfpejipbpjdlfabpgclhblkpaafo",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
-      "extension_id": "ahlnchhkedmjbdocaamkbmhppnligmoh",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "093bc0948e637d27922e6ebe597fd4f3d7f36097e48d786108496b4a846b9871"
-    },
-    {
-      "extension_id": "mnacfoefejolpobogooghoclppjcgfcm",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "7e5d4fcfd05c8422e9719d0f6454f29b07fc4feb348b4b160fb55a4ce251b468"
-    },
-    {
-      "extension_id": "mcaglpclodnaiimhicpjemhcinjfnjce",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "14eac065d15111c9dc79349f6f6dbeed0b46f985b90a0379694c4a328708399e"
-    },
-    {
-      "extension_id": "fdlagfnfaheppaigholhoojabfaapnhb",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
       "source_url": "null",
       "date_reported": "null",
@@ -79,20 +30,6 @@
       "date_reported": "null",
       "date_added": "2026-02-19",
       "crx_sha256": ""
-    },
-    {
-      "extension_id": "kfdopiiledmclnopmihkclnfgdiggjna",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
-      "extension_id": "loiofaagnefbonjdjklhacdhfkolcfgi",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "58f86a211abc5ad3b414d1740b13a2b8d081f79f51788ae8267641e208c48c8e"
     },
     {
       "extension_id": "abbngaojehjekanfdipifimgmppiojpl",
@@ -648,13 +585,6 @@
       "crx_sha256": "f3e8370e4e6458534fd8ac0921b5b88915c2a2b6d8d473129c5c6917cc549423"
     },
     {
-      "extension_id": "mjcgfimemamogfmekphcfdehfkkbmldn",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "d9a1c815e92e78493a7a80f6a9490f5455c412716b80dccb66d6c2cefcc71eba"
-    },
-    {
       "extension_id": "goikoilmhcgfidolicnbgggdpckdcoam",
       "source_url": "null",
       "date_reported": "null",
@@ -828,13 +758,6 @@
       "date_reported": "null",
       "date_added": "2026-02-19",
       "crx_sha256": "56ab55a63dd05b2af18890235a4275884953ad22bbae32ddb83db73374331d1f"
-    },
-    {
-      "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": "d085476a58ee94886c7b1d44d1e2b095b104c0f7eb83a68a5e5ac35439a526ee"
     },
     {
       "extension_id": "gohgeedemmaohocbaccllpkabadoogpl",
@@ -1299,13 +1222,6 @@
       "crx_sha256": "c45b0f2541fc99565dda73fc9cee5a292a972b98ab2b8a3c8cae2f443bfd66b8"
     },
     {
-      "extension_id": "cicnbbdlbjaoioilpbdioeeaockgbhfi",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
       "extension_id": "lgakkahjfibfgmacigibnhcgepajgfdb",
       "source_url": "null",
       "date_reported": "null",
@@ -1321,13 +1237,6 @@
     },
     {
       "extension_id": "flnecpdpbhdblkpnegekobahlijbmfok",
-      "source_url": "null",
-      "date_reported": "null",
-      "date_added": "2026-02-19",
-      "crx_sha256": ""
-    },
-    {
-      "extension_id": "egjidjbpglichdcondbcbdnbeeppgdph",
       "source_url": "null",
       "date_reported": "null",
       "date_added": "2026-02-19",
