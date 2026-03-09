@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-03-09T12:40:47.398238+00:00",
-  "total_samples": 185,
+  "last_updated": "2026-03-09T12:40:50.544861+00:00",
+  "total_samples": 186,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1297,6 +1297,13 @@
       "date_reported": "Mon, 09 Mar 2026 10:28:00 +0000",
       "date_added": "2026-03-09",
       "crx_sha256": "b145c1c77a4eb927a786ea8730034f7a419962a0cd0c96a6b6b35d2bd0730465"
+    },
+    {
+      "extension_id": "hokdpdlchkgcenfpiibjjfkfmleoknkp",
+      "source_url": "https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html",
+      "date_reported": "Mon, 09 Mar 2026 10:28:00 +0000",
+      "date_added": "2026-03-09",
+      "crx_sha256": "11915905dfb644d023eb8b3e644d04059fe1bb46a745b5e2c8f541c49b1bee4d"
     }
   ]
 }
