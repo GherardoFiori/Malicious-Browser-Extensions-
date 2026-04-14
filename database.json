@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-03-09T12:40:50.544861+00:00",
-  "total_samples": 186,
+  "last_updated": "2026-04-14T18:49:28.881917+00:00",
+  "total_samples": 187,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1304,6 +1304,13 @@
       "date_reported": "Mon, 09 Mar 2026 10:28:00 +0000",
       "date_added": "2026-03-09",
       "crx_sha256": "11915905dfb644d023eb8b3e644d04059fe1bb46a745b5e2c8f541c49b1bee4d"
+    },
+    {
+      "extension_id": "mdcfennpfgkngnibjbpnpaafcjnhcjno",
+      "source_url": "http://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
+      "date_reported": "Tue, 14 Apr 2026 08:35:00 +0000",
+      "date_added": "2026-04-14",
+      "crx_sha256": "42ec15cd36ced3bdef254b9765a4168e84762614b353486d62fd0a6731d4f875"
     }
   ]
 }
