@@ -1,6 +1,6 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-04-23T18:32:19.710Z",
+  "last_updated": "2026-04-23T18:42:53.772Z",
   "total_samples": 203,
   "extensions": [
     {
@@ -1388,6 +1388,41 @@
       "date_reported": "",
       "date_added": "2026-04-16",
       "crx_sha256": "f151378378e776004d5f848087d6d84d2755923f197ef9faa8fa67e35c245c7f"
+    },
+    {
+      "extension_id": "injnjbcogjhcjhnhcbmlahgikemedbko",
+      "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_added": "2026-04-23",
+      "crx_sha256": "1a09fad3ae7f94aa459d92e5131ba3cf1bf23ae1ad0eb0db5276cc1f885b06ee"
+    },
+    {
+      "extension_id": "ehdkeonoccndeaggbnolijnmmeohkbpf",
+      "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_added": "2026-04-23",
+      "crx_sha256": "57b49adc0c5bbe0b5fe677ead5dae5b35e596a179c679431ff1e6a8632706a41"
+    },
+    {
+      "extension_id": "pfpijacnpangmkfdpgodlbokpkhpkeka",
+      "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_added": "2026-04-23",
+      "crx_sha256": "7d215238bb5daa354ac7f2a9d7ebb7dfd8268fa773337818b04a0908a18a493a"
+    },
+    {
+      "extension_id": "cfbgdmiobbicgjnaegnenlcgbdabkcli",
+      "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_added": "2026-04-23",
+      "crx_sha256": "6d45ec5bd50d96335debac110ad4529e219d8b26b5affc5d31823241559eaf0c"
+    },
+    {
+      "extension_id": "mpalaahimeigibehbocnjipjfakekfia",
+      "source_url": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
+      "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
+      "date_added": "2026-04-23",
+      "crx_sha256": "2b99f49a09443503ccc5e3fd2660436f76b49f0419e8b800dca611d186355827"
     }
   ]
 }
