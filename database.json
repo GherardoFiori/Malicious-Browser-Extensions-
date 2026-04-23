@@ -1388,55 +1388,6 @@
       "date_reported": "",
       "date_added": "2026-04-16",
       "crx_sha256": "f151378378e776004d5f848087d6d84d2755923f197ef9faa8fa67e35c245c7f"
-    },
-    {
-      "extension_id": "kkhjihaeddnhknninbekkhaklnailngh",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "kbifpojhlkdoidmndacedmkbjopeekgl",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "jacilgchggenbmgbfnehcegalhlgpnhf",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "oaceepljpkcbcgccnmlepeofkhplkbih",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "ilcjgmjecbhpgpipmkfkibjopafpbcag",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "kmobjdioiclamniofdnngmafbhgcniok",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
-    },
-    {
-      "extension_id": "cgnbfcoeopaehocfdnkkjecibafichje",
-      "source_url": "https://layerxsecurity.com/blog/stealtok-130k-users-compromised-by-data-stealing-tiktok-video-downloaders/",
-      "date_reported": "Mon, 20 Apr 2026 11:50:01 +0000",
-      "date_added": "2026-04-23",
-      "crx_sha256": "null"
     }
   ]
 }
