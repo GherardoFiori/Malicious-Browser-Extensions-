@@ -1430,6 +1430,13 @@
       "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
       "date_added": "2026-04-27",
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
+    },
+    {
+      "extension_id": "ecocgofdjmiomgmgnchijbghkikolkkl.crx",
+      "source_url": "https://gbhackers.com/malicious-chrome-extension-targets-chatgpt-users/",
+      "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "date_added": "2026-04-27",
+      "crx_sha256": "2E184FC56BB4A69FA0A76F774AD3D7CD6F5846F20ED74788F5E68EEF73652AEE"
     }
   ]
 }
