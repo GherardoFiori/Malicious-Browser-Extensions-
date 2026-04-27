@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-04-23T18:42:53.772Z",
-  "total_samples": 203,
+  "last_updated": "2026-04-27T12:47:58.604Z",
+  "total_samples": 204,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1423,6 +1423,13 @@
       "date_reported": "Wed, 22 Apr 2026 23:25:00 +0530",
       "date_added": "2026-04-23",
       "crx_sha256": "2b99f49a09443503ccc5e3fd2660436f76b49f0419e8b800dca611d186355827"
+    },
+    {
+      "extension_id": "kkhjihaeddnhknninbekkhaklnailngh",
+      "source_url": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+      "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
+      "date_added": "2026-04-27",
+      "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
     }
   ]
 }
