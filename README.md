@@ -31,13 +31,8 @@ The IDs of the browser extensions found in this database are retrivered by news 
 <li>Blogs and many more. </li>
 </ul>
 
-All automatically done using TINES
+All automatically done using n8n
 
-<br>
-<img width="474" height="291" alt="image" src="https://github.com/user-attachments/assets/ed05bf47-9251-416d-938b-52ffcc8ab437" />
-
-
-<br>
 
 ⚠️ Disclaimer
 
@@ -60,3 +55,4 @@ It exists solely for defensive cybersecurity research.
 
 More about me: 
 https://buio.me/
+⭐ if you like it and share it with others to spread awarness of malicious browser extensions.
