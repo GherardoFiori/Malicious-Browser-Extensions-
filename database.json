@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-04-28T17:13:09.261Z",
-  "total_samples": 206,
+  "last_updated": "2026-04-28T17:56:29.149Z",
+  "total_samples": 207,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1440,6 +1440,13 @@
     },
     {
       "extension_id": "kbifpojhlkdoidmndacedmkbjopeekgl",
+      "source_url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "date_reported": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "date_added": "2026-04-28",
+      "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
+    },
+    {
+      "extension_id": "jacilgchggenbmgbfnehcegalhlgpnhf",
       "source_url": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
       "date_reported": "Mon, 27 Apr 2026 17:41:01 -0400",
       "date_added": "2026-04-28",
