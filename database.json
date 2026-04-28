@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-04-28T17:56:29.149Z",
-  "total_samples": 207,
+  "last_updated": "2026-04-28T19:04:29.149Z",
+  "total_samples": 301,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1451,6 +1451,20 @@
       "date_reported": "Mon, 27 Apr 2026 17:41:01 -0400",
       "date_added": "2026-04-28",
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
-    }
+    },
+    {
+     "extension_id": "nlfkaldinolmacagmiddfpnfaeclfibn",
+     "source_url": "https://dti.domaintools.com/securitysnacks/the-ai-frame-campaign-continues",
+     "date_reported": "Thu, 24 Apr 2026 00:00:00 +0000",
+     "date_added": "2026-04-28",
+     "crx_sha256": "04755FFCFF7562011929484A59AAF54E637E67B0F6520CB419052F2EED28934F"
+    },
+    {
+     "extension_id": "nmijijenojhiaohkfedfgchgbmjnfcpp",
+     "source_url": "https://dti.domaintools.com/securitysnacks/the-ai-frame-campaign-continues",
+     "date_reported": "Thu, 24 Apr 2026 00:00:00 +0000",
+     "date_added": "2026-04-28",
+     "crx_sha256": "F4B638B61090E65D017A336AA5135AD9CDB321E7E90289F3FD2E949BD04C744D"
+  }
   ]
 }
