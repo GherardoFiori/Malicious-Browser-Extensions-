@@ -1535,6 +1535,44 @@
       "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
+    },
+    {
+      "extension_id": "ieihbaicbgpebhkfebnfkdhkpdemljfb",
+      "source_url": "https://7ai.com/crxfiltrate",
+      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "E89E691D3A9930621EB420A4A0F3598B5436F2F8E55FEA44C8D1DB68335390D9"
+    },
+    {
+      "extension_id": "nonajfcfdpeheinkafjiefpdhfalffof",
+      "source_url": "https://7ai.com/crxfiltrate",
+      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "47DDE4DE0A2EAC88B19452EF80BA3C1A2F5B0EDFCA8980DC1F2697277888BDB3"
+    }
+    ,
+    {
+      "extension_id": "cdiohdbijdajffgccjmbblbikpnnnkeg",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "6030BAA8C7010C8CF3300944CFA759E8671AA9DF29CC534EF7D5E951844EBE08"
+    }
+    ,
+    {
+      "extension_id": "pfgpfmdiepmhhhkpnciogjhccppbcfhk",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "65A9A885572BE0EAD88561B023DE0C8FA4CC910761BCFE7E293D159193FC8875"
+    }
+    ,
+    {
+      "extension_id": "koecfhecfkmjkjplbmbclgacdclnnpei",
+      "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
+      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "F812D2F91C8C2B96DDD52C986F77C52E6303D94AB38DDAA6F1B18451909ED99E"
     }
   ]
 }
