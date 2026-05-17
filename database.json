@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-05-17T22:23:29.255Z",
-  "total_samples": 218,
+  "last_updated": "2026-05-17T22:26:32.742Z",
+  "total_samples": 219,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1524,6 +1524,13 @@
     },
     {
       "extension_id": "hmkcidjcpomiegnklmplkimmbcbklglb",
+      "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
+      "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
+      "date_added": "2026-05-17",
+      "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
+    },
+    {
+      "extension_id": "dgeiaiglmhdhajbpfbmajaajdlfdinpi",
       "source_url": "https://layerxsecurity.com/blog/a-flaw-in-claudes-browser-extension-allows-any-extension-to-hijack-it/",
       "date_reported": "Thu, 07 May 2026 14:00:57 +0000",
       "date_added": "2026-05-17",
