@@ -1,5 +1,9 @@
 # Malicious Browser Extensions
 ![Malicious Extensions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GherardoFiori/MaliciousBrowserExtensions/main/count.json)
+
+# Join the [Discord](https://discord.gg/eut2MxYVCk)
+# Try our [Extension](https://chromewebstore.google.com/detail/exterminai-malicious-exte/mbmaeljobaiaghkkilalaafolgidnfoi)
+
 # Overview
 
 ❗ The owner and contributors are NOT RESPONSIBLE in any shape or form for any damage inflicted by the negligent use of samples stored in the repository, users must take necessary precautions prior to executing the samples.
