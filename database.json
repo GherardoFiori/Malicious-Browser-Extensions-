@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-05-17T22:26:32.742Z",
-  "total_samples": 219,
+  "last_updated": "2026-06-15T21:04:15.911Z",
+  "total_samples": 229,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1549,30 +1549,82 @@
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "47DDE4DE0A2EAC88B19452EF80BA3C1A2F5B0EDFCA8980DC1F2697277888BDB3"
-    }
-    ,
+    },
     {
       "extension_id": "cdiohdbijdajffgccjmbblbikpnnnkeg",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "6030BAA8C7010C8CF3300944CFA759E8671AA9DF29CC534EF7D5E951844EBE08"
-    }
-    ,
+    },
     {
       "extension_id": "pfgpfmdiepmhhhkpnciogjhccppbcfhk",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "65A9A885572BE0EAD88561B023DE0C8FA4CC910761BCFE7E293D159193FC8875"
-    }
-    ,
+    },
     {
       "extension_id": "koecfhecfkmjkjplbmbclgacdclnnpei",
       "source_url": "https://raw.githubusercontent.com/PaloAltoNetworks/Unit42-timely-threat-intel/refs/heads/main/2026-05-13-%20Dual-Function-Deceptive-Crypto-Scam-Extensions.txt",
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "F812D2F91C8C2B96DDD52C986F77C52E6303D94AB38DDAA6F1B18451909ED99E"
+    },
+    {
+      "extension_id": "MNPACDIGBOCKIILMILHBEDCIADENFDNB",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "ae59ef7886336d0daaf40866663e73790373a14dfd8e1073298a8e04027cc0b5",
+      "github_path": "AutomatedExtensions/MNPACDIGBOCKIILMILHBEDCIADENFDNB_1_0_6_0.crx",
+      "file_size_bytes": 2540131
+    },
+    {
+      "extension_id": "IEDPLNNOLCIAOFKAKKJMCOJNMKLPFIKG",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "97c4b8037bdd6b3ac6e7c562dce3650ef5425b60de5e28e54ad7dc85c3650db9",
+      "github_path": "AutomatedExtensions/IEDPLNNOLCIAOFKAKKJMCOJNMKLPFIKG_1_0_5_0.crx",
+      "file_size_bytes": 1154895
+    },
+    {
+      "extension_id": "FAMCHDJOJCNAKAMHKDDKPAGLNKONKFNL",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "cb0f8179c1ded77ebaf0042e9a6f407c209024d57e07f1feaf31eaa917667a9d",
+      "github_path": "AutomatedExtensions/FAMCHDJOJCNAKAMHKDDKPAGLNKONKFNL_1_0_6_0.crx",
+      "file_size_bytes": 6366947
+    },
+    {
+      "extension_id": "NOMEKAMIOEPGLINEFHENIFNBEGJHFIAI",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "e3e9bd93f59c4d04644130294a2cf8592e8b1e75780b1aa9702035c56e220109",
+      "github_path": "AutomatedExtensions/NOMEKAMIOEPGLINEFHENIFNBEGJHFIAI_1_0_6_0.crx",
+      "file_size_bytes": 10505204
+    },
+    {
+      "extension_id": "JJNGBCODOLDJMPJPFBHFELALJBDLKEKH",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "a57e18a59fbd9e10c9282e3bed6aff6c2a2318e682df64d5515e8769ccf80890",
+      "github_path": "AutomatedExtensions/JJNGBCODOLDJMPJPFBHFELALJBDLKEKH_1_0_5_0.crx",
+      "file_size_bytes": 21541887
     }
   ]
 }
