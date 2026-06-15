@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-06-15T21:04:15.911Z",
-  "total_samples": 229,
+  "last_updated": "2026-06-15T21:05:08.877Z",
+  "total_samples": 234,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1625,6 +1625,61 @@
       "crx_sha256": "a57e18a59fbd9e10c9282e3bed6aff6c2a2318e682df64d5515e8769ccf80890",
       "github_path": "AutomatedExtensions/JJNGBCODOLDJMPJPFBHFELALJBDLKEKH_1_0_5_0.crx",
       "file_size_bytes": 21541887
+    },
+    {
+      "extension_id": "GFIKBHPFJLDBBIKOLKCIMFGMEJHDKJBE",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "06de7e28f93e9800d7c35c3a7b4a1120d1b6ed62fdd83d20b50f3e2a83a9ddd0",
+      "github_path": "AutomatedExtensions/GFIKBHPFJLDBBIKOLKCIMFGMEJHDKJBE_1_0_3_0.crx",
+      "file_size_bytes": 27303921
+    },
+    {
+      "extension_id": "DBIAMDAJNDFMPMMEKLCBBNEKHKDCAKHF",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "97c2041b5356bd5a43d325bc9c58d0adad72e0678882d1895f386b46bb4218c3",
+      "github_path": "AutomatedExtensions/DBIAMDAJNDFMPMMEKLCBBNEKHKDCAKHF_1_0_8_0.crx",
+      "file_size_bytes": 29854398
+    },
+    {
+      "extension_id": "PKDLOPPFAPENPHIHGBLDHJJLFHGNKMCG",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "8494c505f49677cf48eb0e121aab314d0918fefcb4f2f31537fc46db5620f8df",
+      "github_path": "AutomatedExtensions/PKDLOPPFAPENPHIHGBLDHJJLFHGNKMCG_1_0_6_0.crx",
+      "file_size_bytes": 11773090
+    },
+    {
+      "extension_id": "IMKEPEMAFLOMMLONNPPJOBGDPOKBFMOJ",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "bcf17f91b86728de5fd2a52804f856269dd956fbfa8ed69b8269fee76ecc04ee",
+      "github_path": "AutomatedExtensions/IMKEPEMAFLOMMLONNPPJOBGDPOKBFMOJ_1_0_5_0.crx",
+      "file_size_bytes": 37784846
+    },
+    {
+      "extension_id": "IBGLIDKPPCKHMINBHBGCAJOMJPLOMCKA",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "ca5bbb44a181fe58916f4ccf6e550f382af67c1b8aff9668b6d07beea4044202",
+      "github_path": "AutomatedExtensions/IBGLIDKPPCKHMINBHBGCAJOMJPLOMCKA_1_0_5_0.crx",
+      "file_size_bytes": 13499164
     }
   ]
 }
