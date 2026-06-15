@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-06-15T21:05:08.877Z",
-  "total_samples": 234,
+  "last_updated": "2026-06-15T21:41:02.903Z",
+  "total_samples": 235,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1680,6 +1680,17 @@
       "crx_sha256": "ca5bbb44a181fe58916f4ccf6e550f382af67c1b8aff9668b6d07beea4044202",
       "github_path": "AutomatedExtensions/IBGLIDKPPCKHMINBHBGCAJOMJPLOMCKA_1_0_5_0.crx",
       "file_size_bytes": 13499164
+    },
+    {
+      "extension_id": "GKBFOKAEPHNAAJNMPGIIEIDPFIEAMGGB",
+      "source_url": null,
+      "article_title": null,
+      "date_reported": null,
+      "date_added": "2026-06-15",
+      "source_type": null,
+      "crx_sha256": "b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed",
+      "github_path": "AutomatedExtensions/GKBFOKAEPHNAAJNMPGIIEIDPFIEAMGGB_1_0_6_0.crx",
+      "file_size_bytes": 15591298
     }
   ]
 }
