@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-06-16T08:37:18.166Z",
-  "total_samples": 246,
+  "last_updated": "2026-06-16T15:49:39.289928+00:00",
+  "total_samples": 523,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1768,6 +1768,1945 @@
       "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
       "date_added": "2026-06-16",
       "crx_sha256": "b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed"
+    },
+    {
+      "extension_id": "BCAFGKHOIFFFMNOAJKGMBHCOJPABJFFM",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7f1d6007de31a61dbd5789a35ecd30701eefbb197f8769047efc09ea730acf77"
+    },
+    {
+      "extension_id": "aadfnjeeifjafcgmfdjacmllmokcalcc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5ddcb044b85c32dd4d473fae1322b9e5fd6d482aaee2d0d9216375e2e9a3f41b"
+    },
+    {
+      "extension_id": "abcidfelbbfbijdeilhlgmgejdbappaj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "820d9da1dbb2d2eaeeb3ed5302995961a934b510be4c22942c723797c604e5a1"
+    },
+    {
+      "extension_id": "adiolfenpimdeonhngpkbjbjjcopdfdp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "dabc92711bffe300a50073add3fc50d9bad6942460a584c8ce78729a0e0a95e6"
+    },
+    {
+      "extension_id": "adjkkoailfaklaipddajkpncbocgammd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "689801aa34e3537ca4aa337e2bee6d0bb0d1ed3edfcfe7269d7d198409946555"
+    },
+    {
+      "extension_id": "aeaaddfnednkbjbijieienagdilibjmo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a2539b28baf7a165b9d504b7d3b2cf020ee810c3b46066762a0bd7cfa950be5d"
+    },
+    {
+      "extension_id": "aecccajigpipkpioaidignbgbeekglkd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "250927d3fc406fd6afbd2b84c9836ddbb0680579c0f643d70a6bb7717d6c9002"
+    },
+    {
+      "extension_id": "afblbdldehhbfnkjaekojkkinfcdkjgn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a73c617398c2b96bf5ae71d74f6c844e33b3cd4dda36a425f2c84c2d0e540d98"
+    },
+    {
+      "extension_id": "afcjbeaomliemmngehinaekimohojokc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f74ebdf4775aef508cbf32381e58323b1208a56832cd05db341fe2827c0313bc"
+    },
+    {
+      "extension_id": "agfppecmpkdhfbilkkhonedjnjfnmimg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "72670e400eeb2c783f5ced2ee36802c5566b4a560429eed2e89ca8ee2e67d8ce"
+    },
+    {
+      "extension_id": "agplicjllogkjijnddgfjincdaagkbno",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f0da7b29c79e47858374622f1284478c3bf1b4a489855d365c3f0969a99fe5d0"
+    },
+    {
+      "extension_id": "ahheiepjhohjjdmbafjjhckninnlehlf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "3214a599336a66f144c1cfaf1bffb9be4f991c60abfffe137e467871f42801a5"
+    },
+    {
+      "extension_id": "ajhpfcgpnkmokhpkchoonflmbemhcece",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1cbb15ef8b93a1de7154364f72e89ae360646d90969ac7779df42dad5a01c7b3"
+    },
+    {
+      "extension_id": "ajmhcjfgeahcaccefbkmacaljjangjmc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7feda396cb24b61dccb04fe83a0218c603c164dd0e1f093a5d5bd6b2fad0c497"
+    },
+    {
+      "extension_id": "akifdnfipbeoonhoeabdicnlcdhghmpn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "abf7b17ce1ac939462baec1b0e29d157c2d6fe1337ab87b82e5014979efe08f4"
+    },
+    {
+      "extension_id": "akkkopcadaalekbdgpdikhdablkgjagd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2ad5a3fe4b438f5630d090eda4a9bc2cfbb1e9e6bb0c71d26318e46b3b25cbe6"
+    },
+    {
+      "extension_id": "alhilbblgdfkklanmfkbjmhapagpneng",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "cb50a689e28a7c5fdd1ba5ea10438e7f9b458f662a0c9bd54f6644ec76953abb"
+    },
+    {
+      "extension_id": "alkfljfjkpiccfgbeocbbjjladigcleg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "708bd019824310a8915b061c220c2c6aacc787b4a5e1d9181a80f154bba101ca"
+    },
+    {
+      "extension_id": "alllblhkgghelnejlggmmgjbkdabidie",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c8349309bffdbb796359eb6e6214d05e0d47e7faff7ccc965fc2d7037811810f"
+    },
+    {
+      "extension_id": "amkkjdjjgiiamenbopfpdmjcleecjjgg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5c4408ab7fdf62edd1c8c2de55080f4af6cc53bdf631fd7da6f08583d5a81427"
+    },
+    {
+      "extension_id": "amnaljnjmgajgajelnplfmidgjgbjfhe",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8c1691096f1d9a1b4a33066fdf7c6858a624c31fbbe5e006c934cbe2447d8368"
+    },
+    {
+      "extension_id": "bbggeccdbfplmmpdbjgmkkaofbjncnkc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "71461db02824de341f91e32140d220474f53b09a6ea9ba44a1f440ee9e6dd217"
+    },
+    {
+      "extension_id": "bbjdlbemjklojnbifkgameepcafflmem",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "cc65e4c1a183c3ddc1a3185094cbb44e02a003b8b22ffbf2cecc0e959844e4ae"
+    },
+    {
+      "extension_id": "bdjlclmlpcdhiclbimfhhgpgilbeboof",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f115629456da6b2ede189fe21c68f5dd713873faec2df2c592eb3bb1be6fca23"
+    },
+    {
+      "extension_id": "bdnanfggeppmkfhkgmpojkhanoplkacc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2acc16227c6a27d50c11a2362cb4abecdb94635d869854d4b60a5604a1b804c5"
+    },
+    {
+      "extension_id": "bdnlfekadefohaaphlndnnieaolmpaao",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5012172edd0296a1157c64044449bff95e7e37f813de069fad4664a036d0a15a"
+    },
+    {
+      "extension_id": "bdopholihfepohbcaifahepojljpihfb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2fe60b670d7a1de7dc2211ecaf6d7588bcd7547fc5ab1f8b9a29e686224312a1"
+    },
+    {
+      "extension_id": "begnlejfcmkjblajjeafpebgcbcojhin",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "3eba8424340be6bf068a3fbe882ad33089531844c2c95595f0957f1386c7cc69"
+    },
+    {
+      "extension_id": "belplhjdnniinakggihimnikmhiijenk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "21043c738dbc9afc285e30b2b8950ad314d8813252dbe4ca69c4839756c9d4d1"
+    },
+    {
+      "extension_id": "bfkaeaehpekfmfkbindbledlfcbammaa",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "12bb83a982a8c83911c3882a8ca996053eeb862764bff2ae72867f7c9b26b9b7"
+    },
+    {
+      "extension_id": "bfoofgelpmalhcmedaaeogahlmbkopfd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b6e9b877a9d7391f4fd6a597f8b762f61b201010dc8f5fee6e518dfd69243177"
+    },
+    {
+      "extension_id": "bgdkbjcdecedfoejdfgeafdodjgfohno",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a0488439dbbc013a98ec63d9ab7d9029397db0650bbe138af42e18083fbbeecb"
+    },
+    {
+      "extension_id": "bhefdfhbjonfechcjphjekhkdpaoddlo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "3215d91fa76a10658dcb963e16582535ef6bb970afee89ed781d31f41e3cb0ae"
+    },
+    {
+      "extension_id": "bifidmiaihofppodiocakodjjniiodcc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "14295127cf51f7c1690c1414825dc591629c0eef027c062f4186521019e09378"
+    },
+    {
+      "extension_id": "bilaomondbfgpbokppljiindmfnackcj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "782574f32abaa2de599471e3dec6e0f9e51e4d96b2461ebc56f75291f12aab61"
+    },
+    {
+      "extension_id": "bipegidgofcllkbegbgeeoeodlglohof",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d3a8df1aac88a46922f9db7428c150e3320f07f2b0c54ed82c5558c0e19ad30a"
+    },
+    {
+      "extension_id": "bnchgibgpgmlickioneccggfobljmhjc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "bc13e1b324bd1edefd876218c2ec5cdec8ab552807f51cad82f88b0fbad2f927"
+    },
+    {
+      "extension_id": "bpljfbcejldmgeoodnogeefaihjdgbam",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8564f82c5136d466aea1459925a46560c935f35960ea6c0331c3b8923a760642"
+    },
+    {
+      "extension_id": "calbnkamaibciogbicgbgpocigocaofh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8fed2464de6894ba7ff36b34bd1044d5a3008eda0b2fd650a674672c7a9b3f23"
+    },
+    {
+      "extension_id": "cbnekafldflkmngbgmbnfmchjaelnhem",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6718b2d1329d4c2d41c7e2fdcc2898ea6cc72e77d22f505d7210e9693f3cedad"
+    },
+    {
+      "extension_id": "ccbmjnepfjepehocnhdnddmaljhecjid",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "751c28d00ee9cb9618943c48966dd57e616ae412db7ee7724c134c48beea5864"
+    },
+    {
+      "extension_id": "cckipipbgopgoljcdhlfgcfcdkkonfbh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "519f868c3df46d7fd43686911f5f1dfa7bcf7c608e6a882598e1151eba8594d0"
+    },
+    {
+      "extension_id": "cdfjefamdaghbhmlddgnfneonpjbbehp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8d31062e41ba58bf273457554de4da44d8365ce5d609b16e18dac9dd193cb369"
+    },
+    {
+      "extension_id": "cdokinnfpnmkkieepnnncahhgjkbnfip",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "342dfb3164cb7aa01fcab60f4c80d63aeffbeeb9b93ba0331bacf3163910107e"
+    },
+    {
+      "extension_id": "cdpiopekjeonfjeocbfebemgocjciepp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "629ca583b57a2f5fafa166fa224c0f79f3febc615b0de5f7f709eefa004194bb"
+    },
+    {
+      "extension_id": "cehdkmmfadpplgchnbjgdngdcjmhlfcc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "dfc8cabe30808cadff531d2f0bbcbd52f0c92f828cca5d87a2c533eb965fdd83"
+    },
+    {
+      "extension_id": "celcpebbklhbkakkmaiagcgdbfamcggo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b3ce141b79e70cbdf146e9b919826f1194ea30253575dd1326d960b88a214560"
+    },
+    {
+      "extension_id": "cgopijlpehalkmakdjmhjonljokilban",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1ea65e00060ef728824aa075c04539658cd81f6bb9f1f443c34878b1743e0351"
+    },
+    {
+      "extension_id": "clddibaehbcaahnmhnjbnbkccbmghago",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "dabc92711bffe300a50073add3fc50d9bad6942460a584c8ce78729a0e0a95e6"
+    },
+    {
+      "extension_id": "cljengcehefhflhoahaambmkknjekjib",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8da8b31d953a450c5cef913d259ee57f6f1a830b608d7124bd4d485052159eac"
+    },
+    {
+      "extension_id": "clpgopiimdjcilllcjncdkoeikkkcfbi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "35697cc96f293c05b7324e50df966c03d871dc679ee3a205eab91bcc0ecb13ad"
+    },
+    {
+      "extension_id": "cmeoegkmpbpcoabhlklbamfeidebgmdf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "0e682b942eee0dd8650e26c52fb51ddd33c4db5a2a2689877d1f647c1784a964"
+    },
+    {
+      "extension_id": "cmlbghnlnbjkdgfjlegkbjmadpbmlgjb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1576f7300465323be07bfaeb8291cb8213a4d58b098a910a969b222dca8f315e"
+    },
+    {
+      "extension_id": "cnibdhllkgidlgmaoanhkemjeklneolk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7fbe2f227a11016124351f4e2881304b50abaaa3d974b4dfb8fc173f81904560"
+    },
+    {
+      "extension_id": "cnlabipcnjebmibdelcindmhkkchndpd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c2e66c866b1142b1e91caa134a0d891f8a77b4c370e927f6db240b83707214d2"
+    },
+    {
+      "extension_id": "cnnafooohihkcoenaemoplnapabpmaak",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c8563348007ba5024d17a9b5d74b9ce5c126afc02b77c0e3d9fe2bd9590cb5a6"
+    },
+    {
+      "extension_id": "cpddjnopcpkpdhkhnimmgnniiglambdl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7419bb48919351ec9fa7e464e3f0177e6b7a3b9dae7028f4818ccb7887fd3a7b"
+    },
+    {
+      "extension_id": "dbfgidnodecgmmademfkaddkjidikobd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7bb9ccb3b67aec15b407131c4b77c97f18c74d4526a795f955dbaad1b3abe947"
+    },
+    {
+      "extension_id": "dbkhkbbjngadephedgpahlhomddaecef",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "346d197168409868957ba43464b0f0500a4d595118de62e191cefcf12666696e"
+    },
+    {
+      "extension_id": "dbohcpohlgnhgjmfkakoniiplglpfhcb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1ec01fd98caecb43d440261ab1b81048a9fb92f494ca066f3d62f6d314de0ce0"
+    },
+    {
+      "extension_id": "dcamdpfclondppklabgkfaofjccpioil",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6c4d77afe2d3a7f2932bdd1b67ac866207e3acf5179c46092b793190a5d08b2a"
+    },
+    {
+      "extension_id": "dcfplngdkjdeadfbnnklpnfpannnbjpk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1ce71accc3ae7c5baafdc4b4516c4be1fbe1f71ff781f0ac39378b8c8fda5bce"
+    },
+    {
+      "extension_id": "decnpcihddaibncfimicaidmhmhfgpjb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f9438023f1c7be568fe092f3df3128812d4af8c83086954a8efaef75ff4ced4d"
+    },
+    {
+      "extension_id": "dfcklcdpnbecfbjipopoeigjipfmnmle",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9169569f90d729a52471c854f8161b16c61057d9c3bbeeb39858130033f8110d"
+    },
+    {
+      "extension_id": "dhlkhbfacnmldfohkfchjgkhkfolgapg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "37ae81a6366a52d3df9a25088e6d9828ccf1e4bea0b82a1e4793a0284435bef6"
+    },
+    {
+      "extension_id": "dhllmgbdfgblbeckhcidmbcamonplgmg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9ea45cb26e735803fd1b30b2247762b4421348d48fa2573c320b6fca68c36712"
+    },
+    {
+      "extension_id": "djfpdmpoladfinglebbgkpcbiifhpmed",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fe4f2927caccf6b524360366c606cff84ac9a0a8dc6c7f1a5522ca87f5fcdbcd"
+    },
+    {
+      "extension_id": "djlolemkfmghdipoalonefccpgjbfanc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6a50b485096403eb814fc841399886ffc28693dff6a0e0ffb8d696c17853c05f"
+    },
+    {
+      "extension_id": "dlfjpodlhgogdiokffnejehokghbdgca",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2e9f7e9a422b52b3e4a9a237183c2d0c3cf4094253ba015f6ccad733c30d127f"
+    },
+    {
+      "extension_id": "dligcnabijlnmgbamdiakeoencoomaef",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ae78259e34316e6fc8be49f91b9a2077dee4cebf94f1518fd3483896f760f7cc"
+    },
+    {
+      "extension_id": "dlpiookhionidajbiopmaajeckifeehn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "eeed10bee73b2b78a578716eb8b2cf80210553f8062e461f88bd740ae959d849"
+    },
+    {
+      "extension_id": "dmeipihagdngmblfpfinkagindgfbmpo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "506fbd02a3b54a17d3524f09265040282b98bfcb7b376fd499e5dd1728598d34"
+    },
+    {
+      "extension_id": "dmjbglakodlaodocplnbmhpdhngllhoe",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4c504715e66edd8334860c4353cf63c69180c1ae03d8e1742d689d6c77c704b6"
+    },
+    {
+      "extension_id": "dncncgaaalajgbijnalajojmmdmbdeci",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a4283db7036632949c50301d6276b2eb4a032cbc7d59bef9e8dc56193246a5e9"
+    },
+    {
+      "extension_id": "dnehmmlaljfhkdfekfbpljalkljgpmkj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "82d85c7585b766ddf1293d0106fe1f0efaabe77b3130cc9ad69f1e0fa6492065"
+    },
+    {
+      "extension_id": "dohenclhhdfljpjlnpjnephpccbdgmmb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7c602c80d2e8fb49ccf093642d62638759a075faa69d38974a01a34c4a0d2375"
+    },
+    {
+      "extension_id": "dpdemambcedffmnkfmkephnhhnclmcio",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "879e3a13bd7d411d7b2dcbee9e05f7ac828d9fa9cb53552b38d55258d04f546b"
+    },
+    {
+      "extension_id": "ecbkfpnhjofeoimpihdlbcjcedjdllin",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "808a15c38033c048e9e337ad470005a6526037b903768f0a028c05a3b6e669c5"
+    },
+    {
+      "extension_id": "ecocgofdjmiomgmgnchijbghkikolkkl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2e184fc56bb4a69fa0a76f774ad3d7cd6f5846f20ed74788f5e68eef73652aee"
+    },
+    {
+      "extension_id": "edmogjhhhoikmgdchmfgmdfnajnfpopf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "98982e63f54b7fceccee0c110d477ea85dcac0f0b47e5e9a57b3116bebdf2c7e"
+    },
+    {
+      "extension_id": "eeicldodfhmgcjedepfmmpdpibebgkbl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "96de6435d15737f9da5ec7d3e75b900a0a8291b9e81c5e76acb3f06083165a06"
+    },
+    {
+      "extension_id": "eeoonfhmbjlmienmmbgapfloddpmoalh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9d0f550ac883455ed64da402cdb0c822c90de405c540678e0697b77fe20de3cf"
+    },
+    {
+      "extension_id": "efdcnjhnhbnbcclppmfdgppjndkjince",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "13f3ef8cbbb0f6b3e482aca66a9b91ff32a1ad7cd691fe271aea2f42d4b15e8f"
+    },
+    {
+      "extension_id": "efhapddipneibbpcjogidfhbhhhlifdn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "bcacacec0f73ee8b690795fa9ce222792217ca5938bab0e7fdd6b22870a89954"
+    },
+    {
+      "extension_id": "eibdnpjboejipjmbkodlbcjlmdjikpjf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ecfd1a2753c1d60a6207e35e41054debdcd10cecd7188de186328fb08e9fa847"
+    },
+    {
+      "extension_id": "eiencjmoddignmjiapafelkfgfmedppl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b4731f48adc8e0d6501f9814074545acf9d7da54ed39ac77d9f7183d72e440d1"
+    },
+    {
+      "extension_id": "ejlcbfmhjbkgohopdkijfgggbikgbacb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "857541d2fd1faa93e469fcd24264d650ddac843073e67477316674831c98c67d"
+    },
+    {
+      "extension_id": "ekgffgmnoaclljkicakkmobeoeeahmac",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4a2a36f52412f42cf866244ec3badd1a86b6502474f29ad49327e4b4cf99ba5d"
+    },
+    {
+      "extension_id": "eljfpgehlncincemdmmnebmnlcmfamhm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "894e448372f6aafa9ee13a227f3b43e8d3456de74a721fa133cbfbcf8325b15b"
+    },
+    {
+      "extension_id": "enbiohidhjmepichhkjgbgppabjembml",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9644c7db2ed3739a28fd101e6877b5c3a1ba6f159644ad93b522386dcee45edd"
+    },
+    {
+      "extension_id": "enmmilgindjmffoljaojkcgloakmloen",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7c46da189876c72925365619ab49720807fe8adab83465e97dc00e770fd26d63"
+    },
+    {
+      "extension_id": "eoilhlidnimmdpafpgiehnmeoedjagge",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fede32ad2f6b9ee5b99aad1608e792de2d7c417a9e3d71693bcae0c9b7241e80"
+    },
+    {
+      "extension_id": "eoklnfefipnjfeknpmigmogeeepddcch",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "bfca267cab7132d6f8a67f9ef27b977cf1c2c9e6e259129772b2a25bd6be3bab"
+    },
+    {
+      "extension_id": "famoeaahdjkggighmjpagpjmcmbinkia",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d0f9f8a63f0495aac440eeda15015cd06c314f6b906a86e715758873fed32b0e"
+    },
+    {
+      "extension_id": "fddajeklkkggbnppabbhkdmnkdjindlo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1577505450f775e01da3365270ad033f5f11e0b3ec1d2378c10c92b4e677d531"
+    },
+    {
+      "extension_id": "feamnjpoiogkfkiihejgjlofhblfbebf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5b3fafb139845b703b5f7a5e93911a3d7ee86b15e4e460b3dc3b49caa2c48eb5"
+    },
+    {
+      "extension_id": "fibgndhgobbaaekmnneapojgkcehaeac",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8dc3f4864b9a808856539b55b5c14b2311b16dc1d3b98cf63197895e66491f0f"
+    },
+    {
+      "extension_id": "fjeahbfapbkbpaeijlhjokafegcgakmm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "05601c057be5683f8ce967c8882c199fa1cf96023f40d1e80c1d1da9a17ad5c2"
+    },
+    {
+      "extension_id": "fjfhejmbhpabkacpoddjbcfandjoacmb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1dc4f307a1ee391eb3c24a28ae7f50a642c7c00b07c26ffd894b9ad513db15a8"
+    },
+    {
+      "extension_id": "flkdjodmoefccepdihipjdlianmkmhgc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9bfe0129099d91ce0f921ea018ee152fb598d25b0502dc304ae33127f0d7f830"
+    },
+    {
+      "extension_id": "flomkgojkgpbholngecnpopgafijhenn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "899cf57c3f612d499740abff4bd224a2d93a254bc1814b8f43e60ba8334b4f96"
+    },
+    {
+      "extension_id": "fmajpchoiahphjiligpmghnhmabolhoh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c91615d845ef8e65d7036b468d6073aa2554f0b9f33250fb4f820d81209c653b"
+    },
+    {
+      "extension_id": "fnfaggodhehejkigojefdehaffoneokd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fc6252f8a92a832ff86d737cf860b1fcb7e17d7eca42639a4cb4701370fb6b25"
+    },
+    {
+      "extension_id": "fnfhdeimoegdjjpnmlpfjpchpmndamii",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ecc5c2e8fe6146648139a2177d75bf677247fb1733875df30254c689819be8a6"
+    },
+    {
+      "extension_id": "fnjofkjppepnhofinhhiobdigngbfaig",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "512879f1ce48787ae4b4f3132c44d2daf270af879d6515264d953127b5d80bfa"
+    },
+    {
+      "extension_id": "gaafhblhbnkekenogcjniofhbicchlke",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1bd0fa3908bb91f7d5cdc065ae2c992e5efd3b5d1dbe357c39f9d5c091526065"
+    },
+    {
+      "extension_id": "gbaoddbbpompjhmilbgiaapkkakldlpc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a66e4c4fd2325bb7cfbd1edf554077ce3202ae29d5f5ac6420e80e83ceb85030"
+    },
+    {
+      "extension_id": "gbhhgipmedccnankkjchgcidiigmioio",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "903c7f91e1dabda464d1444f049c981928d3458f5a70105628bc30d0df8bd195"
+    },
+    {
+      "extension_id": "gddonialdhbldcdbnbloangmjnpcnhhd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e3d530b11c867b207463f2e816a839f11fd809354a0c2989c92176518b7cb606"
+    },
+    {
+      "extension_id": "geceobkknhgcbgnegnagckpnmfdfcppk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5b1ff6fa9911ce953271e69b6e0b03a8e475238eeb5e0ad1a175215a07ff6434"
+    },
+    {
+      "extension_id": "gecgngeaifpeokmajbhcmdahkkfhpgic",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "cbf66605c1450487936aed01d38907ddadc16f3908249a1dea54096b0fef86ec"
+    },
+    {
+      "extension_id": "gejcmgekakacmlccopnlhanpipkfggcn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8843773e7c7e0848d2d9613c4df738c12c111e9fd00f728f2a8966219128c512"
+    },
+    {
+      "extension_id": "gelkonncfnniglodoncdmgcijikjdflg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c313acda1447a1cf1538e029f576e34012cdcf07ea5fa0bcd1cd698888d6c528"
+    },
+    {
+      "extension_id": "gfhcdakcnpahfdealajmhcapnhhablbp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a2305aeb7c30645d78d9d76208c4a41c72f989215b097ad0ede151d52ebe6cf8"
+    },
+    {
+      "extension_id": "gfmgoodobmpmhoilhblgkocaehlkopod",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7619bc19e026f7d8ae50685960ec7fc14b0210028eb97159bc1a8e8bf9b87e1c"
+    },
+    {
+      "extension_id": "ggpncchenfmambejcehgjadnedckijaf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a0c878b42c5ca3b1bfaaa5b08f87fde17d34c80f190e1580681b2965040fd2e3"
+    },
+    {
+      "extension_id": "gipmochingljoikdjakkdolfcbphmlom",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "338835560da1c1d8169b300b0b0cf7879ed26d45d51503b72c19eba655291b49"
+    },
+    {
+      "extension_id": "gjaahnaaehopcpdhgpjddonmkgffpmji",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a420032603ded89b36d0419e85cd680d0f65df5e0a2241a2305d1e340999d61b"
+    },
+    {
+      "extension_id": "gjjpikdggjehfjlpgndjhjdnljenndig",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "57fd3fcdb430505fece0753cd1d5bf941a38f8eb755b96041c4b259b592fa6b2"
+    },
+    {
+      "extension_id": "gjlebhdhmjiahfcefjanmjcipihapcob",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7542984881c660c563c409695dc48a3336951deceb6f0613f129151bc3ce1883"
+    },
+    {
+      "extension_id": "gjpinhcpfmeokkonngflhkolacglkpmh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fa568197a5e48d5f44730105acd0024127cff2d973d711d5f42407cc0f90372e"
+    },
+    {
+      "extension_id": "glmagbbbkofdibipgefimkdfbppgodee",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e9b33b36e2db8970778dfe5b95396ad0bdf12c7abad5093463fb1f0261ef9502"
+    },
+    {
+      "extension_id": "glofhphmolanicdaddgkmhfmjidjkaem",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "57b633a5c5d05d5cc4f294e53bbf4b5a6412b5e9b5a6eb886289bf3efee53094"
+    },
+    {
+      "extension_id": "gmcfalbhfnhpgffchgogpnlmdgalbeml",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9af08694c2d76ccd6134df6278e4015b40334f9db8a2696474e1017e462d8098"
+    },
+    {
+      "extension_id": "goadfckeiedppmgdhbaceoiffbppkknf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "719f7a00f0d0c64ee0b8ca99007a27a449aaa3e970a6e4a4c619525a976230e2"
+    },
+    {
+      "extension_id": "gpjofbomakaiicnnomapefkleamhphle",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a752b5b1cf0d3e9e44895b38e8989683ae7505906e533f8bb96b9ceddc2c6d3c"
+    },
+    {
+      "extension_id": "gpkgjopaiakcnokecmocecnbpghkkjhg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "30c3fbd63a36225889361e2fc9fe7d23638a69e8c4d26e5299c0e6712a9713d6"
+    },
+    {
+      "extension_id": "haochenfmhglpholokliifmlpafilfdc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "25c820535c15005d7fa53e76531af55657339a00933bb26304b38017c49e273c"
+    },
+    {
+      "extension_id": "hbobdcfpgonejphpemijgjddanoipbkj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "512fa7a49f9a40f019595763a6143b655ee3b202425b8cce9da43032f651d682"
+    },
+    {
+      "extension_id": "hdhcdlpopaiajpcmpnednmohdnfdmclp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b52ee95673e1d911256696b5ebdfb7b6ce97605139060726257302994a6c48ac"
+    },
+    {
+      "extension_id": "hdmppejcahhppjhkncagagopecddokpi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "74d9ae29ac47f658c91a406474d16eda5b0bfd891fa5d1d9578c26611fca17c7"
+    },
+    {
+      "extension_id": "heljkmdknlfhiecpknceodpbokeipigo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4b830610167dac1625237f3d526fd7ac78f3b5b1777f13bcdea10a336c9c5bc1"
+    },
+    {
+      "extension_id": "hfignegjmgkcmeipgbdpaihpbnjdkgbm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "91166de2e4c8b3648307f8c5ff71e72ead28d6b34e0413db27075e23c205a77d"
+    },
+    {
+      "extension_id": "hfnikhbgpncbgfjnnccinpbijbaekaon",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "24bb90a4aa94d0bf6a0a7d21bc4cb935bf63df73de1ab17e51513dbc2cb5efa4"
+    },
+    {
+      "extension_id": "hichkepmmfdhhnagoejglmkdebinkcca",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5c4528f9a0554bd6f75c2e183fc77178f3e582cf8ae4bb9b3141cc2d0c5239df"
+    },
+    {
+      "extension_id": "hijpkhinofkdobfagfbobnnoihmopgkk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b37e675050b1bb84cd516b6e9b694c14ab02715383f576979e0d6552467ac388"
+    },
+    {
+      "extension_id": "hiofkndodabpioiheinoiojjobadpgmj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "01e316cfb9272838f3bd04e48156dc7586041363919f0a9146758c057dfdf7f2"
+    },
+    {
+      "extension_id": "hkbihmjhjmehlocilifheeaeiljabenb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "707288667d187f9a55d09633b681609831b95d4345c3c1a406bbfd41903ce5ef"
+    },
+    {
+      "extension_id": "hlmdnedepbbihmbddepemmbkenbnoegd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "480ab4c0f71b72e497604a2559bf338f00d2c4bf1172636553500e9b80a340c9"
+    },
+    {
+      "extension_id": "hmlnefhgicedcmebmkjdcogieefbaagl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8530286a015725b2fe6dde5f9cae39736f24eb399b1490bcdc7b623aecd86bbb"
+    },
+    {
+      "extension_id": "hneachchlcnnfkhdiepdpoojodpjlanp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "da42b3c5259609684b5c8875b9db1f78497e2041f2ef78bc7526b33d0e978dfb"
+    },
+    {
+      "extension_id": "hnhdhliichckphekkkgpopiicfdbcocc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6c06c9c1e659391ef9630505f32890373b9fbec67465858c02a5b0bbdfdeca7b"
+    },
+    {
+      "extension_id": "hnpbijogiiaegambgpaenjbcbgaeimlf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "afec70d478cb1c0efe46371d316faff67c01f30e06dc21465481b611748718cf"
+    },
+    {
+      "extension_id": "hpgfgaaaageiokfojfajdgjkkbadofjo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f07a2abab11f9c79d39c8fe6128fc30de70c0cb2e901d4dea104e51c556b2a4a"
+    },
+    {
+      "extension_id": "iagfghcakcckojogakhmdeebmkkjldfb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8416250ea27f7cc864f205d395cdee2f5c50f9f95a0da574a8ca9eb70e05fe0f"
+    },
+    {
+      "extension_id": "iagkmpcgnlcdabaheobkeffadmffoolm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "cf917295e39746ae3fcfa7abca6a33b7a800ef45a435a8b3a2be12cb3c784f84"
+    },
+    {
+      "extension_id": "ibelidmkbnjmmpjgfibbdbkamgcbnjdm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fd685d13e276765811b4baba1ad166994f9b3630ee18bcc01520b45da62d6f73"
+    },
+    {
+      "extension_id": "icajjcahmgdpeilkbjbelkoinhonbaeb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5c4528f9a0554bd6f75c2e183fc77178f3e582cf8ae4bb9b3141cc2d0c5239df"
+    },
+    {
+      "extension_id": "iccpkfpgkhinigpcaldpldkjpihcngin",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "9d7a4a0eb1f4304da3cb29cd2fbcb67b223534c3d88583b1e9569c00af5e833f"
+    },
+    {
+      "extension_id": "ichbopbcihgldmgbgijfllfikfpeamlo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e60843374b6d8fd69bd87f3605c91a797372a6d93df1299225a0915adca9c472"
+    },
+    {
+      "extension_id": "ieildpjdcdcakalhlckdlfcejfddgdcj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "388a830adaeef25976c78d1741fa76626e79ce0b67d1900b097971333f97a8fc"
+    },
+    {
+      "extension_id": "iggbnejemgjglnmkfjipacpfnbblkhgc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "0f2be31c31c97dd7aa7c04878471f8c3908459835c232ca60269f5b1bda34e6b"
+    },
+    {
+      "extension_id": "iglemaflhcmkkepecnoibopljmocgmld",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "01a7b83bccd31c84d58b746884c92652fc514e9b8372a37a5af57180cd392e2f"
+    },
+    {
+      "extension_id": "ihbkmfoadnfjgkpdmgcboiehapkiflme",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "72144e429251562ac1b3f58b180febc41808bbd6665b6885a355722b2eb43e06"
+    },
+    {
+      "extension_id": "iincgojokhoknbhgjaljpihfegfpbjih",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "087d1ffd8f294b486f824b7b9515fabfccad896091aaae7ae65c2ccd59ae448e"
+    },
+    {
+      "extension_id": "iingfcnnoibkdojcnfahhflafimjikce",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f87b172ea3d13612ad518f2b4be224382f707651799f14a9a9740b2c6225eb41"
+    },
+    {
+      "extension_id": "iipphhlmjmblpialebokpdpbnadodkbi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "23fc788f5c4d8e5f7de881a07c8420b5e4b8eb6af3dc3c5ca6b1911499c86220"
+    },
+    {
+      "extension_id": "ijbpegpcaiencppbgaldjflmllhhdfog",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "91166de2e4c8b3648307f8c5ff71e72ead28d6b34e0413db27075e23c205a77d"
+    },
+    {
+      "extension_id": "ijccacgjefefdpglhclnbpfjlcbagafm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "335bbffa0d753d5261ac64f83bdbcd3ef3a5913a773297773ca3bcb109871d80"
+    },
+    {
+      "extension_id": "ijfmkphjcogaealhjgijjfjlkpdhhojk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "904809ced7805ad1f386ae25fd7fa5d57b62eee2c45418d82daf6afd2da41827"
+    },
+    {
+      "extension_id": "ijgfnklhknbjfjjbacefdgpjbkjdkfoc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a42a9047a8539769b9b6d6cd9766e8e2815e3a260ad073aac5aff4f740c1845f"
+    },
+    {
+      "extension_id": "ijpgccpmogehkjhdmomckpkfcpbjlmnj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7920d85ecfcb05077a0a923e0b4a4c49b2e5a87c8fcb4cc13b8167ebfe48f42b"
+    },
+    {
+      "extension_id": "ilicobgjklfepgokldofhpdolhkminom",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e11620f060681c0fa15fd5602ece9ebe257125de4cd3c91006409fadfb417f06"
+    },
+    {
+      "extension_id": "imaibfagcdapbapmnepebaamfgjpdidk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "39e492b362ce2b58cbe57b8f809f35ecef2c41eadc224b196ab29f4d52cbab78"
+    },
+    {
+      "extension_id": "imjmnghlhiimodfkdkgnfplhlobehnpm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "03b0348b0b659b58fc2ee22e001944bf54f76f76e7d8fb6798a27a1bd7f8fdd7"
+    },
+    {
+      "extension_id": "inkcephcpbbfnikbgdklmnpjgbanginn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "764af1f4d6ce55fee42699159a5b1e86ff43be99f0770afda4bab0ad1568c9fc"
+    },
+    {
+      "extension_id": "ipiabbhciknabpoihaakdahgghllelpj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "474f17eba64c7f6a59a0ffd0cac168063932de2b9868b150f8e3bb603f16393e"
+    },
+    {
+      "extension_id": "jbaghkaihalnmkknemcgjikkimiecgpn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4a2a61329834f255feb0e7a9b01b8ab04e7e100ab66435a23447113d0f063eda"
+    },
+    {
+      "extension_id": "jbkmnkhkobkaegbhbeimoclnljmpknng",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2446198e51f2ed41db0a7797f6585513bd222af57af44ada475665a8160a405a"
+    },
+    {
+      "extension_id": "jcnjcmfpmcdhkhloilpalealdbofanko",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d83e11ca6163579f0101a9acae83c882ad7db62ac0d7423f89d900bb691aa5a9"
+    },
+    {
+      "extension_id": "jddinhnhplibccfmniaakhffpjpnaglp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "303b097f1a552f7f584b6d474f525b76f634bb22c0ab6f8d4563250d3b670e0e"
+    },
+    {
+      "extension_id": "jeoonjgjpiepmdcmgcdnadamojoefbad",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "708ecf760b4fb632b60d66614a7b53888acb7b065bec804a209d7d0e374115fb"
+    },
+    {
+      "extension_id": "jfbalacimgcefdnniabmbejpgnhdhgng",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "237c1c094b32f0e80fc335983dda554ae11a3bf606a4d7d6ef87abf5578a86d4"
+    },
+    {
+      "extension_id": "jhnpoiikhnkjlfcffohfbkejnoojcopc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8874573688ecf883c471cc87cbea04c40d9a3e00abe8d7f807224cf4f4447017"
+    },
+    {
+      "extension_id": "jlkogclddcocddkbgleneedobmfcflji",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fe7f188fd353731a069566cea610149b82052da4fdb21e2b4b600ad13b69664a"
+    },
+    {
+      "extension_id": "jlnmbimmmnmejkjgaedggiignfciekim",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "acc337d7f7e4ff1434345ccd376a6faa3423fe6083b0b284bdc85277237550ae"
+    },
+    {
+      "extension_id": "jmopjanoebpdbopigcbpjhiigmjolikk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "dcb92ac26452679593c02a68ceac3552ce6d618e3ffdeb39952a2897602cd94f"
+    },
+    {
+      "extension_id": "jneelgnlhodkmclkcnooopnfmamckbgf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6f93ff50e182cef8cfc6f757d4bd131df32a012cf4ebbd74fa88036805c34c99"
+    },
+    {
+      "extension_id": "jnmmbmkmbkcccpihjgnhjmhhkokfdnfe",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1bf03830ff1fb34e1ab55835071318a5565072e5fa61d0f92293198ea1c8c1fe"
+    },
+    {
+      "extension_id": "jnnkcihkpoljaejgnmaohgbodpdmfmdg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "10f35edf5edb93ab12c98af5103d68ff913fb61a0efdeb488262f5dbc89a4c51"
+    },
+    {
+      "extension_id": "jobeagkmmpfpepbabognchgecbehljag",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "eb773ab71c0bd1f1f378534d35422601336eaeaf7f8b7206f9f2a613bb368879"
+    },
+    {
+      "extension_id": "jodocbbdcdclkhjkibnlfhbmllcpfkfo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e732f6b4e08241e059c08d3f82a64be3f064baacfdafc5074ba1a4c031f51470"
+    },
+    {
+      "extension_id": "joklccphgbkamedfgoeidmlcgjpdnlgj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b9826c9755dcc368d9acd1ce87ff2c6e95f444f1166bd5e6ea7fecd4b0e5195b"
+    },
+    {
+      "extension_id": "jpmhndngfnbfdpgdbombckddiflphpao",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c71c1586aaffff159667fda4d06e22b0038da8e971501ebb489b9ed805732257"
+    },
+    {
+      "extension_id": "kahcolfecjbejjjadhjafmihdnifonjf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "98eb95507bf157f264536900a2a270179b4d97f02213318ebe4eacb90779f186"
+    },
+    {
+      "extension_id": "kblomapfkjidbbbdllmofkcakcenkmec",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8576cf916d255fdbb89ebef0a90bf018a38698f04bfbd6249f3a484c61c2c203"
+    },
+    {
+      "extension_id": "kbmindomjiejdikjaagfdbdfpnlanobi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "0154d1a8f6f798778e0aad5bd1224983b92c7f433df37afcf7bf553802b893ee"
+    },
+    {
+      "extension_id": "kbnkkecifeppobnemkielnpagifkobki",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "3931d7504c70cf34cc34ac7416cd0ba967c3a8c3e31ce242c76ac1a294dfec90"
+    },
+    {
+      "extension_id": "kfnbcjbhjiopgnlmigcigiooenpkkaib",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "393f120dd425f11fd81e5506fd29458ef9c78c3a2674a08769591a60aeb2753f"
+    },
+    {
+      "extension_id": "kjhnajdlflnfmfdghcckbngdchajaime",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "0a31448255e95114676aa958240ead2732cf030aacae850f73e99ab0cca5ff0f"
+    },
+    {
+      "extension_id": "kjnakdbpijigdbfepipnbafnhbcfdkga",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f88f8ef8433aed5e00a02e0bb1bf77b5c19df1c51c702e63e2ba964d0c59aa7a"
+    },
+    {
+      "extension_id": "kknakidneabpfgepadgpkibalcnabnnh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "417b278aa1ed256ff04eebab80c0e2055eaf35289ee0628ebdf158cec489f590"
+    },
+    {
+      "extension_id": "klgebnlgcgpinhblnheofececjjaaofd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d46eedbfce64d1cab37d95dc177bd8c9212e33e1c6ea054d9684f457ac6a4062"
+    },
+    {
+      "extension_id": "klglejfbdeipgklgaepnodpjcnhaihkd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "61cbfde91722c4234e8136b68429571a5e173bdaffa77ccb59644b1c1d06ab72"
+    },
+    {
+      "extension_id": "kmeneimgonibpggfkjihdghpaioikppd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "adbdcc6e6ed22c96ffa0a5ba105a1430a8d66ad7c91c7f33a9142a2ba1b4dbef"
+    },
+    {
+      "extension_id": "kmiidcaojgeepjlccoalkdimgpfnbagj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ee46d2fff2658c58d5ae0c0140e47947d0a0950e4f7088014ed9140e9720f7d2"
+    },
+    {
+      "extension_id": "kocbandikoadlapjnhpgbimaoncpnkpi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1aebdff151240ad8738e9b835828cffd139ae2a627b662f555b4361260dc7b0d"
+    },
+    {
+      "extension_id": "laafpeklcnlfmjaofbndehkjpnccbhek",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "50c77572c9cc4f1e7550daa27de5c5db1005ee52eb7adf48fa9d81317f6db762"
+    },
+    {
+      "extension_id": "laeciedchhnmnfhllplcgkfcdbdfgdhn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a69f5e2913d4b82a1833ac9fe820f9d5f6a49e9593ddf370b0360b3d06b76854"
+    },
+    {
+      "extension_id": "laombeiddkmdfbnfobjgebnfaedefidp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1124e6d8154f4416f4eb3fabe5fc3907616e2ea463b733a10f19eb49c205bf57"
+    },
+    {
+      "extension_id": "lappfnpdgnphiodelgopbncadpoldica",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d8a4c312619969612793964f949da00f2eef1727d7745fe4731d915c7cc055ac"
+    },
+    {
+      "extension_id": "lbjopcoldneclmibpaomiencfonnlghk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "139bc09d097679178e37b228adc97b28e665ab8e716f397e3a0ff080438779bb"
+    },
+    {
+      "extension_id": "lblgjffllphdepifdkfhlihddckhlkll",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "91166de2e4c8b3648307f8c5ff71e72ead28d6b34e0413db27075e23c205a77d"
+    },
+    {
+      "extension_id": "lcijkepobdokkgmefebkiejhealgblle",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f23fd9847cdefe3d4c34236d16911c4929071db12d1f351777c5d47adf5085f1"
+    },
+    {
+      "extension_id": "ldmnhdllijbchflpbmnlgndfnlgmkgif",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "632ebc0aaa2cc186b80aeb8ba21a993c0f4f6cb8e50d1d1af22a60ad3f52cadf"
+    },
+    {
+      "extension_id": "lfkknbmaifjomagejflmjklcmpadmmdg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8161f6e76b1ee90cda225631786a87312c78d81e7a0353eb6dae0756cdbc114e"
+    },
+    {
+      "extension_id": "lhhoicpajfbijboekonjnedpicpdijfe",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "26d83b5e34f4d7618de02c403c457d1311abb6d5c478e9d16c216830c1f4fda1"
+    },
+    {
+      "extension_id": "ljbgkfbiifhpgpipepnfefijldolkhlm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f2afb8df786f7782c70a48241bcad3a1f25dcbafe7423ef0872d03e6ef91c555"
+    },
+    {
+      "extension_id": "ljpapggfdnpbagfbfnlolopaiknkbbmb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d5ab94bf8ed377ea16b498e018941976d74d7dbfc2351b2c4e708138ecc8b4fb"
+    },
+    {
+      "extension_id": "lmaaoejgcoaieeddmdpjpmhmbpepnckf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2329d5950bdc429feb170f2cdb0c7925ab8b9c9f3e8609e909dfb8c1449b1365"
+    },
+    {
+      "extension_id": "lmcpbhamfpbonaenickjclacodolkbdl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7f13897348e0d7e84938c3d276d8e847ce538b50f5735b801a111fd5e1cdbf80"
+    },
+    {
+      "extension_id": "lmgenhmehbcolpikplhkoelmagdhoojn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "774737a2d33757e8ea1b8b1f90e70b57fe7686655eaacd4fd17b62103f6e8378"
+    },
+    {
+      "extension_id": "loonegbofnbcimpgbhnhlmhgfaidodbf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "be3597e357a6af6070618c85eaff96da1806d17b50fdba69413b5f899287e0f7"
+    },
+    {
+      "extension_id": "maeccdadgnadblfddcmanhpofobhgfme",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6b9b51698b25dde5c62c45a079315b1c981c108a23debd3015dd58dc6f5950ef"
+    },
+    {
+      "extension_id": "medkneifmjcpgmmibfppjpfjbkgbgebl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "02a645b687a6d1a9a6868797151b55a6e49315ce23ef826f197be97a610d861f"
+    },
+    {
+      "extension_id": "mefpdeoonpdjecmnekooffdonpllblnb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5d21872ddb02a242da5cb0e3777bf7074d6e1a238b78b8de0997c46357142ab8"
+    },
+    {
+      "extension_id": "mhekafflbaidbfikbjhdfioajiahflpg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "169db4130688c737467e814b4259d91ff5634750b8e3c180b5ec1edc9411fb29"
+    },
+    {
+      "extension_id": "mifhdbomjebcedjhoclccddgmmjhpkne",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2ac5ee42c7c7c34a8f84443287911d95301d6acd8fb9b45468472b83f0d19ffa"
+    },
+    {
+      "extension_id": "mjdhgndjbajnanfimjipafechjbakdhh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a4283db7036632949c50301d6276b2eb4a032cbc7d59bef9e8dc56193246a5e9"
+    },
+    {
+      "extension_id": "mjoehhmchapliffjeiopgilfhmphfpbp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e983f0cfe1d38776a42a8cc4aa2aa8a836e8d5a3f7e7ee337ec289ced82b9fa8"
+    },
+    {
+      "extension_id": "mjojolnflneijogfbcoficpkmldhamba",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a6545259f3410b17094f249222c8b92da98aff38d0f5b43c90f6b09b6e60bc9b"
+    },
+    {
+      "extension_id": "mmbbjakjlpmndjlbhihlddgcdppblpka",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "452e962b444e6c9b50137534c3ec947d2a42b35d363fd9e529996fc1d64bb931"
+    },
+    {
+      "extension_id": "mmbkmjmlnhocfcnjmbchmflamalekbnb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ec089a0af9c687844c499f904c878fbd37c9430e9f53d8728e33f87447607f58"
+    },
+    {
+      "extension_id": "mmecpiobcdbjkaijljohghhpfgngpjmk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "901f0b6c3351ab969b8388fcbc011a1277e35f0af7ffbc539cdec81a061789b5"
+    },
+    {
+      "extension_id": "mmlpmfnhfgjpogjjleoklkfeipnnojgd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "1da9798ac18097978b23b885bf02f4078aaa1edb2601df3a125e0642021b011d"
+    },
+    {
+      "extension_id": "nbgligggjfgkpphhghhjdoiefbimgooc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "261be9938f5c1bf2110084495f564e00cde34e9a4d6c6c9f0d40b6113553e56a"
+    },
+    {
+      "extension_id": "nbmkfpfhpmajmnkihgkmbgbnalncdnna",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5702d737b9775cf9d0d0901e910496793c1123a11a7422d3a73e6441e3de5834"
+    },
+    {
+      "extension_id": "ncpdkpcgmdhhnmcjgiiifdhefmekdcnf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "10d85f3b23e8636731ceaeab8d484ac4d048bf0272c5fee2f120ccab31f2a034"
+    },
+    {
+      "extension_id": "ndeeopioahgjcemhhbgdoednmaleeemp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "eb97e96b5d6a689922c4037ac42994fbfca31b020057ca418ac20f76f8f7ff3e"
+    },
+    {
+      "extension_id": "nelbpdjegmhhgpfcjclhdmkcglimkjpp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f0663f784e75fe89638b03f1415dece59fabfe5cf8cee2cfa24e4ffe81c61d25"
+    },
+    {
+      "extension_id": "nhdniddeikmpbapjcmcoaglhgepfmopb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b9092331e4f764c6d68f9aa5d8b60800c0772e156d441b92e15ea17d78160087"
+    },
+    {
+      "extension_id": "nhjhcfdgfphedllolofcipdnjkjdihdj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "12983a2fac5326b83b67d2d2b3f1fbf52e9909f5af59b7eea56a2c9b3a98c259"
+    },
+    {
+      "extension_id": "njggjookikiachbndaocbijjpddcijkf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "cfef7543532750dcc5a918374fbc3b6dda7563635ed4684d2183976b044b800d"
+    },
+    {
+      "extension_id": "njgifpepampdppjhncejlkkbmnigpcdl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "63b0d0174cbb72653654a12e3b1fb4b3bc2db41f45337468c15aa235e68b3ec9"
+    },
+    {
+      "extension_id": "nkacmelgoeejhjgmmgflbcdhonpaplcg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f06051009c9a31bfb42de8ce37acd6d97ea1a7fd2896330764f311f6cfb2617c"
+    },
+    {
+      "extension_id": "nkpdoonhinmfijbgjhhehhoojicoagdi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d6a740397fc3fd681a2752efb4d02a6f6e847ebd588d251b0dbb93a697a653ed"
+    },
+    {
+      "extension_id": "nlllgkfjdekpcibpgakffbdlgbbbfnkl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d899072296d1827ac0502209a8211a4c70ab77f9d3cc9aa086ba2cfb8ceb2971"
+    },
+    {
+      "extension_id": "nmegibgeklckejdlfhoadhhbgcdjnojb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "59252b8764c34fa2c41c9b549fe3a2258149777e13245f506178361d1cc42981"
+    },
+    {
+      "extension_id": "nmhgpefjpocdfcjenmecbnngbjbbcelp",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b87865800f1b0578343973f3a60da842497e303cc0b49b9de6fbc4f4caa4bfd6"
+    },
+    {
+      "extension_id": "noabkafiljbjmpbfafppbfclccikkafl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "10634af0ee70e49d21652a09e2992fc834acbac91b6d0c332bba01272430ffa4"
+    },
+    {
+      "extension_id": "nodobilhjanebkafmpihkpoabiggnnfl",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "01732b286fd5c8fddf279c2e6a6b463bbdea845aecd6bdfa5f7a5438a278a33b"
+    },
+    {
+      "extension_id": "nolehnmgjhncihbcganldhggmlbjplin",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7f68c496d4ea6ef30c83336a788f7b954f09936422e65fcf2855092936ff2339"
+    },
+    {
+      "extension_id": "npcghghfkbpgiamoifabankdnmopenni",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "49a27d26348728f4519150cd550ab9d4bbb70307644fb4e321c09e9e477a2090"
+    },
+    {
+      "extension_id": "npdbhfkphakcnjingllikjfclgabjipd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "6f4c943aeb8050bf6e1e9eb485237194e19810f8c86f5cacab0cea02d75e8a99"
+    },
+    {
+      "extension_id": "nphllmhkkoiaelncflmenjabjcdhplje",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b230f6e08ef9ce591f957d102d6d027e5fb5858befa2f2acb1dff40f627f9497"
+    },
+    {
+      "extension_id": "nplcbealebpofbdcgajeddfidbgbogao",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "3ae51acc98c73c2d29bd8b4cd59f3181e8c7c001b60ee3e2e6bbf0031b19a06f"
+    },
+    {
+      "extension_id": "nppgecbeafccpgnhjjdlhpojicfjjblo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "176890b14319567648bb1e1157db1096de0139491414131c345aa978de8c42e5"
+    },
+    {
+      "extension_id": "oanpifaoclmgmflmddlgkikfaggejobn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7723fdad4b7c413c22eb5d34a89387402f799250c332c4170907a7e2b63309bc"
+    },
+    {
+      "extension_id": "obdcmkbifgehdkjacmndbapoiiabnjlo",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2f93df70f5a1f92f328678427cbc6015dea8366ddad25537162fb5b5d6c09925"
+    },
+    {
+      "extension_id": "obpcedpondgemjpohgikkooejmnbkpnd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "702733d573b88d5db8a215f27677d47c86c87e71b0ec6cef768137dfbecfae18"
+    },
+    {
+      "extension_id": "ocdgeajebolgofbpnlahdipclagnibpm",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "f9c2c7e6e0f0ff78394e1cc72b43e277842eed341694437b1636169391701d51"
+    },
+    {
+      "extension_id": "ocflhkadmmnlbieoiiekfcdcmjcfeahe",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "c59b202a2aff2378b24951b1af84e5fcd510c8c1dd8e2f78613618bc927f1b5a"
+    },
+    {
+      "extension_id": "ocieoagpcmmebfhhgakmlijmdnifbcag",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4b88750ac035925a08f9d5f3f361af474bfaaadd12eca49b96e3d597042818ea"
+    },
+    {
+      "extension_id": "odeccdcabdffpebnfancpkepjeecempn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b54780c0eaab06286b82c0f200058b876be9918ad3a5407a045eab41e5aa391f"
+    },
+    {
+      "extension_id": "odkhdfbfgaogiiilllhhgaflifcppnge",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "e3f6accc8044941dfbd5e1614b219151f86de7365e0cf0480f522d66168aa49f"
+    },
+    {
+      "extension_id": "oeaifghbbhjomcgbgpihadpbfnpidggi",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "fb5c983b2018ebcc3330d86c5f0bd7a5554cef9d68f94e525e6aebe96fb1fe7b"
+    },
+    {
+      "extension_id": "oejhnncfanbaogjlbknmlgjpleachclf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a1bc35fb88cf3939e396357dfa351aafc3d337f6b707f5d0fdcac8854389d4a3"
+    },
+    {
+      "extension_id": "ogbaedmbbmmipljceodeimlckohbnfan",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "50e3cad0b4415664901de72466d4a4b33e688ecef2293e283487088ad013b76e"
+    },
+    {
+      "extension_id": "ojeaociifmdciibodcifjjocdlbjjeep",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "bca5d2ce94d22750e81833d60e2ce6432103878769552b8d82048abe327d97d4"
+    },
+    {
+      "extension_id": "ojkbafekojdcedacileemekjdfdpkbkf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4d46b29b774fd604f5f070f61b0f309794ed072376ab56c22885330553f20e45"
+    },
+    {
+      "extension_id": "ojlbdnmdbhjgkljldaogkoabhabjoadg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8e8edbf8ef8e805d3f74c1954341c8e3ceda918bcbaecc5ff9de23512d661759"
+    },
+    {
+      "extension_id": "onfjapdgahmnajmbkacmifpciokicbkd",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8f582cb8a8a9925614ae25a279104049b1f60485e37fa75b275fe548ea7e1d7d"
+    },
+    {
+      "extension_id": "oojlpfnmoijaiephcdakeggdbbfdbanb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "4de4b7b88bbdc2811ed79329e8c80472b435b08f94dd7fc6d27541b8915edbf5"
+    },
+    {
+      "extension_id": "opdcfknedcfgiophhnojmnljpndojbom",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "a02737b0a00f6aac9dcf0dee6a7edad99a569c6ffd824d78ea74fca058a48e67"
+    },
+    {
+      "extension_id": "pblgphhmhlnhfkeldhflcefpckgnalmf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b3f8015789271f55a4b5a63d151daf35cbaa8efa065413ab7ee5bf4145f0863b"
+    },
+    {
+      "extension_id": "pcadkpnfmffnldeidifelohmkebdddjn",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "31f61e90287aa3617c8330ba1424ef4d9ab21b5336115b5b73aba0e8e2d06314"
+    },
+    {
+      "extension_id": "pcolhdbpdenlnpdhbcodnfebjkbgidaf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "d88a223ca095bb8ffd5192e28e918e1671aa5e781ce48daedb3a9ff66f689bad"
+    },
+    {
+      "extension_id": "pdgaknahllnfldmclpcllpieafkaibmf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "024189208133c3fc93c8f1e6d6200289f00f7b199d9e27184799580e8ece3063"
+    },
+    {
+      "extension_id": "peflgkmfmoijonfgcjdlpnnfdegnlaji",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "56208f128d7b8aa805d5fa0e4eae7315efaeddb899857cfdf071c676a39c7dbc"
+    },
+    {
+      "extension_id": "pfoehpcdijnjnlbeekjpndlfengadhba",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "afda32e5f005f30a66f9beadf5b0a42573cf3d05c12c5eebb3eb44a4e3551a7a"
+    },
+    {
+      "extension_id": "phbankjceijddhfhcobljkjlcgmbfpoa",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "275757b8de3960c945271160d28978c72308b9e4d833a518b30f2d57a0084d76"
+    },
+    {
+      "extension_id": "phfkdailnomcbcknpdmokejhellbecjb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "0acd758fb7d648626864c105d31e602f06182500087d484e36f4fe433510dc10"
+    },
+    {
+      "extension_id": "phpjgmopmomaokbddkjpnnffmchbnagh",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "05e5a7b095322dbf14f548d9861e6f0e5210ceff2db02bd43b5c2af6f38b2523"
+    },
+    {
+      "extension_id": "pkadlokfbobblmiclilbgajkjcpaaopk",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2012d0d5539b89833f347247e2207acf7bd86b9b2df7ec73e38866e92822ca09"
+    },
+    {
+      "extension_id": "pkghgkfjhjghinikeanecbgjehojfhdg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "7e63722ca5679a966813742791e0ce121e906a1ee51dc6aa0bca59999722948d"
+    },
+    {
+      "extension_id": "plbebfjeklpfmffhcknkhbbdpjfkoenc",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "2c64fba26c82fe0e08570827398e9969d40f89af810efd567ce2456d0a4e6d64"
+    },
+    {
+      "extension_id": "pllkanemicadpcmkfodglahcocfdgkhj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "2026-06-15",
+      "date_added": "2026-06-16",
+      "crx_sha256": "5b58aacd2ad97af77c6ac4570d390bac1bfbb12e5073c6320769fd9617a8f227"
     }
   ]
 }
