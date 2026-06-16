@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-06-15T21:56:50.350Z",
-  "total_samples": 241,
+  "last_updated": "2026-06-16T08:37:18.166Z",
+  "total_samples": 246,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -1733,6 +1733,41 @@
       "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
       "date_added": "2026-06-15",
       "crx_sha256": "06de7e28f93e9800d7c35c3a7b4a1120d1b6ed62fdd83d20b50f3e2a83a9ddd0"
+    },
+    {
+      "extension_id": "dbiamdajndfmpmmeklcbbnekhkdcakhf",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_added": "2026-06-16",
+      "crx_sha256": "97c2041b5356bd5a43d325bc9c58d0adad72e0678882d1895f386b46bb4218c3"
+    },
+    {
+      "extension_id": "pkdloppfapenphihgbldhjjlfhgnkmcg",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_added": "2026-06-16",
+      "crx_sha256": "8494c505f49677cf48eb0e121aab314d0918fefcb4f2f31537fc46db5620f8df"
+    },
+    {
+      "extension_id": "imkepemaflommlonnppjobgdpokbfmoj",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_added": "2026-06-16",
+      "crx_sha256": "bcf17f91b86728de5fd2a52804f856269dd956fbfa8ed69b8269fee76ecc04ee"
+    },
+    {
+      "extension_id": "ibglidkppckhminbhbgcajomjplomcka",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_added": "2026-06-16",
+      "crx_sha256": "ca5bbb44a181fe58916f4ccf6e550f382af67c1b8aff9668b6d07beea4044202"
+    },
+    {
+      "extension_id": "gkbfokaephnaajnmpgiieidpfieamggb",
+      "source_url": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "date_reported": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "date_added": "2026-06-16",
+      "crx_sha256": "b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed"
     }
   ]
 }
