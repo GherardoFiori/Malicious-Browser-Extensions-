@@ -1,9 +1,9 @@
 # Malicious Browser Extensions
 ![Malicious Extensions](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/GherardoFiori/MaliciousBrowserExtensions/main/count.json)
 
-**Join the [Discord](https://discord.gg/eut2MxYVCk)**
-**Try our [Extension](https://chromewebstore.google.com/detail/exterminai-malicious-exte/mbmaeljobaiaghkkilalaafolgidnfoi)**
-**Try [ExterminAI](https://exterminai.com/)**
+<h3>Join the <a href="https://discord.gg/...">Discord</a></h3>
+<h3>Try our <a href="https://chromewebstore.google.com/...">Extension</a></h3>
+<h3>Try <a href="https://exterminai.com/">ExterminAI</a></h3>
 
 
 # Overview
