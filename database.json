@@ -1509,13 +1509,6 @@
       "crx_sha256": "d227adba65702041be72684d77bafb77e203c04a2a7cf355f772a11a478efe6c"
     },
     {
-      "extension_id": "ieihbaicbgpebhkfebnfkdhkpdemljfb",
-      "source_url": "https://7ai.com/crxfiltrate",
-      "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
-      "date_added": "2026-05-17",
-      "crx_sha256": "E89E691D3A9930621EB420A4A0F3598B5436F2F8E55FEA44C8D1DB68335390D9"
-    },
-    {
       "extension_id": "nonajfcfdpeheinkafjiefpdhfalffof",
       "source_url": "https://7ai.com/crxfiltrate",
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
