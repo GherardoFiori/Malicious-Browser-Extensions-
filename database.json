@@ -1404,7 +1404,7 @@
       "crx_sha256": "8dd2f0cfbff42b4918c87e5f65c6ba86da2cd687ba39615794a1cf12c24782f0"
     },
     {
-      "extension_id": "ecocgofdjmiomgmgnchijbghkikolkkl.crx",
+      "extension_id": "ecocgofdjmiomgmgnchijbghkikolkkl",
       "source_url": "https://gbhackers.com/malicious-chrome-extension-targets-chatgpt-users/",
       "date_reported": "Mon, 27 Apr 2026 16:53:00 +0530",
       "date_added": "2026-04-27",
@@ -1535,127 +1535,6 @@
       "date_reported": "Thu, 17 May 2026 23:00:57 +0000",
       "date_added": "2026-05-17",
       "crx_sha256": "F812D2F91C8C2B96DDD52C986F77C52E6303D94AB38DDAA6F1B18451909ED99E"
-    },
-    {
-      "extension_id": "MNPACDIGBOCKIILMILHBEDCIADENFDNB",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "ae59ef7886336d0daaf40866663e73790373a14dfd8e1073298a8e04027cc0b5",
-      "github_path": "AutomatedExtensions/MNPACDIGBOCKIILMILHBEDCIADENFDNB_1_0_6_0.crx",
-      "file_size_bytes": 2540131
-    },
-    {
-      "extension_id": "IEDPLNNOLCIAOFKAKKJMCOJNMKLPFIKG",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "97c4b8037bdd6b3ac6e7c562dce3650ef5425b60de5e28e54ad7dc85c3650db9",
-      "github_path": "AutomatedExtensions/IEDPLNNOLCIAOFKAKKJMCOJNMKLPFIKG_1_0_5_0.crx",
-      "file_size_bytes": 1154895
-    },
-    {
-      "extension_id": "FAMCHDJOJCNAKAMHKDDKPAGLNKONKFNL",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "cb0f8179c1ded77ebaf0042e9a6f407c209024d57e07f1feaf31eaa917667a9d",
-      "github_path": "AutomatedExtensions/FAMCHDJOJCNAKAMHKDDKPAGLNKONKFNL_1_0_6_0.crx",
-      "file_size_bytes": 6366947
-    },
-    {
-      "extension_id": "NOMEKAMIOEPGLINEFHENIFNBEGJHFIAI",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "e3e9bd93f59c4d04644130294a2cf8592e8b1e75780b1aa9702035c56e220109",
-      "github_path": "AutomatedExtensions/NOMEKAMIOEPGLINEFHENIFNBEGJHFIAI_1_0_6_0.crx",
-      "file_size_bytes": 10505204
-    },
-    {
-      "extension_id": "JJNGBCODOLDJMPJPFBHFELALJBDLKEKH",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "a57e18a59fbd9e10c9282e3bed6aff6c2a2318e682df64d5515e8769ccf80890",
-      "github_path": "AutomatedExtensions/JJNGBCODOLDJMPJPFBHFELALJBDLKEKH_1_0_5_0.crx",
-      "file_size_bytes": 21541887
-    },
-    {
-      "extension_id": "GFIKBHPFJLDBBIKOLKCIMFGMEJHDKJBE",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "06de7e28f93e9800d7c35c3a7b4a1120d1b6ed62fdd83d20b50f3e2a83a9ddd0",
-      "github_path": "AutomatedExtensions/GFIKBHPFJLDBBIKOLKCIMFGMEJHDKJBE_1_0_3_0.crx",
-      "file_size_bytes": 27303921
-    },
-    {
-      "extension_id": "DBIAMDAJNDFMPMMEKLCBBNEKHKDCAKHF",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "97c2041b5356bd5a43d325bc9c58d0adad72e0678882d1895f386b46bb4218c3",
-      "github_path": "AutomatedExtensions/DBIAMDAJNDFMPMMEKLCBBNEKHKDCAKHF_1_0_8_0.crx",
-      "file_size_bytes": 29854398
-    },
-    {
-      "extension_id": "PKDLOPPFAPENPHIHGBLDHJJLFHGNKMCG",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "8494c505f49677cf48eb0e121aab314d0918fefcb4f2f31537fc46db5620f8df",
-      "github_path": "AutomatedExtensions/PKDLOPPFAPENPHIHGBLDHJJLFHGNKMCG_1_0_6_0.crx",
-      "file_size_bytes": 11773090
-    },
-    {
-      "extension_id": "IMKEPEMAFLOMMLONNPPJOBGDPOKBFMOJ",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "bcf17f91b86728de5fd2a52804f856269dd956fbfa8ed69b8269fee76ecc04ee",
-      "github_path": "AutomatedExtensions/IMKEPEMAFLOMMLONNPPJOBGDPOKBFMOJ_1_0_5_0.crx",
-      "file_size_bytes": 37784846
-    },
-    {
-      "extension_id": "IBGLIDKPPCKHMINBHBGCAJOMJPLOMCKA",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "ca5bbb44a181fe58916f4ccf6e550f382af67c1b8aff9668b6d07beea4044202",
-      "github_path": "AutomatedExtensions/IBGLIDKPPCKHMINBHBGCAJOMJPLOMCKA_1_0_5_0.crx",
-      "file_size_bytes": 13499164
-    },
-    {
-      "extension_id": "GKBFOKAEPHNAAJNMPGIIEIDPFIEAMGGB",
-      "source_url": null,
-      "article_title": null,
-      "date_reported": null,
-      "date_added": "2026-06-15",
-      "source_type": null,
-      "crx_sha256": "b9b6b5eb1bd95b5310e67da54fee1fa2c3faf39f24c97c7db82acc7a625cc7ed",
-      "github_path": "AutomatedExtensions/GKBFOKAEPHNAAJNMPGIIEIDPFIEAMGGB_1_0_6_0.crx",
-      "file_size_bytes": 15591298
     },
     {
       "extension_id": "mnpacdigbockiilmilhbedciadenfdnb",
