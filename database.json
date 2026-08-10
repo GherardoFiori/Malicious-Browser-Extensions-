@@ -1,7 +1,7 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-06-16T15:49:39.289928+00:00",
-  "total_samples": 523,
+  "last_updated": "2026-08-10T15:10:41.574Z",
+  "total_samples": 508,
   "extensions": [
     {
       "extension_id": "eheagnmidghfknkcaehacggccfiidhik",
@@ -3551,6 +3551,13 @@
       "date_reported": "2026-06-15",
       "date_added": "2026-06-16",
       "crx_sha256": "5b58aacd2ad97af77c6ac4570d390bac1bfbb12e5073c6320769fd9617a8f227"
+    },
+    {
+      "extension_id": "cgnbfcoeopaehocfdnkkjecibafichje",
+      "source_url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "date_reported": "Mon, 10 Aug 2026 13:08:23 +0530",
+      "date_added": "2026-08-10",
+      "crx_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
 }
