@@ -1,6 +1,6 @@
 {
   "dataset_version": "0.1",
-  "last_updated": "2026-08-21T11:06:18.450Z",
+  "last_updated": "2026-08-21T11:22:11.670Z",
   "total_samples": 987,
   "extensions": [
     {
@@ -3541,182 +3541,182 @@
     {
       "extension_id": "aalfhjflaokihbediiadmohipjlpbjpg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d0a9923b0f70c7041df22bea9e48d6b0e06cf114c7ce5230d82522070ec54b53"
     },
     {
       "extension_id": "abjgfdfbmmijjdfbohbhgdnjeipjbplj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9fa11cf5e27713372e5af5f20593883e1cff6046c497e661f64a57dff417a507"
     },
     {
       "extension_id": "acdihpjgbhodcikbhikhhgkafmbbmemp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f59a26e036fb3239d0f9fe897d661333de41cb4682b611bc4ef6ffe70bc05622"
     },
     {
       "extension_id": "adbicacljgblmefpmcffdjmcbagbejji",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "70421acb29b566a4bed2d5aa60800b1ba6bc3baacd9a6fd54ebcf260807ba785"
     },
     {
       "extension_id": "adjnaekfhknjhcagnejdcfelbjdcfjgj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f6a85dacc54f262307986bde026fe7b73a9c9cb1bb3edba088297d575ad010f8"
     },
     {
       "extension_id": "adpkfblbeihmbjljeffbaklklgofcgae",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "398c010334af91d91ba280de284dd3ffd4586410baa2923a913db1739b504b6e"
     },
     {
       "extension_id": "aeglpahooigfloknbcocdkgoklmopcad",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ac33c08c0a8d559db8965b6e92c3a5e2181eb6104c1054d8242f7e7e609b867c"
     },
     {
       "extension_id": "aemjnabgfabjlcojhbablmedhbnmpcgj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "be1aa0cf2e1c00cee7bcadf0a98bae7dc5adade7e353953346866af1c39865a7"
     },
     {
       "extension_id": "afpiijfkjbkkfoeepflocpfcmghcohfi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "54a37c1aa595412e98fd614ebac067cb730e98693ba1b17472589d51598ccffe"
     },
     {
       "extension_id": "ahdpgkmldfnmpcpoamhabhoohdjgijak",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6f3c8f2a2c5389a15bc2d09c9b1d6576bdaef2cbebce3ebb12c8dea5e2e0da22"
     },
     {
       "extension_id": "aikeingnnaofblajmpkdamcmbinjicek",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a1087ac95bfe5dc11689a5d0a2ea7e1481578adc311b030d93417435d71e3fec"
     },
     {
       "extension_id": "ajjgfffcnelajekhpgnfhhehpjokkkjh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "092be3f5579dde4b1d0c84048737d391eed06396d5cfc6d198d69af2691408f3"
     },
     {
       "extension_id": "albcebpejhogeakalalkmkhhhcofehme",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5ffae1d835d69a310d330792f073b4f3fdf082c0500ecb2f8a2f4c548246d54a"
     },
     {
       "extension_id": "alcopdbbehlpelbaaglhlgljkkljkppi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0f3bf56207cb816c1d224dcb9a1cd3a90d0cf5613083bdc487fa342a67cb74f0"
     },
     {
       "extension_id": "ameimpcdjkiacjmfefadfkjbmicohmff",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "65ee435f101da9d994880a0dd61bc7dfeefc7f3a9ab8d27544c3713a42564a02"
     },
     {
       "extension_id": "anconclhkknnbkgiflfeppbcdoikcpca",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1dba9b30ef7b04e7ec8feddd7eb4cf3c8801f3b341e9bfbd2c15e6cc0062dcb2"
     },
     {
       "extension_id": "anggbncfkojnpldcpblaboandcjajkgl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "933cac1cce5d667e1fca4078a57806a80320afbfc615a8b26bbb7bcefc57c210"
     },
     {
       "extension_id": "annffnminbfjdifcgbadjdgcaglpiemj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d6725cc36e017901e4c6cbc53f4c364f1307dca611d71959eb99d714a6c8364f"
     },
     {
       "extension_id": "aoejfgbdcbpeekpmelgoofbboonmdcaf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "382e493cddbce54663b3d1bb41a7ca29b7b85f695910f0964777f360207dd146"
     },
     {
       "extension_id": "aojolglblgegdlejhldpeadnglkcheba",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fad1fa4a2d099114b3ebb9f83a15cd3af28c99c9a617cbdeb2e4b7cf3e64c7b5"
     },
     {
       "extension_id": "aophoakdkaldkckgkgionphohmkhnkom",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "13304d0824442fb8f2d91b664309b8a38cb80be20155c676f6ad0f2a33bd3d8a"
     },
     {
       "extension_id": "apgingficohkcjlkejipioacokkehnph",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "24f11428295cf9b4fa705cc381b729aaded5c8257e45b2ab27f04075b1620681"
     },
     {
       "extension_id": "apkfclckpilgfoembfmnmlblnffcnfcl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6a322e0ea1396320c872f79d07ec9b0d07a51505665984269514bfb0c25ed987"
     },
     {
       "extension_id": "apnlidgccohighgjjikmalpccgombonl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d6879a69ad413160c8ab34f98593cece3c449191eef07f4baf4514c82941af75"
     },
     {
       "extension_id": "baabjhdplplmihlnecgjajjdllllfhhf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9d0a135ead21475eb986a34bbe33171dac1a3765d93103bb72461df656b18766"
     },
     {
       "extension_id": "balkhnoegkmheodonbkhkaegibmamapp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1cec3f11a4f23cdc14972dd36c17569dbf56954708e4bda868c2d882a9ce549e"
     },
@@ -3730,14 +3730,14 @@
     {
       "extension_id": "bbcgolpihcpibnjpnafbaccaclagclmf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6bed0e0a12b46f22b8b856548ca167308b5cd287a4cb2009dc380772c74fa2b3"
     },
     {
       "extension_id": "bbddibpbffgafehfljibecnppcamoogn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "36db61069b2504e3669d295f0db0616e05bfa28692c2075dd661789c4ee6af0a"
     },
@@ -3751,210 +3751,210 @@
     {
       "extension_id": "bchelkjkilnlomoehihopndkjjhlcgla",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "649929fcd29c8f075875a9b076395878669bea2c99023a2b3a4a2af11ea8bd1b"
     },
     {
       "extension_id": "bdbhokpcdfeoljjcfdegkdapplhknpoj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "25bec86aa9ccdc0b491f2cf2d4c920407ae65cb20a274da6a4ec26daa440ba6a"
     },
     {
       "extension_id": "bdmnomiahkddoogbipkleodejnplcppj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "49a3fdf290094f8a56fd56834a708f39d88d13244f9abd5c760b52db6971edd2"
     },
     {
       "extension_id": "bebcfnddlcnahgmdobbicnjbahlbgpnh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "16a1f1460150f69231663063b6eeefb0b5d5870fd117849ad81ef00e7b96593e"
     },
     {
       "extension_id": "becdalghcachfljkdifjaifmiecbpbcb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "75dd31c11d3a18f66364355e7a40e9113b534111340466807a355bbf07fd65f1"
     },
     {
       "extension_id": "bejjplkelkkcpnaaicfpdenfpcpbpnod",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c811d4774c316f1046646388cbf2a4a14c34350c7f7ed8ba7778bd1a9cbf66cc"
     },
     {
       "extension_id": "bfdlendomdpckfcegjjhgheignejhing",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1cf84971acf3e5bd0fe49340365f6882043815933dce087ffe1ea73054d395c2"
     },
     {
       "extension_id": "bfgoepnoenodpgmcficdjlajnlbmadlc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "76f4090092c746f03bb15d4fde4730bfef9451359ca05f57b5d9cc8abedf1ea3"
     },
     {
       "extension_id": "bfhmomelpcmpdjdeohpeemfgikbdoijl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c5568cf101c3481a4bee119d2f28801c2e9409131032224bc3d3c0a95b75f7ac"
     },
     {
       "extension_id": "bfjcdcgfehgbbaenfojebonnlfichjnk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dd1455b86a9eae601440c1859d9d452616559baca911c27d35d318f474a005e2"
     },
     {
       "extension_id": "bgbabcbfnphklneccpldeecbnpogpbfn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5f18d2c5c7360e6129ddc38ab08ca7ee64792e95d81fcbdf7a006907aa17ee15"
     },
     {
       "extension_id": "bgikeajhdmggllhdnleoeaiedpbdhbgc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "79751ef9b654f93dc387286463e1b7f78d9e63d2be79e195f3909aea7253f4cf"
     },
     {
       "extension_id": "bieapdakjafmcilgjobfeopeoejhdmmg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5c4916039a6cf9cc73fa39f63ad8e792920253705a502a3f4e0a7221ecdd56b3"
     },
     {
       "extension_id": "bifgpflmljboegdapmikafhpilijdead",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "98358c4d25a1e6a1c6215f333c3e23d79601c64f158a7920770f63240be59f0e"
     },
     {
       "extension_id": "bimjbbjnldbimpihljgakoidmgcnmleb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "21d321b61aa461b992ff5c697215cba9107849128393db4228c50d8e84504d3a"
     },
     {
       "extension_id": "bjfngoeclhbkpgdngfdolcpiofgdlbjm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "24859f8829d1adb30c217a33879786c008e03ab00e18bf891045511b021163a9"
     },
     {
       "extension_id": "bjpgehkaonlndnoohmlelkjlchccdigb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c8403cd3575da943bad96f012493aa0c1169bde981b3adf39da8c758e6df5cbe"
     },
     {
       "extension_id": "bkmmedhfnenchphbngpihpcodlimdceb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "94b48c92988a2d4579ceeef9a7e7d2ef82fe29d0affb21b42d021cdad7409385"
     },
     {
       "extension_id": "blcnhjlbnldiopfekjpcmpcieipiokdl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "86778aecfc7a29888b6b7afe2dfe595725bacda959be533b54fbc81d75198df3"
     },
     {
       "extension_id": "bmidlejanhnaaopgiljgojghplnaeoaf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c146c95524b6b67802aa1d88d619e44b69748b6876072ccb54049d56cc34c97a"
     },
     {
       "extension_id": "bmldimmhaamlfaijnmhikfidngaennjo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f8c44dbb1d9b515d9806710cf9d06068099c4ace8a46ab7ca5f77fb4b0f79bd1"
     },
     {
       "extension_id": "bnfedobijcachmijlfecldmhnebihmcj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e4183a0a98e7fc3482a0e70a0beca11e1f770c66377b10cd0764a958a1095a22"
     },
     {
       "extension_id": "bngahmjkkbiebggdghdlbjaedhmcblpm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dd5d6cb6b291594ca4c75a28668b5367dd0ef783629b0861fc9138256e60ca66"
     },
     {
       "extension_id": "bnnjeanokjfhhkohkaoghfclocnhpcia",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b11dccb9ae57e6a04cab342b56c737af7d51fb18d170d6b3ca45a1f7932db5f7"
     },
     {
       "extension_id": "boembakcfchlnhkfpjeolgpfpegmejmm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c054697815a15e918c1b26aa4ab1ca68c7cb1f532792a47c67e4568e81d49073"
     },
     {
       "extension_id": "bokpbehobhpfpmamodkngkaljfmimmpa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a75d7b0e5ee40418dddb7bf26655723404c312a01aa1d5a88872f64fb0e18128"
     },
     {
       "extension_id": "boomffhhbgombjkbeakkdjiphjkillpb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d3199a943b628144fd127cf005ea967f450d2185ab007ab28d2b37d622450c72"
     },
     {
       "extension_id": "bpfjljidmejoeamagnfbknmhehbmagbd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5cd857a6da6e79ae9553357eeef8631fcd779b6b468c13bd06dcb7a9502bc743"
     },
     {
       "extension_id": "cabdahinacflcaaagobghohleefogogk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a44e29fe0a235458be2e9e5c8c755c6726af7f9373e59802c2cbc1dab2f3e646"
     },
     {
       "extension_id": "cahbelonbpjbgolckchmbpdlgeglgpof",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8c97c5ec527d846d1f7018140c79c076b45a4d4d862ee73f4b0fc95f28c5b2f7"
     },
@@ -3968,14 +3968,14 @@
     {
       "extension_id": "cbmjaknklmcgajkfocjagjmdkeinfchm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5fdc1def23728bc8fafd41a6df6735e6cf5e6290b4a341a35fcd77d35f233158"
     },
     {
       "extension_id": "cbpfihfjeleikcpadajchoebgfblalid",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b2339c55fff0fde87c4f75be50bea3dc5d60c013e633b79be5790b432c26b734"
     },
@@ -3989,294 +3989,294 @@
     {
       "extension_id": "ccnceaompinfjgnfkbcnfgaenklmafil",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a4d319c15b98c8d29d1dfa626f88d640ad2c9d05c74ce0a7c3e1fdad4e2db62f"
     },
     {
       "extension_id": "cdlbcpjfhjedjajilmpknbmodmfocljm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d062fd65344cb61973f55be5d22b64f7a6a59442f376620dc458e8b1989356f1"
     },
     {
       "extension_id": "celjebeafmieepphodddabmegonmanoo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f8698fbd46bd1e58dcf9ca5456992abae4aecf620ac30d3eccbf4442989ea1fd"
     },
     {
       "extension_id": "cepookalkohkjhbamenfbagblnmfcfmn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c4971d373a360c30c5f3a03b74448fa4c61fb85fafd3150a1df5b9c429b30355"
     },
     {
       "extension_id": "cgajlbgdapgeohppnnhjemoodaakmplh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2947abd4a7cc3fe38920396d5a5a124946698463afa455475c671e1b4ca16015"
     },
     {
       "extension_id": "cghconplclhlafnkaocbddboklfodnfc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "704d7d89a52f48e9527fe990fbd18be9eaa0449015a747f03a49a17a983e2cb7"
     },
     {
       "extension_id": "choldfdafblhjjfdbnibekaakmhnfabc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b1b24a038058f616e92df5af775d6d3edccaca64430fc2c6a1ad6d6f52d9180c"
     },
     {
       "extension_id": "chphemgbhggblnggogackapgdnifnjco",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c97817324d36983983e6d07de868447a1cdb65bdba5f76ef1b12235ef40855ce"
     },
     {
       "extension_id": "cieikfpbkhkjfjaoijonmhnmodnnhgdo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "18ba59c97d7793be8fcd3c85a16eb6bacf253cefb74c744b3eae5d8d3e6235dd"
     },
     {
       "extension_id": "cihkgekjnagficdlaicladlfdodlodji",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7f1f1824437a52a32b3fa85676af33e185e57c2f7d599266360dd4d9c1383607"
     },
     {
       "extension_id": "cijkehnfggjlcjlijaichfjbokalnleo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0fcb8abe4d07f988e43d3e963d318694e034717729a042835ab18d37820bede3"
     },
     {
       "extension_id": "cjadklbhkckhkgnlbllaelbfjjcgenfj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3d26ffdbd402e900b3442ca7c2913502fb92b51b7df5160eb26e8663c9367e51"
     },
     {
       "extension_id": "ckhgbopnpmlhgiihmclcobcdehcakoai",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3edd5902cf27ad3ea3d2c6427905b90ec286f2299b7fc8ab1bd72af214de7689"
     },
     {
       "extension_id": "ckicpgoimmcplbdeblgkcimhchdkkmlg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a0b76096da83b1d01b066bc5b388d3a966cbd69854add2ea10e86506c7c239a4"
     },
     {
       "extension_id": "cklafdlhkgikkkfoojcgjodehbdbakpa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1c8893fd3369fd868aaaf7efaeacc49e478acc384c999eb3696bc916aba4601c"
     },
     {
       "extension_id": "clcpecjofmjiapknnccnflcagbjdeccf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a4d266812179f10d5a081253a59d7c00582584d54bff6b9bb62873ec3ed808bd"
     },
     {
       "extension_id": "cldooaldimmjpalhfppedmgbnocajian",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f43d40a6ef9fa52256f3868972792640964899ed16a1e2a3385721a46b7bc6a4"
     },
     {
       "extension_id": "cljopkopbidboafoppejamlcpmgmffib",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7bd9af9917518d76404ca8da57fb06810cf0875fa4127de662784855de14da9f"
     },
     {
       "extension_id": "cmdlencelhcjbebnkpbmhcfmlnjgihhm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4971e3e733ede9ecc3346928387093b4a69e1335bbebde2975bbaf6b611c1fc5"
     },
     {
       "extension_id": "cmoljkcobacohfilkhbpclpgebcnpdcl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dd39525c099ccdb41d65bf3a861e432b44605d7545768826f839454cfbe0cddb"
     },
     {
       "extension_id": "cmplhaampagiakkffmgjndcjdgbglbln",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a716e2c49d98e9d968f20a321f9c600c55fbbe85cb3a4a03a5ff64d4268e2a32"
     },
     {
       "extension_id": "cnjgicfipaihakphpbcgdklcbpnkbndm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3d6310e5b8076661e595a91ec5bebb26a583f272737cc26fde378bd727f45065"
     },
     {
       "extension_id": "cojkbijephcnagbbbkecebeoplnlgana",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6eb045b31cac20c65f43014e636cf4e0073e23dce2f45eddcbb70ea4e710ec33"
     },
     {
       "extension_id": "cpehmglkieogiogkgbicjmoapfjooaam",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "68cb0a065e35e3060eed98d7b108d93c362dbc3df5fcffa07988a3b4ea61fef3"
     },
     {
       "extension_id": "cpjmmnhmieannhjnjjfcpmkpjgnakjaj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "978509812f0d566b8722dbdbdb940a0647b4744143c1af637a5c3a0a859a2766"
     },
     {
       "extension_id": "daefdbcalhpfoajkdeeobdamapepkdde",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1443def49376dc0a2c2fc2c50c260c0eca3a817797397d1f0f55239fad9ad844"
     },
     {
       "extension_id": "dbcocmghepfnpobmefmdhmahefdmmkmi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "29a0f2f2a500f612876d374014915a46a0b7acd507275b78f73ed09595bf2039"
     },
     {
       "extension_id": "dbjeemabemccjbbemlnljmpmaadhohho",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d0e645d2572dffd9ee8713222d2bd5bbdf775ab6641c10bd264f77b13477aee5"
     },
     {
       "extension_id": "dcdengcnfioodmmjlkjhomeondebpjcj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2c860a7ea925fc3067738d0268e5b855c7bd26e5ebacced612ac39dae61e1b87"
     },
     {
       "extension_id": "dceikamljmmhdjagikodokbkdmbancpb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f722f73777d2d22a0b59cc9685ff58fc988aeedb567d0972a6c2a2c6873c44b2"
     },
     {
       "extension_id": "ddhhghnfnfjppofkhcndimaeohofbanc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c01c7d476516f36694992aef2e75ac10270ef8595b06d79e20dde58bb9663155"
     },
     {
       "extension_id": "ddhjjndlmjakdcdcmgajploledaclbfk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "93423806f9bbd8957cc2376b1f26f41a854f470c70ec15aaecadb15063ca89a7"
     },
     {
       "extension_id": "dejbkoamefcdbolpcpppeblbmbkdljmo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6fe38053329fe5c5e10ea1926646c97c29ebe4fa27a09b379bceec79ad2f94d0"
     },
     {
       "extension_id": "dfbnmnokochbcifabpndhfelgobckenh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "deda5f051f2840c217c83b7a761782e89c70a8f771810dd73bf2643eae781127"
     },
     {
       "extension_id": "dhehohioamlbamodmibbdbondgbbpkpb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "acef5b0f94c6833ba779670468209c43024c1b51038c41b438eb19062ac89feb"
     },
     {
       "extension_id": "dijdbcdjngogkbpgldngbflblkbkicla",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f327913e6a610ef18f92086c46a3985996126b10460f1b6fb45e2dd1b6c48d2c"
     },
     {
       "extension_id": "djddlpkdagnbgokmielahcpgigepgdam",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "415515e7e0a0f5019f499a9cd12a5312867e51f077014d46ac68f8115671a76f"
     },
     {
       "extension_id": "djibkmimcjaphppiekhbkpccfhlhhfbj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "22d68f18086a18b80e5b6e5ad42ee31540a2391187507c88a5726a17629782db"
     },
     {
       "extension_id": "djmablkipkgdabopcmofocepggopjjme",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "186fa86effca0e1d3bceed2868c7f2234d304d9b57de2da41788ad2ceefd8e78"
     },
     {
       "extension_id": "dkdnckncggmlaokepcnaobhflpbadame",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cbcc7421872d4f277fbbf3cfaba098963ccd0198908129071468d2c445415926"
     },
     {
       "extension_id": "dlaeopfffpngikkaccaknkmdgjdianin",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a44bf8b641cea34fa9b709baebc383cde6539783381ce9ed9b206ccb0f06384d"
     },
     {
       "extension_id": "dlaonnkmgmchbmlbngepgioejjmglape",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b90e805e094d41d364fa249cecc65953dec3f3ceedbdbb064d4fa182b40a8717"
     },
@@ -4297,427 +4297,427 @@
     {
       "extension_id": "dmadpoocbhhfaeefeblecpaielloalme",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d559fa08461bcc43c2552f403272e02112682eccd73af49cf80aabe7d45cf1cb"
     },
     {
       "extension_id": "dmanadmmigdmihoejnaaflfkimdlhjeo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7121d695a9a55fb8df1d27b99b593669ee74625974ff2a07f0098ff1ce07cf9b"
     },
     {
       "extension_id": "dmpmpkfbhilmjgbknadklnflbbbfocmi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d57c9f50243e4121b810aaca7d518befa8357d1e83d1f5c704de0209fc4d54ff"
     },
     {
       "extension_id": "dnfdiamfhbaaicacdfmjhkfhedolbjfg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e9ca7adcbef2d4a3bf1b469b97d5c5036d55d020f01e4ca1c413a91d960adf7a"
     },
     {
       "extension_id": "dnmppgaamaeejibkgadfbmnpofmgnegf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2261b25f80ef05846c204c7c7a9d878457ce2457ef877f7e563456a658006bb5"
     },
     {
       "extension_id": "doapacnhgcnojfakmppeapngneienlhl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9fb420c8e3760462fd786fde4cf8256c7290952ca9b35a34f4604586cf5af24d"
     },
     {
       "extension_id": "dpbilbpinfjkhciajdcifndlpegepokc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fc1e4d42c482556d599be7ed9c75d583ee170b79841645865522b7fdb258c700"
     },
     {
       "extension_id": "eaelfbmpnoaiefdgejnhblfhihagcbmo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ceac540502facc22824a92f3081388801ff606f783b7b32062eeb27b2f601aa4"
     },
     {
       "extension_id": "eaidghdeobijblnliakpildffnjdckmd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "df286e4c07c6b90b61527fe41500e91ce2eed6c0b62d48e2aec4fc2d106322e5"
     },
     {
       "extension_id": "eaolghfmnajoaejicijdbpkicimmomcn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f70bffdf26d0265216535624bb1f05f578d95e810e40353e78e2b1f78b1ab9d5"
     },
     {
       "extension_id": "ebfkhmjpdjojecendlbkchjohblodlob",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f380d9769785e047f076ffd7cad58aad619b619a60ec3d08c93262b50443b5c6"
     },
     {
       "extension_id": "ebjhmhgfpinecniajgjkhaocfodmldnn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "62309ee4bddcccafc409d10bb0168dbec7cbc5b88c2a2bb679a60ce3db6a8926"
     },
     {
       "extension_id": "ecffkedpjhecoeeedbnembkgihnaoelk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "227b52764483054b37a6e90c77b1cc2b72b7e439fdc3f49c659b45d59f0661d3"
     },
     {
       "extension_id": "eckjcmcaanooipfdjhjihhidfidkflep",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "61953ad30a0c22b4d4329629a6b7ee5aa92cf55b11ace930f5523a209da3cb39"
     },
     {
       "extension_id": "ecnmodkmpeeebpcnlpmnieamegokkhab",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5ddbb6a126a1d82bf3d5314fdce779798b878141fdd7ec20c76f0c02e2c43a43"
     },
     {
       "extension_id": "edakhofdfkcdhnmcjaacekhfgochaceo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1c2266885f74a775a0c8cd304512eb6aa80825ab159523103140a57817671c7a"
     },
     {
       "extension_id": "eeaagbioaaiigjehofojbeacmcpmfggi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b2a87c758d431823124b14548f4899a87d43974c0ec08b0aa1068d602c43741b"
     },
     {
       "extension_id": "eedcgiifhajonmlllcnajaodhicfekna",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "44b7254d89d1be948f8c8cccd44470348ca42871b31ba189e8568727b22eb007"
     },
     {
       "extension_id": "eemheamahbooefoojcalafcadhebljfl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1abe076915e1edc0f9c7be3acdf5897dfa58e385b59cf6ea53a778ff9ce3baa5"
     },
     {
       "extension_id": "efcmmhjhcjaabofjhpfmgidljpplkean",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "76965854fc94c6365a86741bfb0cd7fbefaf56f04797596b3bcd0f46652d23d9"
     },
     {
       "extension_id": "efpnbpbclmfblbkicgpipnehglciohce",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2793492d851ddd8884341cf762570c541eae4675a4c06cb46319f707c4100bfe"
     },
     {
       "extension_id": "ehfnbbjmgkeelhemgpkfdhojcjmfpkjp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "766d7c8b2ddd7bcff7c4cad99e2ebf2b7afbbafbc31e330fd1d542b1dc4a3a29"
     },
     {
       "extension_id": "eijcacggdeflehoekbdgljongmobmchj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f1220c0bc686444ec7c5298481b7a05ad637251c395e7e9d9d273b5f1d8370ae"
     },
     {
       "extension_id": "ejagecejffbgaefchihnmkdkchknkigf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6fc502573407810bbe2c28a82d8469608ee66b2a94eca1c251a2c10d75851b19"
     },
     {
       "extension_id": "ejgbcpimeldphonnomlcjbagoepjadpo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fa4db5383ea6d83a8b7f800d957d8bbe09b8eb4ea5cb7648062f6af70c873894"
     },
     {
       "extension_id": "ejpngffggkahecooncogchbchpngfokj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ca2f90254190b1712296265bbd13d96a0b77d10041f89c05ba3c7310c54f7b5f"
     },
     {
       "extension_id": "ekagjpmdcapijgpldiojceionmnleifj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fccbe24c0742844a1721acfc47486282ba6f5f5560da30714710e7f0ca72a509"
     },
     {
       "extension_id": "ekocnfhifehpgiffogacoboddbkfcjhi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e8126defa13d9819ecfc65cb9db99e65282848c2c039e6779b9f3176d1d80a32"
     },
     {
       "extension_id": "ekpicjaibbcffjfenpffjkifhiehcbfm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6f690d372b2187c64e1bc3eb2073c882a59d703522b003e77d6b622a4c0741d7"
     },
     {
       "extension_id": "elflhijmcekbfdjkabgphiepeclgmjgl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bf2d286f581abcc7e87464b83806dd48b213fbab6af352eb77218c499384bce1"
     },
     {
       "extension_id": "elleedljbbeipjijfgahpmbmojgagkjk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "57a383ad4f8abc3aa5e2ddbd930b5f9145c04cbaab9865d1257ce15ee4e765df"
     },
     {
       "extension_id": "elmjnebeklbicphkoceklapimjjjicjj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "89cc280f7a30d3b96aa7c412b3bbedda450e32aaf2c2f7ca3ce85663d0ef18ef"
     },
     {
       "extension_id": "emankpkmfimhfhilhgfmmhgahcmhihbh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "73191b56837af19eb5f033b64b0ed80e764bb3edc8f2262af1c8a58cd7209a5c"
     },
     {
       "extension_id": "emaondhcbbhipmjggpanmiicfniaokbn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "15c2f0351d9fd6a6ea3f5e05a5ef25372d93b6f00783d05df336a5e595060688"
     },
     {
       "extension_id": "emfdpideeoagljccddpegdicpcgkledf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3d783262ccc55629a2f1715ed487e2e9c17c92cb0a6804f6940d152c2b9a2c14"
     },
     {
       "extension_id": "emihdfbdahahdhgpkodehgpngmeajldp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c9dd9ffa925cc92e0b59e9569142536401cc5e0ac7086ab44298108d2620960a"
     },
     {
       "extension_id": "emkbmmhneldhbgpkaomgjjohdcfeapbj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e27d13f71e6bf62e189888f221f12837ee7f791e7bbc70d129edbfc25c23586e"
     },
     {
       "extension_id": "empmomhbifkbcfbodchbakclkinpibim",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c49afae35fa07dd2ba4404334f19fb47362a0819b033b485305808fcab6131d3"
     },
     {
       "extension_id": "enclhmjiadiphdbnpkdhkelcahjnnhcp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "041c3614e3794a4a1f7b1a83add393c75d217785148d809b83ff1ae70da461e4"
     },
     {
       "extension_id": "endajcleplnkbilblmifdhpimfaonkff",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7a7c5cae3798a100430b63c075f20e69eb8b63b089fcb4e20fd4a6d7ae99b45b"
     },
     {
       "extension_id": "eojakckjemdnoffmlfnonhfkmmkigpdj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e16c4d9542dfbda94b6c7f68c6063dcffe32ab3b96c94afe12feff68dc6ff316"
     },
     {
       "extension_id": "eomimmpkgdmeckpghogemcmkimcpigeg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5172389957c4cea02d6132660a5ec79ddde61bd1fa9bcc346c2de92435d2a80a"
     },
     {
       "extension_id": "eomjcbhempdcpmljiahjenbdhkoccbmb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "886a6b584f0705db488c3bae14b290eecb80a922316a315fa86322582473f77f"
     },
     {
       "extension_id": "eoolgeaiphoeoeldlmcholcdgdkldoem",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e1c1a6a4c045b3c5e13af2899f6ae0aa3efc3789d179703e086b539c81617783"
     },
     {
       "extension_id": "falfcccfjmagebegdiaoiimndpdlmihh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "060fddc927366dc963052b65d15b3f4fab8322e9446c48bf5f5c3ba1f6f088e5"
     },
     {
       "extension_id": "fboaaaegndmojaphabbmpgiohgnhekhd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5d01f31b6e585d379f0d4a1d82d3b5409136805894267eb76cb8d8eb5af917c6"
     },
     {
       "extension_id": "fceapcpbffpckedagfekofkljbnjjgfb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7edb7ca0a0867558fa6a8a82e87bdcaa5d48448a4b856c686b353fc09f55cc76"
     },
     {
       "extension_id": "fcmecilpdddmffmnjhdmillmddahmfnh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "39051062dd494d051a38a66d0df911a30f3f36b3fc6dcf94eeaa39441db47e71"
     },
     {
       "extension_id": "fdamefgbggbbpbplfcjhggmabomdmedh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c06c480daf8e16251db278891d0717ddf0723400f4ef1e6039e04a2f1c19a3c3"
     },
     {
       "extension_id": "fddcfopnhojdhijpfmllhieoecbckhlp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b3a58364304fd067ec6ec70285873378b0ec2886609c1f29d59ff6b16f5a0435"
     },
     {
       "extension_id": "fdgndkeabepnjiohbabfnchdkikaeoik",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cf4d2c628980ebde218c341da10b78d3a7a9cde93484ca1228d1e5319ee34244"
     },
     {
       "extension_id": "fdhjfohpmnliieiimdncnheflacobldp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0d6de4b97a555d59e180ad0deb5165f8b867667a8a5d6924b38d12b963904349"
     },
     {
       "extension_id": "fdoagnpcpgkjkcmnpnmdlbikfdagklhk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5fa855521fa75306546626693f8ed918ba01811b77bbc9fb8f28b35bc553b5ed"
     },
     {
       "extension_id": "fecohheohodkgmdmdpiocogboienindc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d8c2dc7851a2d7a2d0fa78182d22e88b2b8ea45ad184cc797b68a10a12920877"
     },
     {
       "extension_id": "fephkdkjkfcciljffkakepiefhmeikpm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b155db2446da0a8cf9c002c3377c1e95fd0230ac9ae217d83d9e13cf0538b130"
     },
     {
       "extension_id": "fgnnpafmckdabkmgopdkkcnmenfmahkm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a2a5e2d984106a45ed4e58c6839163a1192ba448934b27f46a275559b6e9267c"
     },
     {
       "extension_id": "fgpeadkjhdhaefcfkacbjniapclmbehi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "30138772a3167879476a6a0882e555cdb20103e4a5deb54bca4043211742ec8b"
     },
     {
       "extension_id": "fhggcomokafcmghkeknnoogghkkalchb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "582c17338cd4fd2559ac217e49d2b3517d2e25dd669199083a9f040e6920526b"
     },
     {
       "extension_id": "fhhimhicabffjclofbpjhkbnfdjmdmpj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ed0762ef7e4b6e98e18c0132cb195592dfd5bb21828a30234af5be008b19272d"
     },
     {
       "extension_id": "fibohcmbdjkkapkbjfhkaoiljaofeoil",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "66f46d94101769215806036402d69d4b49348fffb6821fe1b8097ba8835cee34"
     },
     {
       "extension_id": "fiiegliakbailegmmgdpjfodaeheabjm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "10396316c66a1a61bc727086c18410b9692a727ef2dac4d45163fd46522e74db"
     },
@@ -4731,105 +4731,105 @@
     {
       "extension_id": "fkbhohfcljmmgohbhkccejcamibgmjlg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3e0efbfae7e99ee13e9d1e44b496b409bd645b8488dfb9e204aac0bac031fecc"
     },
     {
       "extension_id": "fkejoibgeglangndghmgghminjaheled",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b9fcf31ed33d29c4599cd454c4afd4dd6e4ce039e29673728a8c8fa8ae844cdc"
     },
     {
       "extension_id": "fkiglandkaeajdjehelgkmnndonnffan",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "75e97ee88603b4417aab5398486addeab7bcc999fc4c4847fbf96e4ab8aab02b"
     },
     {
       "extension_id": "fklahklbgkgpaildaegmojabhngniomb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "eb541c62d778342a7f6f2489bd27254ff4d421157b61ce56b082b92e54ff0d60"
     },
     {
       "extension_id": "fkmbekmghpabdjfobhpbnmpakibmfecm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "24386e248b1734a9317f591b3b96c53535899a2dc06df612ddb317bd646e9fe9"
     },
     {
       "extension_id": "fmgongfibgfdkeabifkfkibkohdmahop",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9db13e28367b92fb208b90057e2016eb43ff8fb9c6b70a91617277c80e46c143"
     },
     {
       "extension_id": "fmjlnpepggmfdipfdafghiepgnaoadmd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6be74a1b512509cbabe6b55c5f44467c99fd428335b3a1e265fc96c68ef94adf"
     },
     {
       "extension_id": "fnonmdajnijmkceinkipcijkgnbkejaf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a59908498127bab2bc8a0b63c39dad460db2c41d31a875eaa195fbfd3b20b12d"
     },
     {
       "extension_id": "fokpelagppjmjiggfdalkfepcfclhnoh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4dfaaa372ec85b43053cef2c01ec957dc4c308767970d1d1cb64ce02f952df5b"
     },
     {
       "extension_id": "fpiolkbhpmebbdpanjfmnoacpkkdgbel",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1e746d526ea1e080f19a63a84c1fe00bd378ca6d68616c07fd2efdafa0878614"
     },
     {
       "extension_id": "gaijfdefjhclenikcaggjoblodfchmge",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "86d6610af227c567467032663358c1d7011badf7e01b941cc227576935ce1fdd"
     },
     {
       "extension_id": "gbmbmldgodcjbfaghnjohphndkobjpce",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4b8ca2a42929086055c625111563883892578b06002560be2fa610a898024508"
     },
     {
       "extension_id": "gchgkghlgpefkoepkpjdgmlcgnbblppp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a83fd00679ceeb75ea01e2fffcaeee6ac46310ffdc3c6672b0d80723100807b0"
     },
     {
       "extension_id": "gchhlaonopipkknacbdepodlighedgkj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fbd68bbabf4a3f8d520b6e74280db775737e15365636d341d97c1aa1850e0798"
     },
     {
       "extension_id": "gckefkbaglmdpmjndciiahaccljdddai",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "adbda29ebdc1a459701670d3c5290e74807e4a8bf1245c6f4afb142e0751aaf6"
     },
@@ -4850,56 +4850,56 @@
     {
       "extension_id": "geoalbipaogceeldlkhfnapeifhelefj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2421784ccbdc70301d199abdddeacdd0c167db44868396522010c4d646f670b6"
     },
     {
       "extension_id": "ghedgpchgenefpjfjokdnlohlmbaoidb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0c8b40867750b79a06e576207858129847871b8580921278b3c261f5a7cc03e1"
     },
     {
       "extension_id": "ghjfmhihfoplmefplnojpiobcoinddhj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2bd7f204b4defe39eead88c66be730e7d9471b27c6da3b93ce48725f917a601a"
     },
     {
       "extension_id": "ghpeepgmgdeabaimackjmkfafcdfmkai",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5d6e16015037028fc00d4f946706b9cd19a10ff5cec06a17c2d2b102cee92af2"
     },
     {
       "extension_id": "giojogndbceodalhnddnebbkamhfenon",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c953fae306a7bddac88910ee56a242bf61b3a72a118a1e3a258ab1b46ea05231"
     },
     {
       "extension_id": "gjliplciiocpaocblnhjjacpebbomjda",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "760d296b64389d85a920173e9ecf112b7b379ff94b92e8b8042798d59e62e780"
     },
     {
       "extension_id": "gkojbiedppcceclalkijhfbmobckhpea",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ce8e1f1ddc80718d04af11932680c8fafcdb286e067be9ace220a82d1c8fbf17"
     },
     {
       "extension_id": "glaofpkjfaldpdgjapcfhccagmddmjnf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "402c3e73eb6076b2cd86d28b8edbb69110aa65ccef20ebc5c88730148e88abae"
     },
@@ -4913,28 +4913,28 @@
     {
       "extension_id": "gmhpfinejackkjoanceabgmoiggofanm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "74b6b712c6f28818d7c715492890d5d7791266ee8bea578149a31aa79add524f"
     },
     {
       "extension_id": "gnfpgncjogpbomifiegijoikfpjpoole",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "adb805baa9c443b21be96a1d2b71b302310260718dab5c996780b58e656c7ca6"
     },
     {
       "extension_id": "gnignaonemjabnmmfjkilpfodbfgacfk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "942ee86e91d9863d6fec628b6a9aa1a17b8f95f2ad88af089a67d8ce833fe696"
     },
     {
       "extension_id": "gnjllochjiomjfeaageimhmfkplcghem",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "76e45cded9624afb5f6acb5558e3264492b0e805841a57299b296c6955c37796"
     },
@@ -4948,322 +4948,322 @@
     {
       "extension_id": "gpdkajdgppoccfpeocndflnlmjemalfh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8a57ee25dec9334b58f04c2c27225f7586c4ed4a09e0ae0dedb5ee9303bd3272"
     },
     {
       "extension_id": "hahjmhffophbcglolcpnpfpiacfdejcj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7f1e3b691d9f98dea36a65df5ede624a02545cd88d1d16087d163af076bef76c"
     },
     {
       "extension_id": "haomlginkkjmocfonpiknfghoeomiojc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bcaf1ecee94a65bd2474ff51a771ddb308feb25ce759dc17db4043fa5d9328c2"
     },
     {
       "extension_id": "hbchogodnlgpdafoeobeffknfmdlnofo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1012073e958bbe08ecf6a76d1239d149ee3e6c90f1a6be46895ca182cb268c1d"
     },
     {
       "extension_id": "hcaldgnpjniegbmfdoooceicdcfpcdgj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fbd0d2e1f39e680a669b0bcd075645917670d8dffde3ee3717124e85b1b9a246"
     },
     {
       "extension_id": "hcipkekemlgahjnkclcjlpegemcgabmm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "32b5ce27ee0204f290e11f177cea1c240bbb26180cc06463175bc45992c355d4"
     },
     {
       "extension_id": "hfaoffgdhhicckebnkgbakidhjnjpfic",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "02ab91867a7adadf482e0e7f49b2f57834f4ef5a3eb76557936019382cf7c02c"
     },
     {
       "extension_id": "hfdejdcbgacglcafiobfkpnnmjdhmaed",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "61b05860fc6368ebc62e8f85eb67109f4fad5f0767d0b5efe6d1e7ee5b0263bc"
     },
     {
       "extension_id": "hfmkkjaibgegmmfihchilhlffabegina",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "937b730fccdac7e09a0766624661d83f5da56755ff1ebb8af1650b7f7a957d8a"
     },
     {
       "extension_id": "hfofepaldicokklmfgdonaaakebggnkb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "aae48ddcee4ad70f4309dcc49205a046adc8ac68c10861cbb4ca62da4b2aa694"
     },
     {
       "extension_id": "hgbinhfdcidmbpfnmgekpbmomohmnnnp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fc41e4cbb42e9e6a570cce5d01c246cd4f486118a386ca68ed7b8ea16d5bf323"
     },
     {
       "extension_id": "hghdgfijkoaenalonnlldjggmakkabfe",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bf28bc941fcf59813c5b2f95af74e4e58244b47f988eece23d724623193bbba1"
     },
     {
       "extension_id": "hhebjfghjolapmbfpjeppcchgglanfgh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1bf5b4c4a71c4219982d85ce8738e9a82f0f0aa189bf5b064f2c9b4babd41e42"
     },
     {
       "extension_id": "hiohnobfeiimhgcjfkifogdlegijjhcl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "11c3df1c063ae5e3ca8b24e00581d81527233b6fbd6ea267dd70d41baa65d66d"
     },
     {
       "extension_id": "hioijncdgkhopehidnimbdealonncjbb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b6215a43e35e02ae4fb08d97d0aee2881a9aece51a43bb4b10efbe3dff220fd0"
     },
     {
       "extension_id": "hjahmlbhpfnnfiklidkmjemaoghepioj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "616a5096c6e187818790beae782adf6de8a0287758c7d784bee83c9d1fa1c650"
     },
     {
       "extension_id": "hjcldbjnjeajfjnfakafbihnkcahipjd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bcceba729b4e946c4059846aa378ad9d83db3ff690a72feb6a2828ee8481b2f5"
     },
     {
       "extension_id": "hjcmoncnppobhjddaghaklfkepgaejog",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b5ee51102143fe08d597b8db00779206fe14b26beb107b371659503aa6a559ca"
     },
     {
       "extension_id": "hjmjmbiaafeggmgadknfbkeehppmhejk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "76d0e005355ee41ade32f4edd905c4f6844bf7b2e3175bb7a5ad869593b1ffe4"
     },
     {
       "extension_id": "hkbhihfbcjpgpeipblibipaflmpleipk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5d11683412e0c64ced7290370c2fad6bc487770a973e8ef99e7e4b9c20ffbdb4"
     },
     {
       "extension_id": "hkekfldddpkkfnedjfiiajkodgcacfck",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "559cfd54241d5418a0173c2700d471b13fb85ec80274d292ac402134d3cf2891"
     },
     {
       "extension_id": "hkknofgppcaphiolocpkdljneopbmccf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e37e177f7403e866c79425632ea10064739e9d34528e74dd2d9059c379ac012c"
     },
     {
       "extension_id": "hkpmehimmmbnkjhijfpblfcfdmdolmgb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "07b29843958c62d55323d205a1a6fdc7786b6242563c090c4fe5a9afd71a0d79"
     },
     {
       "extension_id": "hlahebdnafgbfeggppedlncpkkhofhfk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a209224afcb4c530ee2663a604151c84dac25b80b5e6d3a1b661a181b168619a"
     },
     {
       "extension_id": "hljeddeaafolhinnpdlbbjcjaoegkpeg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "170259893609d7160347e3c4e3e8367fdacbc500b84b96b37b08606526f65492"
     },
     {
       "extension_id": "hlnlameikmglaccgijanmlbocjcgcidn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0600bd7b21cbedc0293810a692945acc4c64da1474eaec03b0fcd0eee4f13d05"
     },
     {
       "extension_id": "hlonjnobegeknhcnplaifmbgmbalneji",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "beda097417cc52114ece837fd535ce174ed9913d79ae119aeff1fa912329170a"
     },
     {
       "extension_id": "hmemnljhamnbcnphkjdphnmnggmnhhkl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8908321e9c701ad41826267b5feb3acbcce3bf587421f714fbb2b19ffd860b46"
     },
     {
       "extension_id": "hmnpiaijfkaoecnpckcfjjkdlajnonbh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8f13a49b0c2ad54e7ef5fef5e16af288fc2db4c89ae1d53f5d6af055d4c7496d"
     },
     {
       "extension_id": "hmooknfodfbbncnhncnednnkiommggpj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "60258ec14a84855d61c94e147ca2d76c113d61bc28256c3a78d556c7c24441ef"
     },
     {
       "extension_id": "hmpjdeippjapohpkmalhmnohbipnggjf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0b536e3447ed156a9a82fcac27a3ce6784906a37484b875954d8b71cb5db99bd"
     },
     {
       "extension_id": "hnembaemjbciokbnhklbcngopfakpkeo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ff78f96c0c806020752e3fec071147013d09f4a3d247b6742fd7a28d175e9cc7"
     },
     {
       "extension_id": "hnhlhlnbgjocolmlecblbbpbhdacjmdd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "584d20cd03249b2a43752a91998aef4b18df4201109ac141838537d7bf71f121"
     },
     {
       "extension_id": "hnkdnicapamolkbngbhpkoebelhoopkk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "afe8946b5743a9a00962101f83c046c7f5708bf022a8e5d38eb39c0d9793e475"
     },
     {
       "extension_id": "hnpgpecddlepclmbfpimdholohmhpiej",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1b2717f0ec515cab9ce0bf0dd8120a043bf3461c285e673f85c84db7895a0110"
     },
     {
       "extension_id": "hobopaghoileeibgbnfofpoaggheplbf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fdbb8c4ed5c25548afdb355a55e8090174e489036e940fc8c8cfd966b24dae2a"
     },
     {
       "extension_id": "hoeghcokeoglleffagcmajogjkgeinjc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "89c4e533ab5c27a27641ff99f768851df36d17a9492d3d03f4c9d6099cea868e"
     },
     {
       "extension_id": "hohlchlcjnnhjghnkhlpdemkhoenfoea",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "abf5e8c0422c84b0519974f6710d370ab5594ccbc37267d8489e391ef9e564b0"
     },
     {
       "extension_id": "hokmanlioejijlfedacchmnekagoikia",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "670aacc514896fa013d092b4097c2d438d6688aa114ad108d93c9f6c11d1df55"
     },
     {
       "extension_id": "hoooffkckfkdcmgpoebehchcdekmaebl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "80b70ea052d7b84f903421cc7c8a59ae0be2f300cb590d09d5a1a15514240849"
     },
     {
       "extension_id": "hopicaedkhenimddfhgnjbicdfibnphk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "95d0a4f5fe34bccad95cef5111f293b175dee686c57bcac8ec7b965b09aae57f"
     },
     {
       "extension_id": "hpgghhpnkoamfbhiihfachccnkdlkiog",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f0cc810c184d9248fcd4ff9092314b9762309884e6fb9262ca71c4b510fe0f5c"
     },
     {
       "extension_id": "hplendamjldnefdlfdplecalljeghjpe",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ebb82ea40c88b121e5bcebed467c5be5b7003e94208edc7ed5f30751c3bbc979"
     },
     {
       "extension_id": "iaoeadecnampefdibdmjjbojfoajpfde",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5de63f2c54f181b3782e5c974209cdd90bc5650da32a06063572be48a1db131e"
     },
     {
       "extension_id": "ibmaolbkpicpijpjecobinipoddeiogn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1e3886c1eff6d466669718dfe8de7b3c949bbec8d8647608734e8807759c4e46"
     },
     {
       "extension_id": "ibphkcpmadfdpbkockccopbibhbdijna",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "53c8ec9dbd6fd267cba70e77176f5e49f6b311bc71f19af4725c5c99b427c952"
     },
@@ -5277,126 +5277,126 @@
     {
       "extension_id": "icjnjndpfkjjlhdcbigakplonifnhnpk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9f18a238a45bb471f7c9b83d3dd0dcedf5fb7c76f08ffb73abd44ab367124b95"
     },
     {
       "extension_id": "ickldhbificbikdaaljpcddekdmngjjc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f4bf48a1f3f3ae1a9bbe7256639d54134296f733556e6cf10c80c0b18bbbf822"
     },
     {
       "extension_id": "idmpkfamcdgdhlopbiapnoaklgkjigle",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "85b66efca2f48f6ba7d64e5852a202b17f3e5e8e53cdc70735b325de298ebcfe"
     },
     {
       "extension_id": "idpnkgklpceoeabneppjgffcidokneif",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "946855798d73ce1d7f666da3e396e26193fd7e26f007c6929eaf17f6ca5e218f"
     },
     {
       "extension_id": "ielobapmcgolalpmbagemlcnpljochfg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5fee4d7cbf0243b56295987dc80e32e56346715ecd1925d2dabd66d1cf27da78"
     },
     {
       "extension_id": "ifohhcbccciphedicdbedaomdhblnhob",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a6bbd087b05cf3bd4d4ff4e5731815d6962c09cf08983e8cd3b638d2d5379877"
     },
     {
       "extension_id": "igjfbdhfpnmbbiegnnlhhokbdpoglmba",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a3a1fb54086ba9e4204ab3fe99ae7ab3de8c29c0c3ed1b5dd743ef4013b63403"
     },
     {
       "extension_id": "igmoflgphnlpcbeedabbhcpppklkkdeb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7ab02902c373390501f70f5d1e39a9bafbdcb09ef9533fe84568447fa09f1400"
     },
     {
       "extension_id": "ihbbgdnjojleljhjpenkkkbfbkhmaned",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "00f8a4b8a72335b39b968ab1b60b311e7801791fd5173f48e0cfc4bec4eb7d4d"
     },
     {
       "extension_id": "ihbmgokcocjiihdmjkeblefcpbgeefkk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d86c9cebdce4017cf4ed508814c16427c6b5c41772ad55602e60adae2fc0baea"
     },
     {
       "extension_id": "ihldefkgpnceoelikkacpffhabnhfdpm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9d24388e5b80fba94b44191d8e6e81186f41b1903fb4967a3feee01d977e21b8"
     },
     {
       "extension_id": "ihpdbailkcljcclemifagdnfmgpfnfbi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "599a90bd888000bbee5a74d7e708d803c96d284bf863492ccfc6684d86f8df9d"
     },
     {
       "extension_id": "iibaohbndjbhmoahmcdaeegolenbnenc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ced0dbd56a083942843a6e1b191d6c45c59e3ff548bc473d7471ef82b2ee339d"
     },
     {
       "extension_id": "ijidomgpacjmolpdobebnkocnogkphpp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d7983370cb25173814bffc5b68f55fc7b505a6277e400234180ed88e72a8b141"
     },
     {
       "extension_id": "ijilplnnjkjklkmhbklfnpnlnjpbfaie",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5ad2675ab889706ab004c23bbad2000f2de642f44c59a83d69719f507161a1f4"
     },
     {
       "extension_id": "ijldnndgkkdkglbpneecjeedmnhklflh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f2b2ec98baf5aeaed6c447ef90f8cd7c149ce1adbfe6eed46f45e216918e4717"
     },
     {
       "extension_id": "ijpbkjknnkpjnkndfgddfflpoickilmf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "734d633520e966d5c814a906c654eb61f8b0fb8e2c5db1c6178d1aad29db6a7b"
     },
     {
       "extension_id": "ikaiigidedfhichcdloodfefkjbpbdak",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9cf9baf22990e3fbce7438400db9659cdddcd2f6cae38f99936fc1efd08a3ae7"
     },
@@ -5410,21 +5410,21 @@
     {
       "extension_id": "ilhkddenpjglbamfkdfcggplilcibono",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b0ae2b7d8f9001bb62a3b5af14f2cf131ecc6a67b89da013ceb9c66959544d7a"
     },
     {
       "extension_id": "illoljcjjjjmblealplijcjkedjlkdfg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "825973f9e89a996aada1c10ae861426820f74d912cdb74f13123bcce2ed7086d"
     },
     {
       "extension_id": "iloeambbfeeikpjhkpfcbcplpobgapel",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9275dcf953bbe931b612b023af6b4176b05aed8ea940cadd27cc2a7ebcf4b8ed"
     },
@@ -5438,7 +5438,7 @@
     {
       "extension_id": "imbkobcmkpefeijlpgejkpnfgbjmlaoo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cb13b299e5581517510b009d1547ffa2b7aed164c901d49810ca975a985a0737"
     },
@@ -5452,77 +5452,77 @@
     {
       "extension_id": "imkgekneolafjpdgcbdagelgfcdobmlp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bdb8991aee90dfc46998bc44aa77dd613b2214df160a92d718e67600c86b2135"
     },
     {
       "extension_id": "inddaiiphfojbihdabkdnlpjehfkklhp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "424beef3379108098ae67a23f408d16fe300495eea895bd6d9228a4edfe01054"
     },
     {
       "extension_id": "ingmjmajmmhjmdnbhjkljhelcibnemnc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "139c28cb1df478473f2fe3e3c9f8b0ed3ed1f81f4958eb082626e6621dbd916d"
     },
     {
       "extension_id": "inicnjibhgoomjmdkddcmmnpamfhpghb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b7a59db25850c7d6df9e12d83eafd58d3bed626f63899e51e8097d1c9f35815c"
     },
     {
       "extension_id": "innjppfndpgigpnoicbofacmdpiblmge",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f0a373ab4db299b31dd4b5751e2a57580a4ab45c74ed4ed634b4773a8ad41213"
     },
     {
       "extension_id": "inolfjdmfnnikdnaagcocajchnccmaio",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "385935b609a8e6c7d69cad41f9233657441cb72073e335c09f72aeef9fd15402"
     },
     {
       "extension_id": "ioncbpcgiobadmnelbcpgpjphenddfoa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e3a7d9769fc03e1325bb151134f9ec0bd92f6e32aca1c4966dba90ae00621e6f"
     },
     {
       "extension_id": "ipdncmifipjgangkhjjjfccojkccmefd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7d0e1bc7ab1e61538c243d87bb40d58f0eff53a5385798ee19272c8f2f347f28"
     },
     {
       "extension_id": "ipjfgibgeafohhadcicgcgongehdliam",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8b9f8ce67815cd53323b7a05f1addf8595bbb127d3df450f831457255301f1c8"
     },
     {
       "extension_id": "ipmbpleekpckaonmiggklgoicdihkmml",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1eec50a62bc6e3d69b7a8b2d803bf9a4d86198e5e8eb9acbcf177ce5a1f286c2"
     },
     {
       "extension_id": "ipnjgkeodmakngjpblfmcggkcknalfam",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b32df3ae3e537a499c042896aa531dc6751a2150744ceabf930fc56c99b12ce4"
     },
@@ -5536,7 +5536,7 @@
     {
       "extension_id": "jaccgfagleghffhjbcaoambohejmpaoh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3c6bed6f29ce749a05474b94372c7232a19c7cdf9dc285fa35dc6745160ac95f"
     },
@@ -5550,7 +5550,7 @@
     {
       "extension_id": "jcamehlleiidiiogfddjclbihkamnmdb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2eec93c8d68fad8b6d64907409a6f393a89e9ce425a780628d752f721bff8db8"
     },
@@ -5564,84 +5564,84 @@
     {
       "extension_id": "jdpnclabfdjckoggcihhcfphomgcmfib",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9850435aca754238f6766ed23f2d643f0c3ce493dbe409a7f3527dcfb9b1cada"
     },
     {
       "extension_id": "jefnljneijhahhfffilpmfpofhgigkhd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "aea217f57e701ee7e805aff46270ffbed77f6e1cf85764eb38570f9a68acc085"
     },
     {
       "extension_id": "jfdplfcifokiabbglfjeaanldjohogfd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "24c4f99380601e758a3273e756e4fa2d462eda27ea7376896e1bd70545228333"
     },
     {
       "extension_id": "jggpbfpigiemlipemocnijhapgoaflac",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "00f7b97894fab8740aafa77288919b616acf932c2c0b053b6dcb5bc9512630c3"
     },
     {
       "extension_id": "jgmokihhodhebpmcbamcjgjbpkngngap",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "803ab1d773d966bcf016f376a48ba463bb58b82f18d62a8e4559ac426c57c5dd"
     },
     {
       "extension_id": "jjibkaphagoijhdmkllmcndemnidhjjd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3100f9cb87921a2d960fade549ce3ac5e32e3718145d7aab25aebfe6630fcfd4"
     },
     {
       "extension_id": "jkekfaejgkokhbcahfmhiiecgkkkfhpa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8de3331d95be9ee24bef29053317a441d7595219006a0399a910fa6d08a7cf1d"
     },
     {
       "extension_id": "jocbfpcnadgeceidpapkoggmhkieeeeg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c00124034a5c2fd8ef356393132c0a653bbee52a44330aaa940b07f3687f9052"
     },
     {
       "extension_id": "jofoajnimljekbjgjdpbnicnfeegbfbg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "48c166e061603fbc7c7d44ac2755a5bd6dbbc751f54601c3e82118a2ace8aa2a"
     },
     {
       "extension_id": "jogoelgdgekiljmmcalimblkcmoklkdo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "60d98dfd0a07009efe0b9af0f5d90f2f4353439e41f87ee5fc2298d1b9c1efac"
     },
     {
       "extension_id": "joocokeldmkhhgaaalkjnomkpldkdocn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5f3152871b92e595cc989323fe7ad8f6c2dd7ead44038f9cd090d290456811f4"
     },
     {
       "extension_id": "jpgmhchadlmpjjdgolpdhgooglpaiogf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2c80b83e970c3851bd51a814d273dcba762e14e7092b0c0acc0709a90b31891b"
     },
@@ -5655,161 +5655,161 @@
     {
       "extension_id": "kalljebjhmecngplogckjaodbfbjgden",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "814c1616b170276d157a77a60b125ec042c1a348fb51056039992fc547034699"
     },
     {
       "extension_id": "kaonoofcdglmjidkpokanpbjfdbfhamk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "31d654a47780cb54a5405ae4d93c745ff014a598263761c0e838b4a4aaf227b2"
     },
     {
       "extension_id": "kbokjhkoeadabeccjgohejbipkggopbo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cf8748487f4be801aababc0e886e62f159506e3374016da9a9bd406376e9f99a"
     },
     {
       "extension_id": "kclcmhakfncbaklinnijihiinbkoajed",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8567a1c1222955036d7a4ff9289470e1660370457a47c9a686e8adf209d1b936"
     },
     {
       "extension_id": "kdfigodfnafejgecidbhkjlgdokkiiig",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ecbb19a82ac073d5e9f4e1055502a95e4babbf6e0e8936ba54840fdb9e2671e5"
     },
     {
       "extension_id": "kejenndfhndojdfoecjjkaeefogjgeid",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "565e5c98f99bed01f43ebe6392e23c2f6c3ba787f65e1c4ba5202fc179c4a631"
     },
     {
       "extension_id": "kenamdfaobeijnoclgegcpoplfahlemh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "63e99c3a00235d22525fd569448dbd430f92c2a2f89b0162bf7f38e99991e34d"
     },
     {
       "extension_id": "kfdikbdfpdnnhhdedadeaodglioggjdl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "507b8ef747704470fb40c251b034f31c832fcc2bcd23fc5574984f15150647ec"
     },
     {
       "extension_id": "kfginhcclblahoolnpjkhgkmgfjbkcao",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bd3cf5474344af78c090df80d549b48abbba6120b44464f0cd3f2d0e8019e7cf"
     },
     {
       "extension_id": "kfodnmcfkeekobieebijkjclpbdeenjp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ca96758a6578d6bb5780e60b51fb4c9c46c30dae45aeb95e09bc53bf425aa147"
     },
     {
       "extension_id": "kfohlaofnppmnelheedlkiamijfaikci",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4f204e68b67602346a67a7c8aa04687214c606b49cf4f23b16c149dedfff0ad8"
     },
     {
       "extension_id": "kgjjaibkhlddbmmnhndcnpoimeidlgba",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dcd028f40c79e7b9605b81fd75f25a2146ed87d7b1578f49bfe85b41ee506ef6"
     },
     {
       "extension_id": "kglhlmkedfjgbfhleoifbnjhblmjbphg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8ea519c91d17467665fa2e54077013a35f202761b4a0cd30f84c8e3c0279cf48"
     },
     {
       "extension_id": "khaoknlphonpaimkkeepehffbkgobdjc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "af4fd10bd2fcc9788b0db1678a995c5c3a5d609f8935d4c7cb9fb40f954dea3e"
     },
     {
       "extension_id": "khefbhanpeicefjhlogailkalglhdlea",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9ccb383bbbd5f4dffdbcca57ca80249acc80450827b3118d1bd87a28b79e3536"
     },
     {
       "extension_id": "kidhjgofjnmjpbdhagacohdggmdfcgfl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b110a64a1c6f32ffa18c1fd7847af1839786d3f2bcae3f7effcafc3ab4f483b2"
     },
     {
       "extension_id": "kiefglobgcfoolkfjkopcnopaagpohlc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ab15ce970191314a2354979c1e50242dbad2c96a22b25d06b185ffd0525b62c6"
     },
     {
       "extension_id": "kiijehifnnlnchkfgmlokakpfiooeigk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "021fc257ba052289e0e9e7e0036ff57378096b11b2bfff7e9695e6c47521388e"
     },
     {
       "extension_id": "kjbelgiekopnehkjmcpoiiopmfhbcokn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9f744118b707585f80c4fbadb648b5217d5e92057570cf0ff87a114b4bce9786"
     },
     {
       "extension_id": "kkejncpdhhnfmdebmpaacbcmgglkigdb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "17674707d72b492534c9cf9e87a6a14f9e0438433c1543a0c105a04668f69f63"
     },
     {
       "extension_id": "kkfkknaikhhjojoidojlenioadfjecof",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f053021f37ba2757f33b1e73cb7c207027bab5539b0062cbb39f7a4904a9f2e1"
     },
     {
       "extension_id": "kkmkaknfcdcpjfjlmfhbpeoijikfoneh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e2ba2733a39c55142942723a9fea4c126d1060d5295e3cedf7dc246444ab4136"
     },
     {
       "extension_id": "klmkbfdadoijkjkinfbbncmmoepeibek",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "eccbb21bdc29368c4a411820b5a4409ed58c4e7846e50043528cf015598b753a"
     },
@@ -5823,133 +5823,133 @@
     {
       "extension_id": "knblpijcogopeankegmbcdhdndbplgka",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "819305f23515893b7df660882fd9358f50cbd54b18ec292845a6af2e51b04959"
     },
     {
       "extension_id": "koakjgkbcddoofklajpgeidodbanoijk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1d740f948c8860679ca46859f996a084f1c862b5a8f9b6363714773dc83aca47"
     },
     {
       "extension_id": "koidiemmmedgpiokggpfilalabjoadmg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "be721d4592b82a5605f4ff53937c9194589b825181e60487b3d618d0ff4f7d1b"
     },
     {
       "extension_id": "kojpkekfanejpfmildijmgmapdgepddn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a51eae20750718578ca9211473a8362b0ebf71c87ab1601d414353af2288a33f"
     },
     {
       "extension_id": "kolbfeikmmkkdolnkopohocflhpokajp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4c4a83ea77cb3aa652e582332c2d446f4cc9dc63e38b74dfbbce665c705a361a"
     },
     {
       "extension_id": "kpmgcdgnpkbfajhgbmagkaccibnekbdm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fdf0330a73387e73f190c13f8697f0852f6a63daea4554c64d5c41027bedcc43"
     },
     {
       "extension_id": "lbaphifcdembobfoannnpogppkacjkhk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a5b3a17359412b7270bc57e08ee22a1ac0bc30bbadd83ba4c2582d852e57e796"
     },
     {
       "extension_id": "lbbnpjbbepimfemibkhddfklekaipjli",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d673da62f50193853cf060feaf8bb4ec8c3c4be6c93bf173884ba9f0c2dea279"
     },
     {
       "extension_id": "ldhmimnchgkihniijggnhcanhphillnn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "77829b6cde88ca099fde87e7dfd03225a091a8ac5fe92f16c347404b4c2d42d2"
     },
     {
       "extension_id": "ldijhinlhpiiooiknndjjdolhnpihbel",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "032024cc8d2c5a7cd1f41548f791e602ba28de69e470696f6df2c6fb197c7190"
     },
     {
       "extension_id": "legdfnahnoeicgljlooibgkjphfaploh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "055e75f6dba47db81cbfd82c8e533e84ab6d7d0252a03c481651646734f8955d"
     },
     {
       "extension_id": "leimopkbcijhhkpaigamminemckeihko",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b229173416f45417654296c5f1d882d5f2da04f92443aee30cebe4f849427bb0"
     },
     {
       "extension_id": "lepocfhpmichhobjfkdpkglpfmfkpbfd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "73f8d3cf9256e88e05c1b145f9e12b34c8e61199b458007c430acee1e6f37b93"
     },
     {
       "extension_id": "lfadaehpomkfpaikipnlicfnncpifekm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2a1fd2509756eb88baad2749bf58736bc1d3ac10d58503f7eb44d759d6fbcb1b"
     },
     {
       "extension_id": "lffiompnfgklemcbinkmogbjeiaifehb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c5761c94fd5e505fd4ba4f4661722636327cd4afbbda9a9679ef4dac7d9c1d32"
     },
     {
       "extension_id": "lffokgmnkdhhcbfdemgjjlgpohafchnc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5e4d51d238ded6fc117e2eea05b32c2aea46269dab591b7326f160431c207ed1"
     },
     {
       "extension_id": "lfmkljhfpjpcoeghgomhemecbcojikai",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a0b234223377ab75155b3861b287de2574d4507598fb056bfdb02c609628560c"
     },
     {
       "extension_id": "lgjplckjkndnoedomdpbhhjgiopmblnj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6b3b549f5f360eea307071eab287477b6322332b64a2b71332d5f83e672fa28f"
     },
     {
       "extension_id": "lhmcjeognjknaapdledgjglikmhhcoan",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1c39d61f4c24a7e6060335f970ae0a90211975b6fbcef28b6530505c10afccef"
     },
@@ -5970,91 +5970,91 @@
     {
       "extension_id": "ljhgojgbkjkhbalonkdonmgfdoepggcp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e8c49f07fa86a063835fd9b057ce5a055b5cdd30569762684af51fbd1accae1b"
     },
     {
       "extension_id": "lkcpbhmegkfjfhjehobbbbgkgaogkofl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5dcb8e54025f64a75245b0ca0b0ad5dfc30e87684f7304bda4b2bc6edbf4980a"
     },
     {
       "extension_id": "lkmnpfajdejfdbfjiaealafmogipbapk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b7c2b98d6525858cf17732c0fd9a3e9dffb830839f1fb13f7688f9f4953a6650"
     },
     {
       "extension_id": "lkoncffoonijombbicbdoekimimjdhif",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5a7441b653dd0064fc94ad3b849d7cff39c77281ad308df1d4bef186a46bdb09"
     },
     {
       "extension_id": "lkpckmkognddjdhnoadepmgniifnfhek",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4022cf47e7da7f5c2c8f38acf212184db7b2985e4f32df0ac1e5381e5d7dd2c2"
     },
     {
       "extension_id": "llidhpjmhdejdndndciohlhnkggkpjdo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "82f58a9dd8e4a019cb6a1a6183b9486037a790468402240533beae53536a2eb2"
     },
     {
       "extension_id": "lmagpmnilkpgdcbkmokechmpeeojangi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e59cd37dd989e6e6aef510648705c3f568ef1d43738a4cd5f3ea9573e8045e49"
     },
     {
       "extension_id": "lmcppmbdhnaehfibpnhddklfjijnkkep",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0b81a1cf59756eb1532cd4782885e8870221ebceb50828a9e9c50680def2126b"
     },
     {
       "extension_id": "lngiojmnaemlbhahccmnohemajgjgimb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2daf0569e28a7416d0b1a36ab8b3a096951a9fe1041a3abb76eb90f5e0206147"
     },
     {
       "extension_id": "lnmkicmjchoonmpmfpkjlbiejkepdjmh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ecde73b2193fc2807e76f69bfbb8f94b11891bd3436931d9133e5a230e25ab30"
     },
     {
       "extension_id": "loieafdhaendcpnbpcjmchfnochbhcio",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5ab1ec3662b87aae74b99d4749672e20cc0ca6cd0f1b95b70cca9c903a12c841"
     },
     {
       "extension_id": "lopjckeffpljbofkaldmojbbjlkjdfcf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fa1a718563de3fc6e5cee988258af7dd47c10a565633e1f8a20fbc1522a9c299"
     },
     {
       "extension_id": "lpccdlpnagkhpglgcchidglcnoinhpji",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c476fcd05c5da07f35c40042b7bbd0a1714436fe371ea9950d7594f44f5166d6"
     },
@@ -6068,126 +6068,126 @@
     {
       "extension_id": "melcllbcepoakpgccapphgiilfefclfp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "039c7e17e52b181a69aea74b8901ccd06c779bbf7189e8ce7fb3761496907cc3"
     },
     {
       "extension_id": "mfapmkkleedaafigeeianmkfklamafaf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "5ffb438dc6332a19e1a08c4abcedb98e1de54be7e9f5fd8ede4e766434e1af86"
     },
     {
       "extension_id": "mfcaneeehggllfdnekaicinjidbbongi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8d19a8689e6c161a9cf11b5198d26ecc5a615695c1eabd47bda78526ffc13cfc"
     },
     {
       "extension_id": "mfjnlfbefioeckkmmfahkgmhgneepgll",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b943c426ec84916204657b075a299833d51d7d9ff6d9f571170d582202df07cb"
     },
     {
       "extension_id": "miiolehfoldajjpfjcnajmalaojhjaoa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "38434c2823c45f5903ed700895e01070a3abb4e943ffdb1660f2755f990d18e2"
     },
     {
       "extension_id": "minbmnlpjbikmghooidgekahhooailhm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "11b96c3c08180b01a10d635038bebf4542d82083e8bb54f93f1f9fc77690aa38"
     },
     {
       "extension_id": "mipkffkddlldacbaljecppmjbejccnli",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "deb07532a7d206a7c5250ba7409766b09c973306b4ece8f809e8fc0d21ac1a15"
     },
     {
       "extension_id": "mjaifaojoefepojcljhdhibkpklfnbgo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c252e5e5c0f089d078487e085f43644ddb103fef9c1079c123b4675197be99e3"
     },
     {
       "extension_id": "mjaohgnbjbllcofbefddknibhiciblen",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "df7886b714890b24565687f35d4f0587943cfb12d84633c74fe2d4b5bc52f2d1"
     },
     {
       "extension_id": "mkamgofgnhollhpgpiaifcjhffkhgndk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8e0045cb0fc4b1a9c9f0ee29b6f6d266913284468ff6af6a000e7891230f8177"
     },
     {
       "extension_id": "mkkolkbehgnknpmdcjbcgjpnmeegijim",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b9f53a0ecccaee676091ceeefb040090afb17b54339731f4c807b1ccaacd1622"
     },
     {
       "extension_id": "mldhnfajgpmjhdcfjobajiiinnaajbma",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b0896ca1d57e909411d04a9c7ea6f1ffc262d6a9c74142442171989c498d9551"
     },
     {
       "extension_id": "mllhkekmhgbdenahmkolmkijipddhbnn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "01d9a95ebc7c5df2f92ab549e0de556b580fb31762f4953be1b8ae89363cc6b1"
     },
     {
       "extension_id": "mllilecdlobbninpgokpjdemejfnkela",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "51ab9cbc3a4d1037d7fd8463365e2da42b17f505ab74dc9074be7af239b318b8"
     },
     {
       "extension_id": "mlndifgbehammhhbecgfcpbcbmnfhooe",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "be10618f5738cab47343b7200740290ff87e797c7ce78b49a001151196789f6d"
     },
     {
       "extension_id": "mlpegpimkonipjfhidmimjahlocgobop",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2d37ffb524f2022be54efef897140fc51098c2cecc38babb7b548a1b7b776b4d"
     },
     {
       "extension_id": "moechpfgdfbhngeolclpkomehjnfefgc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6b41063fc60debcfdb4498cabfa4ea95567b8295686c12e8659ef7b2d522388e"
     },
     {
       "extension_id": "mpfokndmajkflgkbjjkmgcnkkoebelab",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "088b06a0a7b1220338e3e5eafae7ab26abc5b466c97c32635dc63e56ccb7d707"
     },
@@ -6201,63 +6201,63 @@
     {
       "extension_id": "nabfdkbbclgbgegiahpobbmgahdjnida",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c08767396d1c3706c063bb610b99e05610e48909068f25f76c143c1e0e24db15"
     },
     {
       "extension_id": "naeknendfcmljedoehenpefacejdhjal",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4646afb73049131fda299d5f129d4cd66ddd2ad24cdb055dee7d69962cac6c8d"
     },
     {
       "extension_id": "nbeelbioffbjkkgapjdpfcckiannldej",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c7b6908bd654abd1631e24b80bffeae64a9fcf7fa2b22afd279b4e8f8cc5fceb"
     },
     {
       "extension_id": "nbenpghhoknfjfjlibglllggjkhaofba",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7682821d8b44bcab6794d4613e80e05663129110f4d6d4c9361045382f1c222d"
     },
     {
       "extension_id": "nbnhggmmgochbcphpjjbahngkpnelcic",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ce670dffa3705a51e55b9bbba0facd83f1b736e015034342c841358229835b89"
     },
     {
       "extension_id": "ncdgmomaanghnglcjhmhbbianeaddcnf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fd5f685cb9a2b0362773eecb78d925f359f2785ac16df2f028ab990c0e09fbe4"
     },
     {
       "extension_id": "ncoffmoodfnohnphcmidgncknpkgnccj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2eb435a109ebc1f6add78fc7d4132d14261da06537a425dd9079eae90d0e1530"
     },
     {
       "extension_id": "neobejhblpcbllkbcpeanhjggoelleme",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2e585188ff3956269013b8ff7f508260d61d37b68eabe145b6566302b32a88c4"
     },
     {
       "extension_id": "nfcmnfjkkoiaojgiejjikhcohjefccll",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b6d03b82bf6ea9dc27fd1e9124cd431db1ce33159c6ba2edc1c82ca72f525f45"
     },
@@ -6271,42 +6271,42 @@
     {
       "extension_id": "ngohccekcogognbibjfipmpckfnincli",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "8f6b9d1fb4169145752742d26b25180a6252c9f298983b4a0e5690d1bd1cf77f"
     },
     {
       "extension_id": "nhdjjcfgikohckacbdjcailhbnbbinjk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "6bda8dbf86e0674d4e6f2db0da82f1ec25b4f73fd00fe6c055d62cb6533c7bb8"
     },
     {
       "extension_id": "nhknddogcpmenomfpndcdcgocdkdhmmo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fbfffab69cbf1c36644e06adbe5f42e79674040e7b7196a94cb93084d5fd88b1"
     },
     {
       "extension_id": "nibfakjomhepipjboakgjnnddeeeebeh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dbbfc8cbb7afa6ae34996fa5a852469e4b674d5e361946509762b7123efb8cab"
     },
     {
       "extension_id": "nilachbkggkoalbfogpkckojjdhlnjho",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4a323fc3c3c15857dad85eeb522b6d7617c70c57398888162539c76c4867b952"
     },
     {
       "extension_id": "ninkfblhapgjffbmpmimemjicdghkdgg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bada0137417d1fb70c2b6ebcbd94d0bcbafb5b6ba4a6126da8270d2dc4e34510"
     },
@@ -6320,63 +6320,63 @@
     {
       "extension_id": "njmlahdnjgafdichmdlafnlbckkpidic",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9f609ae88e40804c03ccab51eceee41d677b97c83fec8ba2320dd9fa084902e1"
     },
     {
       "extension_id": "nkggmkmcfgeagjpfenkhmpkgpefmdddi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bce1ff6ed507400d8769979c0d71bf5e9d208cefec190449b81b71befe1c2360"
     },
     {
       "extension_id": "nledalnomibdlfljakdcffgbpmkhjdfh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b7758fce49188ef740a0d17161ab6e6da5d74bd3b0e34cd0eb67c28014c31214"
     },
     {
       "extension_id": "nllfmbmeibkjhdidkhnnpbblneepaonh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fac4026856cc14e83e5537d02bf8088eb59308e55ca20edc56581ab3d40ae791"
     },
     {
       "extension_id": "nmcnfhmlonpkabmmoepefcokljhelkoe",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d0699aaac8980269f9f20847b978fe938988b0465f59bc10f0380286ed64f823"
     },
     {
       "extension_id": "nmnbdhlcjapghglbagbagmideiggpnfi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e1cc9b15cf9911adc587a202489b0634965bfba9c78237806ff8f767beeb14f2"
     },
     {
       "extension_id": "nodaaabgfmfoedakdmbjmoicocgnbokc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bc9fa325c7384ed7a5762ecf1fc169a103da18a7054afb68853f271b50ba3b45"
     },
     {
       "extension_id": "npgglgmhjabcncbhlpgblgbhajjabjcf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b9298729f354eda290af805a11d58f249b2ff0fa80fbde8a33fdffc0a3b50877"
     },
     {
       "extension_id": "npminpkniohlengkpngnepjllnfapelj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "26ed7e4f366c4aac8dfdf8b4fa97cca4f7eb02c0ec42ddb4c91dac034e7ad2e0"
     },
@@ -6390,21 +6390,21 @@
     {
       "extension_id": "obabhcfakmfmaaankblgkjpinodphbjd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "76640deb3a382dec71a555642695f7f8f3b624fa8c18a4ecd56eb7692159f5bc"
     },
     {
       "extension_id": "obhdgfnkodjcnnhpjjmlgmcngmbciimc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ab8113f8c196758fdfa7e4aac48f37cc4ebb3cac94adb3aa9fff94b622a8c88d"
     },
     {
       "extension_id": "obincfamamnccblhgjimnbegglcfmiok",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e517c611b0c775d5bb67a4b7616ccf77eaabe705919474fcab15676fa48a0e20"
     },
@@ -6418,196 +6418,196 @@
     {
       "extension_id": "ocbpehjjgkamhchhclbdabhenpghggfb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0ec74de2c3f666addf4b07f34d3b441c598f5226d88261b5bb444cf3852a69de"
     },
     {
       "extension_id": "ocjopfjjaphkoagcfdmdgpheobhccmfp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "423b4cb126e9451b4366d7e59baa789c54089276c38aa78fff17891d6935e7b3"
     },
     {
       "extension_id": "odmonkfcgpfigghfgnngaeibckgjbjce",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c844c40bbfd22ac8d422c2bf66f800b43d61deb8d0987ed53fc0c33333d571c4"
     },
     {
       "extension_id": "oebcbpokjkoooddmcokcjjoijcgnjoic",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b8762e736848c35a6d61e17c3c6f332f8ff5d7edb219287e80180836ac16dad6"
     },
     {
       "extension_id": "oeddabhhipaomblagaohfjfcikjacide",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f5b184f94524f40898643b4489c3caded8fab486fbdca7b0271078c94b87c4a9"
     },
     {
       "extension_id": "oekjbffiagclhfkpphmcheihchifblhp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ce7c6e902611e38211ac414b547646df6f52e5b9be0497701cc97f1de32ad5e1"
     },
     {
       "extension_id": "oemjchklfcneghomigfkdeoleglhgocp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d97e733a5d67758f8ff1c9347721caa61dcf8d2df43a144d8c39e945e754d787"
     },
     {
       "extension_id": "oepemfmcinfdgpdfcleghpkbhkhhpmkl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "62754640ad01e32a9081705939ede2733c057dac0f12fc68f60c3db3821e8aba"
     },
     {
       "extension_id": "ogbcnckfiabjkgofnkmohmjabcadcpjj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9a8ae6799a9051b08c1247676024b56d5b744e446338354c3317a2a9308d673a"
     },
     {
       "extension_id": "ohciibhlgjnckamdhelbjgggcdaifkbf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "c149acca8c1d4bfea994a432b04d8d10a3e86d39c765d16d99f12464dbd5094e"
     },
     {
       "extension_id": "ohimcmgcbkcjihmfdddgomhdjbjihchg",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "521625056f01af46c11f23c568c4b60703a0b7b288d00ac2579b40b45a80050c"
     },
     {
       "extension_id": "oilnfanklnlkllifgedkeeefcfenenpf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cccfd49cd62c699d5fcb3dd428906b31e22ae139197609bf7c41ca3b124e2f8b"
     },
     {
       "extension_id": "oiofghlphpdioamgoakbafcgalhgodjh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "abb5b2a1ba2a95662365d9acc003f43850fa4ae98493d9288a45b9632aacdeb6"
     },
     {
       "extension_id": "ojgfehdbhgbicajidmgiidpceockbbpn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cd610977e3c01266a58e09c22bb96736947b5898735e61ff696c7ecbac2eef16"
     },
     {
       "extension_id": "ojgndfedcnfkmohdcafiilpcenifhijd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1db46228a9f11431457b7c07cafdb55998753fd20a142192b4828034c702379f"
     },
     {
       "extension_id": "ojjdfjlckplkkaphcpblafonbhoofddi",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "aba49acbcf8d05365499d6bc6e8db75752d276be02c88becfdf7aab471f9e4fd"
     },
     {
       "extension_id": "okijglemboebajkjkfnkfkjldfeahflk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bb5aaade7f61eb3cd87b3f12d9436b6015f5bdca1d1403a617f5714f723487e5"
     },
     {
       "extension_id": "okkofhfjhogmdagdpokjcfclbgeobhmk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d7eb42fdfcbee91114356ae9f7b1f2de23d983525f90290165283a6a99f41a15"
     },
     {
       "extension_id": "olbjcieaiekojooccadpemmnofapfngl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1194bc9d533814cd88263c794951cec2dc8572e4b3d71479d51a4b7bc46ff0bc"
     },
     {
       "extension_id": "olnedmfbogpgbkphdbfednoagdlmamin",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "86ee33cd524976e37aad9a56cdee06eff8bc93db660232c2610b800699f77804"
     },
     {
       "extension_id": "omdbnfgeiodifpcndelahincimhbooae",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "a62c2018c1700688e90fab648fc4175a8b6fd3bac065bebec9902883aaf8ac0f"
     },
     {
       "extension_id": "omkjdbggfhniomedkgdcoimmpolbiddl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3d4032e34113dd67a61409c166038714e1c345ac9e5c220160852a2a835448c4"
     },
     {
       "extension_id": "ommmigkmgbilkbggodbipeffbjdbcook",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "db53072dd4ca64914c634825d8aa3ef4abcfbd614c496eae231dca107f851fff"
     },
     {
       "extension_id": "ommpoiidlmdogdmcchcdhaknjjmobldb",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "20a50b8553518f7462e8305c8b4c3eeeec1fedb56f5ab2d268c203a78d0237f6"
     },
     {
       "extension_id": "onapalbennofmmiojkillockmddkablp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d40c8b1f45c8b581630e6a33832257025b1e931dc8ec001d5d30c70631e9f767"
     },
     {
       "extension_id": "ondmhoohnlhclemilldijfdmlfkonfip",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "89a003ea24d438eb581f15b53063a7e2c33ebc4e9407674ce601a2f3512b341f"
     },
     {
       "extension_id": "ondnmmgphffljlhdiifpplebjmfbofho",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7ea3c395611914a3dc5d9dde66df3ace627f07361e55197fbda0b2fecdb0f68c"
     },
     {
       "extension_id": "onjinbkkfllnmlliccceepfccihgecdh",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "2739f3ec15885ea713377994cdfbb1e6cee10920539089329bb0d6925d93e2cd"
     },
@@ -6621,280 +6621,280 @@
     {
       "extension_id": "oojhemfejdefafjanamoiefplimjamdf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "55db6cdb3b68247f904e253c193171af7098adf877303b3a7497e240fe4e7881"
     },
     {
       "extension_id": "opcoiilfeelpihhomeaoebehlcdihjid",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3440e6a99cbccccae7623ceb48fe34ccbcc925fcd969b454f9c8e3531e28f8f7"
     },
     {
       "extension_id": "pakgnemmpanbkmjapomefhloemiagfjm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b2bdc85d965cdb3e40c4f0d85570219ff740a8263d214cd6afa3883a6f7dbd7d"
     },
     {
       "extension_id": "pbecllekjbdgokpkfmgaggfmghfdipkn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "03f177c9b30786c05b07f8957231589af64dc50eb0296c290209c3a8348ea8a9"
     },
     {
       "extension_id": "pcbdkbipnfmfjfimjjbpeifhobgakeoa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "3f0271577bb787db490a8047935701a2e36ac36af19710dcec35fcf29375d9d8"
     },
     {
       "extension_id": "pcoepiamkidpfnbacbncjpcdgcgcofmd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7f88a733379090e8b0df60d03f3c8a97b8816e156e058e9dd1996a30a06d987a"
     },
     {
       "extension_id": "pddhejgmgakilndagfaffgochjojogfp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "7c73a16ce93b9743b218c503ad5a813cfdddf6f8f53104e62fb75151f8fbe504"
     },
     {
       "extension_id": "pdokibcpfcjgjekalneegknionpagbmk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "168b793718f431952fc8db43f8194e3b0d1b23a9713f5ab9fda1ac3013f0a8aa"
     },
     {
       "extension_id": "peaphjkfgmagbgebncdjcfnmbpfiknci",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "718dbbd224bd76036fa9193d215f1a39848d8c07436df59068c74b3d329b72bb"
     },
     {
       "extension_id": "peegmjemnahkkbmkddeiiodljofeajmp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0fac0ba7c3cd0c24a8cafeec31de7154b1d6e891c3391de4ca8f589d1438777e"
     },
     {
       "extension_id": "pfanfinmoljafbhjbjdebbdnjmfmiimd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d441c23c80bd36eaf7897b7f9284bc15577a7a97e9ebcd37ba1cca30b779d460"
     },
     {
       "extension_id": "pfljadblahfjooobcgeomagleeoaapbl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "53fcb4e8a349510d99bc7e2a0bf5687e290f361f2b6bbcac094eeffee854b965"
     },
     {
       "extension_id": "pfnpmpldgnnlfkgefcbkohhfiiacegea",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "bf07946c4a04e878cbbf3dcc9e2e4e115aca2296ab680ec3f91ead682500e72c"
     },
     {
       "extension_id": "pgajoncdggainfbdmibbgmoaahkccmkc",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "fdc751bfee74e3bb26011c143e7cea956201bcae97986a2b003fedb99c2bb766"
     },
     {
       "extension_id": "pgcjglcfamomceaphhbmmhlbkbcmmhke",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "18e05293cb8b2c350f45666208bd5556b2307a192816c3272549004dfcca8be1"
     },
     {
       "extension_id": "pgcoppepfmchejpcekpmhhofikokmbak",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "89c215f03bc9034639b52b90d7e4453c2adab7d19841b90e9065e385d104d33f"
     },
     {
       "extension_id": "pgdehgjcmgedooamahelcjeoghbnhmek",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "287936cff9f094796e74bd7417b47c04f547d65d21a58de204a93db566e7a1ee"
     },
     {
       "extension_id": "pgegfnolipocfakkldnkommjffijfejf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0f3474d0c2255270a41b109d3b5bab1c1f0fe65358ce4c08218bd8a4600d9cf2"
     },
     {
       "extension_id": "phadahcflgdgodfbndbommabigemebhl",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "995407d38f1a5a5be79de32d11e9b6d118f3461b3d126c6c93a9086619e1ee06"
     },
     {
       "extension_id": "phbhemngopbmijocapkgabcojjhmpnpd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "35201e21bf9e6c5c6f519fc581e9da34f36967fa193c1ce228f86a8b8be28d5d"
     },
     {
       "extension_id": "phhddamodjfancgfhllllmieebbjjhpk",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "d51f68ec6a7305b433aa7789f99cc4910c487dafda0405797aef83897a3631a5"
     },
     {
       "extension_id": "pkebmfenadkbamndhkmfliminhmhhgnf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "dad815c902449c7700acba5ae2dd7575896123166a15968c287f37fec3df4645"
     },
     {
       "extension_id": "pkfhbfgbceeilepkfiiceedbhlanmmjj",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "46887ac8ac727dcd2d70475d4f8f067593341472349736758d0b8eeb971173f2"
     },
     {
       "extension_id": "pkjnnicnapmkdflpbbfhnnhbcgchgbcm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "f522b80cac6502005f7df0b61c7d02f04bb18bee6d1409f8606f4dc23336cce9"
     },
     {
       "extension_id": "pknicmfnmeaohdeacagcpcggnjcfefld",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "747479d840239192284f0646722d5afa69f801e9cacd15133164e218c0d27bc5"
     },
     {
       "extension_id": "pkojndcnfhneclhkfjopplcanpgaoppo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "ec1b34c31f7667b07d8ab94b4e9ef71b43dbb38b8071aa828d3102e51b257936"
     },
     {
       "extension_id": "plciffedekbipeophpkkjlilcdfnnkic",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9b822c04a7fbfd03ad631b8e943df208a4ed8ff96e220b797afab658a450931b"
     },
     {
       "extension_id": "pmfbomilkmcfpnpgbdodmdbgapghehef",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1d9a2c1a27809946ded38dc97ef66c025a07a49dfda70dda1a8cbe6e68971206"
     },
     {
       "extension_id": "pmglclpkploapkijijgpncnaomgbagmm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "4b1f2bab8f91e850665292faad169e47c51363650ef4ed3f879d23abf5da36d4"
     },
     {
       "extension_id": "pmmneeeipikleggeclkinacjcjnegfbm",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "e08ecbd9ca3fd7cf827182a3b6c21d2a320254b860dcae2cdc43870d75504208"
     },
     {
       "extension_id": "pmohoeododoachjkhdlifkmgoihmffij",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "9bf8ebedf1e3b9dfbcf5ba1db095647f1f5b0547ede173a9f14ad4e31f2c9c97"
     },
     {
       "extension_id": "pnlgcjdpkjbacmgcbaciffijdkpdjmib",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1df5938fdea2a2845a6caf6fb1ca2f33fc0d833d4cafc0585704279e47c59111"
     },
     {
       "extension_id": "poaelinlofhkopdifffhlkioaojgfjge",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1a48eaf9b8d7531d6649b42aeaff29866dcde28855303c19b61faba8d6b4eca3"
     },
     {
       "extension_id": "podahboddjjbggldcbiigapfjdcemmdd",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "b55b983cf1a16fd4bf78357655e5717fa93efaf7ff54ddebab41ed63a8cb6105"
     },
     {
       "extension_id": "pofmhdlbfflfkigmjhhhclnehmebifaf",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "1ebe3c7251b5f9e6e04c67f19cc631e4dbfb13e4e710528ad586cd0b6b7a55c3"
     },
     {
       "extension_id": "pogjiffghedegfekjhgkbjfkhpbnnclo",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "689bbd6ffdcf39183e8926a3fbaeedc87ff84d902b431406673a0ccb6341ef35"
     },
     {
       "extension_id": "pomcnpapjbiblifjdekoogkognehkipp",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "cecdfbc8eb5de2f571e1a4316b9ae9ebaa5ee8b819601c8e032c9278dd5eacdd"
     },
     {
       "extension_id": "ppbbocbdhdnedkdlaoohkpbafmbpljpa",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "68ade63a18fc59f313c9189af4b8bae8559e7833e08e8ad8afe235955f251e21"
     },
     {
       "extension_id": "ppjnfdpomlboeahlcacaenjnhfjbhlcn",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "0ecefbbda5ad05110550c14612672cafbd6f64255352d9cfdaccd3ec589b2780"
     },
     {
       "extension_id": "pplibppgnmomfcnoclechnebccniooai",
       "source_url": "https://socket.dev/blog/chrome-vpn-extension-impersonation?utm_medium=feed",
-      "date_reported": null,
+      "date_reported": "2026-08-11",
       "date_added": "2026-08-17",
       "crx_sha256": "744eafa06e74235eee091aa827b88b18d953696198af251baf731af1def0dfd4"
     }
